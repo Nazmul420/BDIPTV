@@ -1,4 +1,80 @@
 #EXTM3U
+#EXTINF:0,ICC_BTV World
+http://103.205.133.50/hls/btvworld.m3u8
+#EXTINF: 0, ICC_BTV
+http://103.205.133.50/hls/btv.m3u8
+#EXTINF: 0, ICC_ATN Bangla
+http://103.205.133.50/hls/atnbangla.m3u8
+#EXTINF:0,ICC_Channel I
+http://103.205.133.50/hls/ichannel.m3u8
+#EXTINF:0,ICC_ATN News
+http://103.205.133.50/hls/atnnews.m3u8
+#EXTINF: 0, ICC_Banglavision
+http://103.205.133.50/hls/banglavision.m3u8
+#EXTINF: 0, ICC_Bangla TV
+http://103.205.133.50/hls/banglatv.m3u8
+#EXTINF: 0, ICC_Mohona Tv
+http://103.205.133.50/hls/mohonatv.m3u8
+#EXTINF:0,ICC_Channel 24
+http://103.205.133.50/hls/channel24.m3u8
+#EXTINF:0,ICC_DBC News
+http://103.205.133.50/hls/dbcnews.m3u8
+#EXTINF: 0, ICC_Ekushey TV
+http://103.205.133.50/hls/ekushey.m3u8
+#EXTINF: 0, ICC_Gaan Bangla
+http://103.205.133.50/hls/gaanbangla.m3u8
+#EXTINF: 0, ICC_JAMUNA TV
+http://103.205.133.50/hls/jamunatv.m3u8
+#EXTINF:0,ICC_ My TV
+http://103.205.133.50/hls/mytv.m3u8
+#EXTINF:0,ICC_News 24
+http://103.205.133.50/hls/news24.m3u8
+#EXTINF: 0, ICC_RTV
+http://103.205.133.50/hls/rtv.m3u8
+#EXTINF: 0, ICC_SATV
+http://103.205.133.50/hls/satv.m3u8
+#EXTINF:0,ICC_Star Jalsha
+http://103.205.133.50/hls/chsj.m3u8
+#EXTINF:0,ICC_ Zee Bangla
+http://103.205.133.50/hls/zeebangla.m3u8
+#EXTINF:0,ICC_Colors Bangla
+http://103.205.133.50/hls/etvbangla.m3u8
+#EXTINF: 0, ICC_Sony Aath
+http://103.205.133.50/hls/sony8.m3u8
+#EXTINF:0,ICC_Bangla Time
+http://103.205.133.50/hls/banglatime.m3u8
+#EXTINF: 0, ICC_Sangeet Bangla
+http://103.205.133.50/hls/sangeetbangla.m3u8
+#EXTINF:0,ICC_Dhoom Music
+http://103.205.133.50/hls/dhoommusic.m3u8
+#EXTINF:0,ICC_Colors
+http://103.205.133.50/hls/chc.m3u8
+#EXTINF:0,ICC_Sony Tv SD
+http://103.205.133.50/hls/chs.m3u8
+#EXTINF:0,ICC_Star Plus
+http://103.205.133.50/hls/chsp.m3u8
+#EXTINF: 0, ICC_Zee TV
+http://103.205.133.50/hls/zeetv.m3u8
+#EXTINF:0,ICC_& Pictures
+http://103.205.133.50/hls/andpicture.m3u8
+#EXTINF:0,ICC_ZEE CINEMA
+http://103.205.133.50/hls/zeecinema.m3u8
+#EXTINF:0,ICC_Mtv
+http://103.205.133.50/hls/chsm.m3u8
+#EXTINF: 0, ICC_9XM
+http://103.205.133.50/hls/9xm.m3u8
+#EXTINF:0,ICC_Wow Cinema
+http://103.205.133.50/hls/wowcinema.m3u8
+#EXTINF:0,ICC_Zee Salam
+http://103.205.133.50/hls/zeesalaam.m3u8
+#EXTINF:0,ICC_Sony Ten 1
+http://103.205.133.50/hls/ten1.m3u8
+#EXTINF:0,ICC_Sony Ten 2
+http://103.205.133.50/hls/ten2.m3u8
+#EXTINF:0,ICC_Sony Ten 3
+http://103.205.133.50/hls/ten3.m3u8
+#EXTINF:69,ICC_Star Sports 2
+http://103.205.133.50/hls/chss2.m3u8
 #EXTINF:48,EKUSHEY TV [BD]
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:0,NTV [BD]
@@ -251,7 +327,7 @@ https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_1500_av-p.m3u8
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8
 #EXTINF:0,Telefe Rosario
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
-#EXTINF:0,Color Visi
+#EXTINF:0,Color Visiﾃｳn
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/COV9.m3u8
 #EXTINF:0,LA 1
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8
@@ -498,13 +574,13 @@ https://stream.arylive.com/MusikLive/index.m3u8
 https://www.fanmingming.cn/hls/channelv.m3u8
 #EXTINF:0,MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:0,ﾓcko
+#EXTINF:0,ﾃ田ko
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_lq.m3u8
-#EXTINF:0,ﾓcko Expres
+#EXTINF:0,ﾃ田ko Expres
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8
-#EXTINF:0,ﾓcko Gold
+#EXTINF:0,ﾃ田ko Gold
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
-#EXTINF:0,ﾓcko STAR
+#EXTINF:0,ﾃ田ko STAR
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_lq.m3u8
 #EXTINF:0,RETRO MUSIC TV
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
@@ -544,79 +620,4 @@ http://103.102.136.106:8080/cmcltv/tcm_live4.m3u8
 http://103.102.136.106:8080/cmcltv/tcm_ten1.m3u8
 #EXTINF:0,Sony Ten 2
 http://103.102.136.106:8080/cmcltv/tcm_ten2.m3u8
-#EXTINF:0,ICC_BTV World
-http://103.205.133.50/hls/btvworld.m3u8
-#EXTINF:0,ICC_BTV
-http://103.205.133.50/hls/btv.m3u8
-#EXTINF:0,ICC_ATN Bangla
-http://103.205.133.50/hls/atnbangla.m3u8
-#EXTINF:0,ICC_Channel I
-http://103.205.133.50/hls/ichannel.m3u8
-#EXTINF:0,ICC_ATN News
-http://103.205.133.50/hls/atnnews.m3u8
-#EXTINF:0,ICC_Banglavision
-http://103.205.133.50/hls/banglavision.m3u8
-#EXTINF:0,ICC_Bangla TV
-http://103.205.133.50/hls/banglatv.m3u8
-#EXTINF:0,ICC_Mohona Tv
-http://103.205.133.50/hls/mohonatv.m3u8
-#EXTINF:0,ICC_Channel 24
-http://103.205.133.50/hls/channel24.m3u8
-#EXTINF:0,ICC_DBC News
-http://103.205.133.50/hls/dbcnews.m3u8
-#EXTINF:0,ICC_Ekushey TV
-http://103.205.133.50/hls/ekushey.m3u8
-#EXTINF:0,ICC_Gaan Bangla
-http://103.205.133.50/hls/gaanbangla.m3u8
-#EXTINF:0,ICC_JAMUNA TV
-http://103.205.133.50/hls/jamunatv.m3u8
-#EXTINF:0,ICC_ My TV
-http://103.205.133.50/hls/mytv.m3u8
-#EXTINF:0,ICC_News 24
-http://103.205.133.50/hls/news24.m3u8
-#EXTINF:0,ICC_RTV
-http://103.205.133.50/hls/rtv.m3u8
-#EXTINF:0,ICC_SATV
-http://103.205.133.50/hls/satv.m3u8
-#EXTINF:0,ICC_Star Jalsha
-http://103.205.133.50/hls/chsj.m3u8
-#EXTINF:0,ICC_ Zee Bangla
-http://103.205.133.50/hls/zeebangla.m3u8
-#EXTINF:0,ICC_Colors Bangla
-http://103.205.133.50/hls/etvbangla.m3u8
-#EXTINF:0,ICC_Sony Aath
-http://103.205.133.50/hls/sony8.m3u8
-#EXTINF:0,ICC_Bangla Time
-http://103.205.133.50/hls/banglatime.m3u8
-#EXTINF:0,ICC_Sangeet Bangla
-http://103.205.133.50/hls/sangeetbangla.m3u8
-#EXTINF:0,ICC_Dhoom Music
-http://103.205.133.50/hls/dhoommusic.m3u8
-#EXTINF:0,ICC_Colors
-http://103.205.133.50/hls/chc.m3u8
-#EXTINF:0,ICC_Sony Tv SD
-http://103.205.133.50/hls/chs.m3u8
-#EXTINF:0,ICC_Star Plus
-http://103.205.133.50/hls/chsp.m3u8
-#EXTINF:0,ICC_Zee TV
-http://103.205.133.50/hls/zeetv.m3u8
-#EXTINF:0,ICC_& Pictures
-http://103.205.133.50/hls/andpicture.m3u8
-#EXTINF:0,ICC_ZEE CINEMA
-http://103.205.133.50/hls/zeecinema.m3u8
-#EXTINF:0,ICC_Mtv
-http://103.205.133.50/hls/chsm.m3u8
-#EXTINF:0,ICC_9XM
-http://103.205.133.50/hls/9xm.m3u8
-#EXTINF:0,ICC_Wow Cinema
-http://103.205.133.50/hls/wowcinema.m3u8
-#EXTINF:0,ICC_Zee Salam
-http://103.205.133.50/hls/zeesalaam.m3u8
-#EXTINF:0,ICC_Sony Ten 1
-http://103.205.133.50/hls/ten1.m3u8
-#EXTINF:0,ICC_Sony Ten 2
-http://103.205.133.50/hls/ten2.m3u8
-#EXTINF:0,ICC_Sony Ten 3
-http://103.205.133.50/hls/ten3.m3u8
-#EXTINF:69,ICC_Star Sports 2
-http://103.205.133.50/hls/chss2.m3u8
+#EXTINF
