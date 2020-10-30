@@ -2,8 +2,7 @@
 #EXTINF:-1,..........................................................................................N  A Z M U L  WI-FI Z O N E..................................................................
 
 #EXTM3U
-#EXTINF:24,Titash.m3u8
-#EXTVLCOPT:network-caching=1000
+#EXTINF:24,Titash TV Sports HD
 https://116.202.165.122:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/live-orgin/titash.stream/chunks.m3u8
 
 #EXTM3U
