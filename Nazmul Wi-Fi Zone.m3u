@@ -1913,3 +1913,269 @@ https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
 
 #EXTINF:-1,Madani TV Bangla
 https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
+....................................................................................................................................
+#EXTM3U
+#EXTINF:-1,Star Jalsha
+https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
+
+#EXTINF:-1,Colors Bangla
+https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
+
+#EXTINF:-1,Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+
+#EXTINF:-1,MTV Europe
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:-1,NHKWorld Japan
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_2M.m3u8
+
+#EXTINF:-1,NBC News
+https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
+
+#EXTINF:-1,DW
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Sky News
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+
+#EXTINF:-1,ET Now
+http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
+
+#EXTINF:-1,Times Now
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
+
+#EXTINF:-1,ITV1 UK
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+
+#EXTINF:-1,Pop Pataka
+https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8
+
+#EXTINF:-1,Bloomberg Asia
+https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
+
+#EXTINF:-1,Bloomberg US
+http://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
+
+#EXTINF:-1,Bloomberg Europe
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+
+#EXTINF:-1,Bloomberg Australia
+https://liveprodapnortheast.akamaized.net/btv/desktop/aus_live.m3u8
+
+#EXTINF:-1,News Max
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1,CBSN
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1,NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+
+#EXTINF:-1,DD News
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+
+#EXTINF:-1,Bollywood Classic
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
+
+#EXTINF:-1,Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1,TV5 Style
+https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
+
+#EXTINF:-1,TV5Monde Info
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
+
+#EXTINF:-1,TV5Monde Pacifique
+https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
+
+#EXTINF:-1,TV5Monde Asie
+https://tv5asieen-i.akamaihd.net/hls/live/631617/tv5asieen/index.m3u8
+
+#EXTINF:-1,TV5Monde Asie RU
+https://tv5asieru-i.akamaihd.net/hls/live/651800/tv5asieru/index.m3u8
+
+#EXTINF:-1,TV5Monde Asie France
+https://tv5asiehls-i.akamaihd.net/hls/live/630201/tv5asiehls/index.m3u8
+
+#EXTINF:-1,BFM TV
+https://bcovlive-a.akamaihd.net/fb3647b53c1a4c278eaecf83230ee4c5/eu-central-1/876450610001/profile_0/chunklist.m3u8
+
+#EXTINF:-1,Ant1
+https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_1500_av-p.m3u8
+
+#EXTINF:-1,Ditty TV
+https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
+
+#EXTINF:-1,Discovery Realtime
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
+
+#EXTINF:-1,Discovery Giallo
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
+
+#EXTINF:-1,Discovery Nove
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
+
+#EXTINF:-1,Deejay TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
+
+#EXTINF:-1,Alif TV
+http://128.199.212.160/alif/1080/index.m3u8
+
+#EXTINF:-1,Bangla Channel
+http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,ITV Bangla
+http://162.244.81.142:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1,AXN
+http://210.210.155.35/uq2663/h/h141/01.m3u8
+
+#EXTINF:-1,Cinema World
+http://45.126.83.51/uq2663/h/h04/index.m3u8
+
+#EXTINF:-1,Fight Sports
+http://45.126.83.51/uq2663/h/h05/index.m3u8
+
+#EXTINF:-1,KIX
+http://45.126.83.51/uq2663/h/h07/01.m3u8
+
+#EXTINF:-1,NHK World Japan
+http://45.126.83.51/uq2663/h/h23/index.m3u8
+
+#EXTINF:-1,Hits
+http://45.126.83.51/uq2663/h/h37/index.m3u8
+
+#EXTINF:-1,Aniplus
+http://45.126.83.51/dr9445/h/h02/index.m3u8
+
+#EXTINF:-1,AXN
+http://45.126.83.51/dr9445/h/h09/index.m3u8
+
+#EXTINF:-1,E!
+http://45.126.83.51/dr9445/h/h10/index.m3u8
+
+#EXTINF:-1,Blue Ant Extreme
+http://45.126.83.51/dr9445/h/h15/index.m3u8
+
+#EXTINF:-1,Blue Ant Entertainment
+http://45.126.83.51/dr9445/h/h16/index.m3u8
+
+#EXTINF:-1,AnTV
+http://45.126.83.51/qwr9ew/s/s07/index.m3u8
+
+#EXTINF:-1,Al Jazeera
+http://45.126.83.51/qwr9ew/s/s17/index.m3u8
+
+#EXTINF:-1,RT News
+http://45.126.83.51/qwr9ew/s/s23/index.m3u8
+
+#EXTINF:-1,TBN Asia
+http://45.126.83.51/qwr9ew/s/s39/index.m3u8
+
+#EXTINF:-1,V Channel
+http://45.126.83.51/qwr9ew/s/s41/index.m3u8
+
+#EXTINF:-1,GTV
+http://cdn.banglatv.xyz/beeiptv-stb/gazitv/chunks.m3u8
+
+#EXTINF:-1,SATV
+http://cdn.banglatv.xyz/beeiptv-stb/satv/chunks.m3u8
+
+#EXTINF:-1,Asian TV
+http://cdn.banglatv.xyz/beeiptv-stb/asian/chunks.m3u8
+
+#EXTINF:-1,ATN Bangla
+http://cdn.banglatv.xyz/beeiptv-stb/atnbangla/chunks.m3u8
+
+#EXTINF:-1,ATN News
+http://cdn.banglatv.xyz/beeiptv-stb/atnnews/chunks.m3u8
+
+#EXTINF:-1,Banglavision
+http://cdn.banglatv.xyz/beeiptv-stb/banglavision/chunks.m3u8
+
+#EXTINF:-1,Bangla TV
+http://cdn.banglatv.xyz/beeiptv-stb/banglatv/chunks.m3u8
+
+#EXTINF:-1,Boishakhi
+http://cdn.banglatv.xyz/beeiptv-stb/boishakhi/chunks.m3u8
+
+#EXTINF:-1,BTV
+http://cdn.banglatv.xyz/beeiptv-stb/btv/chunks.m3u8
+
+#EXTINF:-1,Channel 9
+http://cdn.banglatv.xyz/beeiptv-stb/channel9/chunks.m3u8
+
+#EXTINF:-1,CHANNEL 24
+http://cdn.banglatv.xyz/beeiptv-stb/channel24/chunks.m3u8
+
+#EXTINF:-1,Channel I
+http://cdn.banglatv.xyz/beeiptv-stb/channeli/chunks.m3u8
+
+#EXTINF:-1,DBC News
+http://cdn.banglatv.xyz/beeiptv-stb/dbcnews/chunks.m3u8
+
+#EXTINF:-1,Deepto TV
+http://cdn.banglatv.xyz/beeiptv-stb/deepto/chunks.m3u8
+
+#EXTINF:-1,Ekattor
+http://cdn.banglatv.xyz/beeiptv-stb/ekattor/chunks.m3u8
+
+#EXTINF:-1,Ekushey TV
+http://cdn.banglatv.xyz/beeiptv-stb/ekushey/chunks.m3u8
+
+#EXTINF:-1,Gaan Bangla
+http://cdn.banglatv.xyz/beeiptv-stb/gaanbangla/chunks.m3u8
+
+#EXTINF:-1,Independent
+http://cdn.banglatv.xyz/beeiptv-stb/independent/chunks.m3u8
+
+#EXTINF:-1,JAMUNA TV
+http://cdn.banglatv.xyz/beeiptv-stb/jamuna/chunks.m3u8
+
+#EXTINF:-1,Maasranga
+http://cdn.banglatv.xyz/beeiptv-stb/maasranga/chunks.m3u8
+
+#EXTINF:-1,MOHONA TV
+http://cdn.banglatv.xyz/beeiptv-stb/mohona/chunks.m3u8
+
+#EXTINF:-1,MY TV
+http://cdn.banglatv.xyz/beeiptv-stb/mytv/chunks.m3u8
+
+#EXTINF:-1,News 24
+http://cdn.banglatv.xyz/beeiptv-stb/news24/chunks.m3u8
+
+#EXTINF:-1,Shomoy TV
+http://cdn.banglatv.xyz/beeiptv-stb/somoy/chunks.m3u8
+
+#EXTINF:-1,RTV
+http://cdn.banglatv.xyz/beeiptv-stb/rtv/chunks.m3u8
+
+#EXTINF:-1,NTV
+http://cdn.banglatv.xyz/beeiptv-stb/ntv/chunks.m3u8
+
+#EXTINF:-1,Zee Bangla
+http://cdn.banglatv.xyz/beeiptv-stb/zeebangla/chunks.m3u8
+
+#EXTINF:-1,Star Jalsha
+http://cdn.banglatv.xyz/beeiptv-stb/starjalsha/chunks.m3u8
+
+#EXTINF:-1,Jalsha Movies
+http://cdn.banglatv.xyz/beeiptv-stb/jalshamovies/chunks.m3u8
+
+#EXTINF:-1,Sony Ten 1 HD
+http://cdn.banglatv.xyz/beeiptv-stb/ten1/chunks.m3u8
+
+#EXTINF:-1,PTV Sports
+http://cdn.banglatv.xyz/beeiptv-stb/ptv/chunks.m3u8
+
+#EXTINF:-1,Sony Max HD
+http://cdn.banglatv.xyz/beeiptv-stb/sonymax/chunks.m3u8
+
+#EXTINF:-1,Colors HD
+http://cdn.banglatv.xyz/beeiptv-stb/colors/chunks.m3u8
+
+#EXTINF:-1,Discovery SD Hindi
+http://cdn.banglatv.xyz/beeiptv-stb/discovery/chunks.m3u8
+....................................................................................................................................
