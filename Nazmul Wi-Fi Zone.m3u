@@ -17,9 +17,6 @@ http://103.205.133.50/hls/atnnews.m3u8
 #EXTINF:-1,Nazmul_Banglavision
 http://103.205.133.50/hls/banglavision.m3u8
 
-#EXTINF:-1,Nazmule_Bangla TV
-http://103.205.133.50/hls/banglatv.m3u8
-
 #EXTINF:-1,Nazmul_Mohona Tv
 http://103.205.133.50/hls/mohonatv.m3u8
 
@@ -125,23 +122,11 @@ http://103.205.133.50/hls/deeptotv.m3u8
 #EXTINF:-1,NAGORIK TV HD [BD]
 http://103.205.133.50/hls/nagorik.m3u8
 
-#EXTINF:-1,Star Jalsha SD [IN]
-http://103.102.136.106:8080/cmcltv/tcm_starjalshacm.m3u8
-
 #EXTINF:-1,Star Jalsha HD [IN] (2)
 https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
 
-#EXTINF:-1,Zee Bangla SD [IN] (2)
-http://103.102.136.106:8080/cmcltv/tcm_zeebanglacm.m3u8
-
-#EXTINF:-1,Colors Bangla SD [IN]
-http://103.102.136.106:8080/cmcltv/tcm_colorsbanglacm.m3u8
-
 #EXTINF:-1,Colors Bangla HD [IN]
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
-
-#EXTINF:-1,Sony Aath [IN] (1)
-http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8
 
 #EXTINF:-1,Akash Aath [IN]
 https://load.airtelxstream.in/aakashaath/smil:common.smil/chunklist.m3u8
@@ -1133,9 +1118,6 @@ https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x
 #EXTINF:-1,#EXTINF:-1 83.News 18 Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 
-#EXTINF:-1,#EXTINF:-1 92.Zee TV HD USA
-http://z5amshls.akamaized.net/ztvhdusa/tracks-v1a1/index.m3u8
-
 #EXTINF:-1,#EXTINF:-1 93.Zee TV HD Canada
 http://z5amshls.akamaized.net/canadahd/tracks-v1a1/index.m3u8
 
@@ -1228,9 +1210,6 @@ http://akaram.zecast.net/akaram-live/akaramnew2/index.m3u8
 
 #EXTINF:-1,Akaram TV
 http://akaram.zecast.net/akaram-live/akaramnew2/playlist.m3u8
-
-#EXTINF:-1,Ayush TV
-http://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 
 #EXTINF:-1,Boogle Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
@@ -1442,9 +1421,6 @@ https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8?checkedby:
 #EXTINF:-1,Hum News
 http://95.211.211.168/live/humnews0189/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,PakUs TV
-https://livestream.5centscdn.com/pakustv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8?checkedby:iptvcat.com
-
 #EXTINF:-1,Zindagi TV
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8?checkedby:iptvcat.com
 
@@ -1483,9 +1459,6 @@ http://cdn.banglatv.xyz/beeiptv-stb/atnnews/chunks.m3u8
 
 #EXTINF:-1,Banglavision
 http://cdn.banglatv.xyz/beeiptv-stb/banglavision/chunks.m3u8
-
-#EXTINF:-1,Bangla TV
-http://cdn.banglatv.xyz/beeiptv-stb/banglatv/chunks.m3u8
 
 #EXTINF:-1,Boishakhi
 http://cdn.banglatv.xyz/beeiptv-stb/boishakhi/chunks.m3u8
