@@ -1,9 +1,8 @@
+#EXTM3U
 #EXTINF:-1,IPL Live 2020
 http://mtv.sports.bdfun.club/live/my-stream-key/index.m3u8
 #EXTINF:-1,beIN Sports XTRA
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
-#EXTINF:-1,Nazmul_Haji Live On
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah-avc1_600000=4-mp4a_97200=2-begin=1842706331600000-dur=60000000-seq=30711773.ts
 #EXTINF:-1,Nazmul_Sony Max
 https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist_b896000_sleng.m3u8
 #EXTINF:-1,Nazmul Zee Bangla Cinema
@@ -100,10 +99,6 @@ http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
 http://103.205.133.50/hls/btv.m3u8
 #EXTINF:-1,2.Ekattor
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/11.m3u8
-#EXTINF:-1,3.GTV HD [1]
-http://103.132.180.245:8080/2/index.m3u8
-#EXTINF:-1,3.GTV HD [2]
-http://103.132.180.245:8080/2/index.m3u8
 #EXTINF:-1,4.DBC News
 http://103.205.133.50/hls/dbcnews.m3u8
 #EXTINF:-1,5.News 24
@@ -220,8 +215,6 @@ http://103.205.133.50/hls/sony8.m3u8
 http://103.205.133.50/hls/chs.m3u8
 #EXTINF:-1,106.Sony Max HD [1]
 http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
-#EXTINF:-1,108.Sony Sab [1]
-http://dx3.gcdn.co/hindi-SONYSABHD/index.m3u8
 #EXTINF:-1,110.Star Jalsha
 http://103.205.133.50/hls/chsj.m3u8
 #EXTINF:-1,111.Star Jalsha HD [3]
@@ -450,8 +443,6 @@ http://dx3.gcdn.co/hindi-STARPLUSindia/index.m3u8
 http://dx3.gcdn.co/hindi-STARBHARATHD/index.m3u8
 #EXTINF:-1,Sony HD
 http://dx3.gcdn.co/hindi-SONYHD/index.m3u8
-#EXTINF:-1,Sony SAB HD
-http://dx3.gcdn.co/hindi-SONYSABHD/index.m3u8
 #EXTINF:-1,Sony Pal
 http://dx3.gcdn.co/hindi-SONYPAL/index.m3u8
 #EXTINF:-1,Colors HD
@@ -848,8 +839,6 @@ https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
 #EXTINF:-1,Punjabi Tadka
 http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
-#EXTINF:-1,Punjabi TV
-http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
 #EXTINF:-1,Puthuyugam TV
 http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
 #EXTINF:-1,RSTV RajyaSabha
@@ -1154,8 +1143,6 @@ http://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8
 http://51.75.95.11:5080/LiveApp/streams/962725995284705956438804.m3u8
 #EXTINF:-1,Nav Media
 http://abr.wmncdn.net/abr/612a5eb791b43209a8eccdde569e8ee1.m3u8
-#EXTINF:-1,Prudent Media
-https://5a9fe19ea6821.streamlock.net/prudentmedia/livestream3/chunklist_w2110152999.m3u8
 #EXTINF:-1,Rosebowl
 https://acv.asianetmobiletvplus.com/webstreams/ef22daf97d61acb4bf52376c4105ad02.smil/playlist.m3u8
 #EXTINF:-1,Sardari TV
@@ -1242,8 +1229,6 @@ http://live.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/index.m3u8
 http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Hulchul TV
 http://cdn12.henico.net:8080/live/jbani/index.m3u8
-#EXTINF:-1,FastWay
-http://fastway.ddns.net:6421/fastway/live10/index.m3u8?
 #EXTINF:-1,92 News
 http://92news.vdn.dstreamone.net/92newshd/92hd_160p/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,92 News
