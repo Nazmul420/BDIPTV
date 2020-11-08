@@ -205,8 +205,6 @@ https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1,89.Animax
 http://45.126.83.51/dr9445/h/h144/01.m3u8
-#EXTINF:-1,90.Mr Bean Show
-https://www.dropbox.com/s/86zww54vybbqipw/Mr.%20Bean.mp4?raw=1
 #EXTINF:-1,91.AniPlus
 http://210.210.155.35/dr9445/h/h02/01.m3u8
 #EXTINF:-1,92.EBS Kids
@@ -293,8 +291,6 @@ http://live-ng-01.more.tv/hls/Fox_Life_HD/master.m3u8
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1,141.Fox HD [Russia]
 http://live-ng-01.more.tv/hls/FOX_HD/index_2.m3u8
-#EXTINF:-1,142.AXN
-http://136.243.177.164/AXN/playlist.m3u8
 #EXTINF:-1,143.HBO [3]
 http://ctgiptv.kitv.live:1935/live/test/test1/45.m3u8
 #EXTINF:-1,143.HBO Hits
@@ -335,22 +331,16 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1,167.Dubai Sports 1
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1
-#EXTINF:-1,168.WWE Network
-http://cdnak19.cast4u.info/channels/4/10804.m3u8
 #EXTINF:-1,169.Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
 #EXTINF:-1,171.Cinemax
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
-#EXTINF:-1,172.24 Box TV
-http://51.158.190.97/hls/stream.m3u8
 #EXTINF:-1,173.Al Fajer Movie
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 #EXTINF:-1,174.Deejay TV
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
 #EXTINF:-1,175.Hits
 http://45.126.83.51/uq2663/h/h37/index.m3u8
-#EXTINF:-1,176.Wixlar
-http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 #EXTINF:-1,177.RU.TV
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
 #EXTINF:-1,178.Thrill
@@ -491,8 +481,6 @@ https://y5w8j4a9.ssl.hwcdn.net/cinemauk/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/index.m3u8
 #EXTINF:-1,Zee Cinema HD
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
-#EXTINF:-1,Zee Bollywood
-https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 #EXTINF:-1,Zee Action
 https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
 #EXTINF:-1,Zee Anmol Cinema
@@ -541,8 +529,6 @@ https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
 #EXTINF:-1,& Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
-#EXTINF:-1,24 Box TV
-http://51.158.190.97/hls/stream.m3u8?@amarnettv.live
 #EXTINF:-1,AlFajer MOVIE
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8?@amarnettv.live
 #EXTINF:-1,BritCom
@@ -1089,8 +1075,6 @@ http://cdn11.live247stream.com/tag/tv/playlist.m3u8
 https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
 #EXTINF:-1,#EXTINF:-1 239.Jhanjar HD
 http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
-#EXTINF:-1,#EXTINF:-1 279.Wixlar
-http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 #EXTINF:-1,#EXTINF:-1 281.Thrill
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1,#EXTINF:-1 282.MTA English
@@ -1371,8 +1355,6 @@ http://162.244.81.142:1935/live/livestream/playlist.m3u8?@amarnettv.live
 http://128.199.212.160/channelt1/1080/index.m3u8?@amarnettv.live
 #EXTINF:-1,Artv Network [BD]
 https://m6gdakveln93-hls-live.5centscdn.com/ARTVN/d0dbe915091d400bd8ee7f27f0791303.sdp/ARTVN/d0dbe915091d400bd8ee7f27f0791303.sdp1/chunks.m3u8
-#EXTINF:-1,Ayna IPTV [BD]
-http://str24.l9574.com/510.stream/tracks-v1a1/index.m3u8
 #EXTINF:-1,Probasi Bangla [BD]
 http://163.172.29.246:8081/globalbd/probashi_bangla/chunks.m3u8
 #EXTINF:-1,Ktv bangla HD [BD]
@@ -1477,8 +1459,6 @@ http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/cinemauk
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeecinemame/index.m3u8
 #EXTINF:-1,Zee Cinema HD
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zcinemahd/index.m3u8
-#EXTINF:-1,Zee Bollywood
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/classic/index.m3u8
 #EXTINF:-1,Zee Action
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/action/index.m3u8
 #EXTINF:-1,Zee Anmol Cinema
@@ -1529,8 +1509,6 @@ http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1,Cinemax
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
-#EXTINF:-1,24 Box TV
-http://51.158.190.97/hls/stream.m3u8?@amarnettv.live
 #EXTINF:-1,Cinema World
 http://45.126.83.51/uq2663/h/h04/index.m3u8?@amarnettv.live
 #EXTINF:-1,Cine Film
@@ -1579,8 +1557,6 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_s
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8?@amarnettv.live
 #EXTINF:-1,Iqraa
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
-#EXTINF:-1,QTV Bangla
-https://qtvbangla-hls.telelivebd.com/QTV/qtv.m3u8
 #EXTINF:-1,Ary Q tv
 https://stream.arylive.com/QtvLive/tracks-v1a1/mono.m3u8
 #EXTINF:-1,MTA 1 English
@@ -1645,8 +1621,6 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1,Abu Dhabi Sports 4
 http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1,WWE Network
-http://cdnak19.cast4u.info/channels/4/10804.m3u8?@amarnettv.live
 #EXTINF:-1,Fight Sports
 http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8?@amarnettv.live
 #EXTINF:-1,Bek Sports East
