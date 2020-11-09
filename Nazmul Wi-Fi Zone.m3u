@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,IPL Live 
+#EXTINF:-1,IPL Live
 http://103.132.180.245:8080/2/index.m3u8
 #EXTINF:-1,IPL Live 1
 http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
@@ -7,8 +7,6 @@ http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
 #EXTINF:-1,IPL Live 2020
 http://mtv.sports.bdfun.club/live/my-stream-key/index.m3u8
-#EXTINF:-1,Star Sports 2
-http://bdiptv.myftp.biz:25461/live/IPLPROBALTV/PROBALTV/11629.m3u8
 #EXTINF:-1,beIN Sports XTRA
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 #EXTINF:-1,Al Khalij
@@ -409,8 +407,6 @@ https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8?
 https://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/index_3000_av-p.m3u8
 #EXTINF:-1,212.HD Fashion & LifeStyle
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1,213.ID Fashion
-https://sc.id-tv.kz/IDFashion_38_39.m3u8
 #EXTINF:-1,214.Britcom
 https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
 #EXTINF:-1,215.Cbbc
@@ -597,8 +593,6 @@ https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 http://rt-doc.secure.footprint.net:80/1101_2500Kb.m3u8?@amarnettv.live
 #EXTINF:-1,Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
-#EXTINF:-1,ID Fashion
-https://sc.id-tv.kz/IDFashion_38_39.m3u8?@amarnettv.live
 #EXTINF:-1,Saudi Sunnah
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
 #EXTINF:-1,Saudi Quran
@@ -971,8 +965,6 @@ http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8?checkedby:iptvcat.com
 https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/index_150_av-p.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Tag TV
 http://cdn11.live247stream.com/tag/tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,Channel-S
-https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
 #EXTINF:-1,Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1,NHKWorld Japan
@@ -1249,16 +1241,12 @@ http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8
 http://162.244.81.142:1935/live/livestream/playlist.m3u8
 #EXTINF:-1,SATV
 http://cdn.banglatv.xyz/beeiptv-stb/satv/chunks.m3u8
-#EXTINF:-1,Asian TV
-http://cdn.banglatv.xyz/beeiptv-stb/asian/chunks.m3u8
 #EXTINF:-1,ATN Bangla
 http://cdn.banglatv.xyz/beeiptv-stb/atnbangla/chunks.m3u8
 #EXTINF:-1,Banglavision
 http://cdn.banglatv.xyz/beeiptv-stb/banglavision/chunks.m3u8
 #EXTINF:-1,Boishakhi
 http://cdn.banglatv.xyz/beeiptv-stb/boishakhi/chunks.m3u8
-#EXTINF:-1,BTV
-http://cdn.banglatv.xyz/beeiptv-stb/btv/chunks.m3u8
 #EXTINF:-1,Channel 9
 http://cdn.banglatv.xyz/beeiptv-stb/channel9/chunks.m3u8
 #EXTINF:-1,CHANNEL 24
@@ -1267,8 +1255,6 @@ http://cdn.banglatv.xyz/beeiptv-stb/channel24/chunks.m3u8
 http://cdn.banglatv.xyz/beeiptv-stb/channeli/chunks.m3u8
 #EXTINF:-1,DBC News
 http://cdn.banglatv.xyz/beeiptv-stb/dbcnews/chunks.m3u8
-#EXTINF:-1,Deepto TV
-http://cdn.banglatv.xyz/beeiptv-stb/deepto/chunks.m3u8
 #EXTINF:-1,Ekattor
 http://cdn.banglatv.xyz/beeiptv-stb/ekattor/chunks.m3u8
 #EXTINF:-1,Ekushey TV
@@ -1415,8 +1401,6 @@ http://51.52.156.22:8888/http/007
 http://203.154.243.89:1423
 #EXTINF:-1,Cine Series
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8?@amarnettv.live
-#EXTINF:-1,HUM TV HD
-http://125.209.99.45:43568/BRN/HumTV.stream/playlist.m3u8
 #EXTINF:-1,Ary Family
 http://95.211.211.168/live/aryfamily0071/playlist.m3u8
 #EXTINF:-1,HUMRAZ TV
@@ -1507,8 +1491,6 @@ http://live-ng-01.more.tv/hls/ViP_Premiere_HD/master.m3u8?@amarnettv.live
 http://live-ng-01.more.tv/hls/ViP_Megahit_HD/master.m3u8?@amarnettv.live
 #EXTINF:-1,ViP Comedy HD
 http://live-ng-01.more.tv/hls/ViP_Comedy_HD/master.m3u8?@amarnettv.live
-#EXTINF:-1,Amedia Hit HBO
-http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8
 #EXTINF:-1,RED HBO HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1,Cinemax
@@ -1533,8 +1515,6 @@ http://live-ng-01.more.tv/hls/Viasat_Nature_HD/master.m3u8
 http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8?@amarnettv.live
 #EXTINF:-1,NAT GEO HD [ABU DHABI]
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-#EXTINF:-1,NAT GEO WILD HD [RUSSIA]
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8?@amarnettv.live
 #EXTINF:-1,Discovery HD [BANGLA]
 http://iptv.kitv.live:1935/live/Shari/MTV-P/61.m3u8
 #EXTINF:-1,BBC Lifestyle
@@ -1551,8 +1531,6 @@ http://live-ng-01.more.tv/hls/Viasat_Explore_HD/master.m3u8
 http://rt-doc.secure.footprint.net:80/1101_2500Kb.m3u8?@amarnettv.live
 #EXTINF:-1,Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
-#EXTINF:-1,ID Fashion
-https://sc.id-tv.kz/IDFashion_38_39.m3u8?@amarnettv.live
 #EXTINF:-1,Saudi Quran
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
 #EXTINF:-1,Saudi Sunnah
