@@ -73,8 +73,6 @@ http://103.205.133.50/hls/etvbangla.m3u8
 http://103.205.133.50/hls/sony8.m3u8
 #EXTINF:-1,Nazmul_Bangla Time
 http://103.205.133.50/hls/banglatime.m3u8
-#EXTINF:-1,Nazmul Sangeet Bangla
-http://103.205.133.50/hls/sangeetbangla.m3u8
 #EXTINF:-1,Nazmul_Dhoom Music
 http://103.205.133.50/hls/dhoommusic.m3u8
 #EXTINF:-1,Nazmul_Colors
@@ -251,8 +249,6 @@ http://103.205.133.50/hls/chsp.m3u8
 http://dx3.gcdn.co/hindi-STARPLUSHD/index.m3u8
 #EXTINF:-1,115.Star Bharat HD
 http://dx3.gcdn.co/hindi-STARBHARATHD/index.m3u8
-#EXTINF:-1,120.Sangeet Bangla
-http://103.205.133.50/hls/sangeetbangla.m3u8
 #EXTINF:-1,121.9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1,122.Music India
@@ -421,8 +417,6 @@ http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 http://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/master.m3u8
 #EXTINF:-1,220.Sahar Urdu*
 https://bozztv.com/36bay2/gin/giniko_saharurdu_800kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,221.Subrang TV
-https://cdn20.liveonlineservices.com/hls/subrang.m3u8
 #EXTINF:-1,222.Tag TV 1
 http://cdn11.live247stream.com/tag/tv/playlist.m3u8
 #EXTINF:-1,223.Tag TV 2
@@ -835,8 +829,6 @@ http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
 http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
 #EXTINF:-1,RSTV RajyaSabha
 http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
-#EXTINF:-1,Subrang TV
-http://cdn61.liveonlineservices.com/hls/subrang.m3u8
 #EXTINF:-1,Suvarna News 24×7
 https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
 #EXTINF:-1,Thanthi TV
@@ -881,8 +873,6 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8?sd=10
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 #EXTINF:-1,92 UK
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1,Subrang TV (USA)
-http://cdn61.liveonlineservices.com/hls/subrang.m3u8?fluxustv.m3u8
 #EXTINF:-1,ESPN 2
 https://gma2.blab.email/espn2.m3u8
 #EXTINF:-1,ESPN News
@@ -1063,8 +1053,6 @@ http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 #EXTINF:-1,222.Kay 2
 http://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/master.m3u8
-#EXTINF:-1,224.Subrang TV
-https://cdn20.liveonlineservices.com/hls/subrang.m3u8
 #EXTINF:-1,225.Tag TV 1
 http://cdn11.live247stream.com/tag/tv/playlist.m3u8
 #EXTINF:-1,226.Tag TV 2
@@ -1747,75 +1735,3 @@ http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1,RU.TV
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
-#EXTINF:-1,SKY SPORTS ACTION HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/99699?checkedby:hlscat.com
-#EXTINF:-1,SKY SPORTS ARENA HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/99700?checkedby:hlscat.com
-#EXTINF:-1,SKY SPORTS CRICKET
-http://mains.vip:2086/craigg/1Lurn7m3F1/51106?checkedby:hlscat.com
-#EXTINF:-1,SKY SPORTS CRICKET
-http://185.232.53.5:2086/arellano/kgtL965n2Y/51106?checkedby:hlscat.com
-#EXTINF:-1,SKY SPORTS CRICKET FHD
-http://exodus1.eu:8080/blue123/blue123/501175?checkedby:hlscat.com
-#EXTINF:-1,SKY SPORTS CRICKET SD
-http://exodus1.eu:8080/blue123/blue123/501173?checkedby:hlscat.com
-#EXTINF:-1,SKY SPORTS F1
-http://mains.vip:2086/craigg/1Lurn7m3F1/67056?checkedby:hlscat.com
-#EXTINF:-1,SKY SPORTS F1
-http://185.232.53.5:2086/arellano/kgtL965n2Y/67056?checkedby:hlscat.com
-#EXTINF:-1,SKY SPORTS F1 FHD
-http://exodus1.eu:8080/blue123/blue123/501180?checkedby:hlscat.com
-#EXTINF:-1,SKY SPORTS F1 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/99698?checkedby:hlscat.com
-#EXTINF:-1,SKY SPORTS F1 SD
-http://exodus1.eu:8080/blue123/blue123/501178?checkedby:hlscat.com
-#EXTINF:-1,SKY SPORTS FOOTBALL FHD
-http://exodus1.eu:8080/blue123/blue123/501185?checkedby:hlscat.com
-#EXTINF:-1,SKY SPORTS FOOTBALL HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/99695?checkedby:hlscat.com
-#EXTINF:-1,SKY SPORTS FOOTBALL SD
-http://exodus1.eu:8080/blue123/blue123/501183?checkedby:hlscat.com
-#EXTINF:-1,SKY SPORTS GOLF
-http://185.232.53.5:2086/arellano/kgtL965n2Y/67059?checkedby:hlscat.com
-#EXTINF:-1,SKY SPORTS GOLF FHD
-http://exodus1.eu:8080/blue123/blue123/501190?checkedby:hlscat.com
-#EXTINF:-1,SKY SPORTS GOLF HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/99697?checkedby:hlscat.com
-#EXTINF:-1,SKY SPORTS GOLF SD
-http://exodus1.eu:8080/blue123/blue123/501188?checkedby:hlscat.com
-#EXTINF:-1,SKY SPORTS MAIN EVENT FHD
-http://exodus1.eu:8080/blue123/blue123/501195?checkedby:hlscat.com
-#EXTINF:-1,SKY SPORTS MAIN EVENT HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/99693?checkedby:hlscat.com
-#EXTINF:-1,SKY SPORTS MAIN EVENT SD
-http://exodus1.eu:8080/blue123/blue123/501193?checkedby:hlscat.com
-#EXTINF:-1,SKY SPORTS MIX FHD
-http://exodus1.eu:8080/blue123/blue123/501200?checkedby:hlscat.com
-#EXTINF:-1,SKY SPORTS MIX HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/99701?checkedby:hlscat.com
-#EXTINF:-1,SKY SPORTS MIX SD
-http://exodus1.eu:8080/blue123/blue123/501198?checkedby:hlscat.com
-#EXTINF:-1,SKY SPORTS NEWS FHD
-http://exodus1.eu:8080/blue123/blue123/501210?checkedby:hlscat.com
-#EXTINF:-1,SKY SPORTS NEWS HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/99703?checkedby:hlscat.com
-#EXTINF:-1,SKY SPORTS NEWS SD
-http://exodus1.eu:8080/blue123/blue123/501208?checkedby:hlscat.com
-#EXTINF:-1,SKY SPORTS NFL FHD
-http://exodus1.eu:8080/blue123/blue123/501205?checkedby:hlscat.com
-#EXTINF:-1,SKY SPORTS NFL SD
-http://exodus1.eu:8080/blue123/blue123/501203?checkedby:hlscat.com
-#EXTINF:-1,SKY SPORTS PL HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/99694?checkedby:hlscat.com
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE FHD
-http://exodus1.eu:8080/blue123/blue123/501215?checkedby:hlscat.com
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE SD
-http://exodus1.eu:8080/blue123/blue123/501213?checkedby:hlscat.com
-#EXTINF:-1,SKY SPORTS RACING
-http://mains.vip:2086/craigg/1Lurn7m3F1/47763?checkedby:hlscat.com
-#EXTINF:-1,SKY SPORTS RACING FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30352?checkedby:hlscat.com
-#EXTINF:-1,SKY SPORTS RACING FHD
-http://exodus1.eu:8080/blue123/blue123/501220?checkedby:hlscat.com
-#EXTINF:-1,SKY SPORTS RACING SD
-http://exodus1.eu:8080/blue123/blue123/501218?checkedby:hlscat.com
