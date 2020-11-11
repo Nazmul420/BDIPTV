@@ -1,18 +1,10 @@
 #EXTM3U
-#EXTINF:-1,IPL Live
-http://103.205.133.21/hls/sony8.m3u8
-#EXTINF:-1,IPL Live 1
-http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
 #EXTINF:-1,T Sports
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
-#EXTINF:-1,IPL Live 2020
+#EXTINF:-1,lIVE Match
 http://mtv.sports.bdfun.club/live/my-stream-key/index.m3u8
 #EXTINF:-1,beIN Sports XTRA
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
-#EXTINF:-1,Al Khalij
-https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:-1,Al Khalij
-http://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:-1,Al Quran Al Kareem (Mecca)
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8?checkedby:hlscat.com
 #EXTINF:-1,Quran
@@ -27,14 +19,8 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:-1,Iqraa Europe Africa
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:-1,Jasco Events TV
-http://82.212.74.100:8000/live/hls/8131.m3u8?checkedby:hlscat.com
 #EXTINF:-1,Makkah TV
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:-1,Saudi TV 1
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8?checkedby:hlscat.com
-#EXTINF:-1,Saudi TV 1
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8?checkedby:hlscat.com
 #EXTINF:-1,Nazmul_BTV World
 http://103.205.133.21/hls/btvworld.m3u8
 #EXTINF:-1,Nazmul BTV
@@ -69,6 +55,8 @@ http://103.205.133.21/hls/zeebangla.m3u8
 http://103.205.133.21/hls/etvbangla.m3u8
 #EXTINF:-1,Nazmul_Sony Aath
 http://103.205.133.21/hls/sony8.m3u8
+#EXTINF:-1,Nazmul_SONY Tv
+http://103.205.133.21/hls/chs.m3u8
 #EXTINF:-1,Nazmul_Bangla Time
 http://103.205.133.21/hls/banglatime.m3u8
 #EXTINF:-1,Nazmul_Dhoom Music
