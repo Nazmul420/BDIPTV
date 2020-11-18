@@ -26,135 +26,6 @@ https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8?ch
 #EXTINF:-1,Makkah TV
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8?checkedby:hlscat.com
 
-#EXTINF:-1,JAGO_Sangsad TV [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
-
-#EXTINF:-1,JAGO_BTV WORLD [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
-
-#EXTINF:-1,JAGO_BTV CTG [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
-
-#EXTINF:-1,JAGO_ATN BANGLA [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
-
-#EXTINF:-1,JAGO_CHANNEL I HD [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
-
-#EXTINF:-1,JAGO_RTV HD [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
-
-#EXTINF:-1,JAGO_BOISHAKHI TV [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
-
-#EXTINF:-1,JAGO_BANGLA VISION [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
-
-#EXTINF:-1,JAGO_MY TV HD [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
-
-#EXTINF:-1,JAGO_CHANNEL 9 HD [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
-
-#EXTINF:-1,JAGO_ASIAN TV HD [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
-
-#EXTINF:-1,JAGO_SA TV HD [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
-
-#EXTINF:-1,JAGO_BANGLA TV HD [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
-
-#EXTINF:-1,JAGO_ATN NEWS [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
-
-#EXTINF:-1,JAGO_INDEPENDENT TV [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
-
-#EXTINF:-1,JAGO_SOMOY TV [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
-
-#EXTINF:-1,JAGO_CHANNEL 24 [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
-
-#EXTINF:-1,JAGO_JAMUNA TV [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
-
-#EXTINF:-1,JAGO_NEWS 24 HD [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
-
-#EXTINF:-1,JAGO_DBC NEWS HD [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
-
-#EXTINF:-1,JAGO_BIJOY TV HD [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
-
-#EXTINF:-1,JAGO_ANANDA TV HD [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
-
-#EXTINF:-1,JAGO_CHANNEL S [UK] [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
-
-#EXTINF:-1,JAGO_MY CINEMA IPTV [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
-
-#EXTINF:-1,JAGO_Movie Bangla TV [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
-
-#EXTINF:-1,JAGO_Biswa Bangla 24 TV [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/biswabanglatv.stream/chunks.m3u8
-
-#EXTINF:-1,JAGO_Bangla 21 IPTV [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bangla21tv000889956-sg.stream/chunks.m3u8
-
-#EXTINF:-1,JAGO_Cumilla 24 IPTV [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/cumilla24.stream/chunks.m3u8
-
-#EXTINF:-1,JAGO_Deshe Bideshe [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
-
-#EXTINF:-1,JAGO_Nan IPTV [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
-
-#EXTINF:-1,JAGO_Joy Jatra TV
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/joyjatratv.stream/chunks.m3u8
-
-#EXTINF:-1,JAGO_Varendra TV [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/varendratv.stream/chunks.m3u8
-
-#EXTINF:-1,JAGO_Royal TV [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8
-
-#EXTINF:-1,JAGO_RANG IPTV [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rangiptv.stream/chunks.m3u8
-
-#EXTINF:-1,JAGO_VOICE IPTV [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
-
-#EXTINF:-1,JAGO_PAN VISION IPTV [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/panvisiontvs.stream/chunks.m3u8
-
-#EXTINF:-1,JAGO_NOKSHI IPTV [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nakshitv.stream/chunks.m3u8
-
-#EXTINF:-1,JAGO_Jagoroni IPTV [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jagoronitv.stream/chunks.m3u8
-
-#EXTINF:-1,JAGO_NRB IPTV [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
-
-#EXTINF:-1,JAGO_ATN Islam [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
-
-#EXTINF:-1,JAGO_TITAS SPORTS [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
-
-#EXTINF:-1,JAGO_GAAN BANGLA HD [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
-
-#EXTINF:-1,JAGO_ATN Music [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
-
 #EXTINF:-1,Star Plus HD
 http://dx3.gcdn.co/hindi-STARPLUSindia/index.m3u8
 
@@ -593,9 +464,6 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1,Dubai Sports
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklis.m3u8
 
-#EXTINF:-1,Dubai Sports 1
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1
-
 #EXTINF:-1,Dubai Sports 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 
@@ -619,15 +487,6 @@ http://183.182.100.184/live/pptvthai/playlist.m3u8
 
 #EXTINF:-1,Ad Sports 1 HD
 http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-
-#EXTINF:-1,Ad Sports 2 HD
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
-
-#EXTINF:-1,Ad Sports 3 HD
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
-
-#EXTINF:-1,Ad Sports 4 HD
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
 
 #EXTINF:-1,Sony Ten 1 HD
 https://load.airtelxstream.in/sonyten1hd/smil:common.smil/chunklist.smil.m3u8
@@ -818,9 +677,6 @@ http://faithtvlive.livebox.co.in/faithtvhls/live.m3u8
 #EXTINF:-1,Atn Islamic
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
 
-#EXTINF:-1,Radio 1
-http://as2.digitalsynapsebd.com:8863/;stream.mp3
-
 #EXTINF:-1,Radio 5
 http://202.123.27.133/hls-live/audio-only/bestfm/_definst_/liveevent/livestream.m3u8
 
@@ -922,9 +778,6 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/7.ts
 
 #EXTINF:-1,Channel I
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/4.ts
-
-#EXTINF:-1,Deepto TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/5.ts
 
 #EXTINF:-1,Duronto Tv
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/63.ts
@@ -1064,23 +917,14 @@ http://210.210.155.35/uq2663/h/h141/01.m3u8
 #EXTINF:-1,Channel I_ICC
 http://103.205.133.50/hls/ichannel.m3u8
 
-#EXTINF:-1,ICC_RTV
-http://103.205.133.50/hls/rtv.m3u8
-
 #EXTINF:-1,ICC_ My TV
 http://103.205.133.50/hls/mytv.m3u8
-
-#EXTINF:-1,ICC_Nagorik TV
-http://103.205.133.50/hls/nagorik.m3u8
 
 #EXTINF:-1,ICC_Ekushey TV
 http://103.205.133.50/hls/ekushey.m3u8
 
 #EXTINF:-1,ICC_Deepto TV
 http://103.205.133.50/hls/deeptotv.m3u8
-
-#EXTINF:-1,ICC_NTV
-http://103.205.133.50/hls/ntv.m3u8
 
 #EXTINF:-1,ICC_Banglavision
 http://103.205.133.50/hls/banglavision.m3u8
@@ -1304,9 +1148,6 @@ http://103.205.133.21/hls/jamunatv.m3u8
 #EXTINF:-1,Nazmmul Wi-fi Zone_News 24
 http://103.205.133.21/hls/news24.m3u8
 
-#EXTINF:-1,Nazmmul Wi-fi Zone_RTV
-http://103.205.133.21/hls/rtv.m3u8
-
 #EXTINF:-1,Nazmul_SATV
 http://103.205.133.21/hls/satv.m3u8
 
@@ -1352,14 +1193,8 @@ http://103.205.133.21/hls/ten2.m3u8
 #EXTINF:-1,Nazmul_Sony Ten 3
 http://103.205.133.21/hls/ten3.m3u8
 
-#EXTINF:-1,Nazmul NTV [BD]
-http://103.205.133.21/hls/ntv.m3u8
-
 #EXTINF:-1,DEEPTO TV HD [BD]
 http://103.205.133.21/hls/deeptotv.m3u8
-
-#EXTINF:-1,NAGORIK TV HD [BD]
-http://103.205.133.21/hls/nagorik.m3u8
 
 #EXTINF:-1,Akash Aath [IN]
 https://load.airtelxstream.in/aakashaath/smil:common.smil/chunklist.m3u8
@@ -1504,27 +1339,6 @@ https://load.airtelxstream.in/sonyten2hd/smil:common.smil/chunklist.m3u8
 
 #EXTINF:-1,Sony Ten 3
 https://load.airtelxstream.in/sonyten3/smil:common.smil/chunklist.m3u8
-
-#EXTINF:-1,Star Sports 1
-http://bdvisioniptv.ddns.net:25461/live/morselin53/7653/661.m3u8
-
-#EXTINF:-1,Star Sports 2
-http://bdvisioniptv.ddns.net:25461/live/morselin53/7653/200.m3u8
-
-#EXTINF:-1,Star Sports Select 1
-http://bdvisioniptv.ddns.net:25461/live/morselin53/7653/212.m3u8
-
-#EXTINF:-1,Star Sports Select 2
-http://bdvisioniptv.ddns.net:25461/live/morselin53/7653/198.m3u8
-
-#EXTINF:-1,Ten Sports
-http://bdvisioniptv.ddns.net:25461/live/morselin53/7653/786.m3u8
-
-#EXTINF:-1,Ptv Sports
-http://bdvisioniptv.ddns.net:25461/live/morselin53/7653/660.m3u8
-
-#EXTINF:-1,Sky Sports Cricket
-http://bdvisioniptv.ddns.net:25461/live/morselin53/7653/753.m3u8
 
 #EXTINF:-1,Discovery HD
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
@@ -2039,12 +1853,6 @@ http://ctgiptv.kitv.live:1935/live/test/test1/1.m3u8?token=MBTMROProvider
 #EXTINF:-1,14.SATV
 http://103.205.133.50/hls/satv.m3u8?token=MBTMROProvider
 
-#EXTINF:-1,15.RTV
-http://103.205.133.50/hls/rtv.m3u8?token=MBTMROProvider
-
-#EXTINF:-1,16.NTV
-http://103.205.133.50/hls/ntv.m3u8?token=MBTMROProvider
-
 #EXTINF:-1,17.Banglavision
 http://103.205.133.50/hls/banglavision.m3u8?token=MBTMROProvider
 
@@ -2071,9 +1879,6 @@ http://103.205.133.50/hls/gaanbangla.m3u8?token=MBTMROProvider
 
 #EXTINF:-1,25.Bangla TV
 http://103.205.133.50/hls/banglatv.m3u8?token=MBTMROProvider
-
-#EXTINF:-1,26.Nagorik TV
-http://103.205.133.50/hls/nagorik.m3u8?token=MBTMROProvider
 
 #EXTINF:-1,29.MOHONA TV
 http://103.205.133.50/hls/mohonatv.m3u8?token=MBTMROProvider
@@ -3503,29 +3308,11 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.
 #EXTINF:-1,WWE Network
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 
-#EXTINF:-1,ALKASS_1
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-
-#EXTINF:-1,ALKASS_2
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-
-#EXTINF:-1,ALKASS_3
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
-
-#EXTINF:-1,ALKASS_4
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-
-#EXTINF:-1,ALKASS_5
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-
 #EXTINF:-1,Ad Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
 
 #EXTINF:-1,Ad Sports 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
-
-#EXTINF:-1,Abu Dhabi Sports 1
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports1
 
 #EXTINF:-1,Dubai SPORT
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
@@ -4351,9 +4138,6 @@ https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/
 
 #EXTINF:-1,Aaj Tak
 http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
-
-#EXTINF:-1,Raj TV
-http://45.120.188.184/hdmi
 
 #EXTINF:-1,Marutam TV
 http://mntv.livebox.co.in/mntvhls/mntv.m3u8
