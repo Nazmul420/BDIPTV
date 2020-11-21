@@ -170,17 +170,11 @@ http://128.199.212.160/alif/1080/index.m3u8
 #EXTINF:-1,Nan TV
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
 
-#EXTINF:-1,Biswa Bangla 24 TV
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/biswabanglatv.stream/chunks.m3u8
-
 #EXTINF:-1,Nandan TV
 http://nandansyst.com/hls/nandan.m3u8
 
 #EXTINF:-1,Channel S HD
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channelsbd.stream/chunks.m3u8
-
-#EXTINF:-1,Deshi TV
-http://72.139.72.18:1935/live/myStream/playlist.m3u8
 
 #EXTINF:-1,Jhanker TV
 https://cdnr.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jhankartv.stream/live-orgin/jhankartv.stream/chunks.m3u8
@@ -350,9 +344,6 @@ http://103.205.133.21/hls/digibangla.m3u8
 #EXTINF:-1,Channel 23 HD
 http://103.108.140.164:1009/channel23/livestream/chunklist_w1734717153.m3u8
 
-#EXTINF:-1,Deshi Tv
-http://72.139.72.18:1935/live/myStream/chunklist_w1702774192.m3u8
-
 #EXTINF:-1,CNN Bangla
 https://cdn1-europe.smartcast.tv/rtvd/cnnb_backup/playlist.m3u8
 
@@ -403,9 +394,6 @@ http://master.beeiptv.com:8081/LAW/lawtv/chunks.m3u8
 
 #EXTINF:-1,Rnn Tv
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rnntv.stream/chunks.m3u8
-
-#EXTINF:-1,Ruposhi Bangla
-https://5e19b98e45c4f.streamlock.net/demo/rup/playlist.m3u8
 
 #EXTINF:-1,Nobodip Bangla
 http://nobodip.mywire.org:8081/beeiptv/nobodip/chunks.m3u8
@@ -1109,18 +1097,6 @@ https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 #EXTINF:-1,TVRI SPORT HD
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-#EXTINF:-1,true sports 1 HD
-http://54.37.82.205:8081/liveorigin/hd-tsport1_720/playlist.m3u8
-
-#EXTINF:-1,true sports 2 HD
-http://54.37.82.205:8081/liveorigin/hd-tsport2_720/playlist.m3u8
-
-#EXTINF:-1,true sports 3 HD
-http://54.37.82.205:8081/liveorigin/hd-tsport3_720/playlist.m3u8
-
-#EXTINF:-1,true sports 4 HD
-http://54.37.82.205:8081/liveorigin/hd-tsport4_720/playlist.m3u8
-
 #EXTINF:-1,BT Sports 1 HD
 https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 
@@ -1346,15 +1322,6 @@ http://me.zichannels.my.id/ch/hits.m3u8
 #EXTINF:-1,HBO Hits (Opt-3)
 https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
 
-#EXTINF:-1,HBO
-http://62.210.104.181:8080/HBO1/playlist.m3u8
-
-#EXTINF:-1,HBO2
-http://62.210.104.181:8080/HBO2/playlist.m3u8
-
-#EXTINF:-1,HBO3
-http://62.210.104.181:8080/HBO3/playlist.m3u8
-
 #EXTINF:-1,Cinemax (Opt-1)
 http://me.zichannels.my.id/ch/max.m3u8
 
@@ -1496,9 +1463,6 @@ https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
 #EXTINF:-1,BFLIX Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 
-#EXTINF:-1,VH1
-http://136.243.10.103:8888/VH1/playlist.m3u8
-
 #EXTINF:-1,Zee Bioskop
 http://210.210.155.35/qwr9ew/s/s32/index.m3u8
 
@@ -1568,9 +1532,6 @@ http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1,Wion TV
 http://z5amshls.akamaized.net/wion/tracks-v1a1/index.m3u8
 
-#EXTINF:-1,Animal Planet HD (Opt-1)
-http://62.210.82.206:25461/live/12345/1234/34466.m3u8?token=QhVcUhcJRggXXVNWCwcAB1VQUAcHXlUFBFENVANWWlUKUVZSUVhXBg1GGURBEkJRAFtpWgVEXlBRUANXSkAXElxFa1oAQ14QAFYFUwJfEhhDQl9eBEReU0lGRQgCQFhDAAYGB0ZNRldNEFAUXAdcawVTQFoCA0ZZCxFZDUpADQ9mU1FeBQ8AEA9GBEQeRFlHERQMXRQKCE9HBlwVFAMWBBsNWkYIDUgQVgtACEYUSRZbFHR0Q0pGBh0QUA8VCw0PGw0WXlcUXBAZRlwVbRRVRxVEU1IMAxZBX0YFQ0pADwBBaFdcCg8BUUENWghBRAoWUBQaEQwJCgoRC0c+FgsGQwMVDQJUVUZP
-
 #EXTINF:-1,FOX Life HD
 http://live-ng-01.more.tv/hls/Fox_Life_HD/master.m3u8
 
@@ -1579,9 +1540,6 @@ https://ch.iptvmate.net/5e9350258beb894140335ff6.m3u8
 
 #EXTINF:-1,H2 (Opt-2)
 http://185.236.229.27:8000/play/vmM0SsP5@3RqM70Z
-
-#EXTINF:-1,NAT GEO WILD
-http://54.37.82.205:8081/liveorigin/hd-natgeowild_720/playlist.m3u8
 
 #EXTINF:-1,NAT GEO PEOPLE
 http://62.210.127.217:8080/rPb6vJJBsPx3c3Cc/1c3XNBxRQt6Fd8Xk/28658?play_token=ShPWe7s3dC&token=QhVcUhcJRggXUw1eCwcDUlhVAFcFVVAFXFUBVgBbUVRdU1FQXFdTA1NGGURBEkJRAFtpWgVEXlFdUgBZSkAXElxFa1oAQ14QA1MBVQpfEhhDQl9eBEReUlNUBVNQVltVABsWQw0FRggXVQxWBVESGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBUAgRVFBoRAgkRDREWTENcQC84GxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRABeAAZQFEs=
@@ -1871,20 +1829,11 @@ http://z5amshls.akamaized.net/andflixhd/playlist.m3u8
 #EXTINF:-1,MyLife4U
 https://edge1.dashmedia.tv/onestudio/my_life_4u/playlist.m3u8
 
-#EXTINF:-1,Gazi TV HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.ts
-
-#EXTINF:-1,Maasranga HD(*)
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/01.ts
-
 #EXTINF:-1,Channel 9(2)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/7.ts
 
 #EXTINF:-1,Channel I
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/4.ts
-
-#EXTINF:-1,Duronto Tv
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/63.ts
 
 #EXTINF:-1,Ekattor Tv
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/02.ts
@@ -3983,9 +3932,6 @@ https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m
 #EXTINF:-1,World of Free Sports
 https://a.jsrdn.com/broadcast/22723/+0000/c.m3u8
 
-#EXTINF:-1,Xcorps
-http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
-
 #EXTINF:-1,Fight Plus
 https://nimble.dashstreams.net/onestudio/fightplustv/playlist.m3u8
 
@@ -4093,9 +4039,6 @@ https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1,AlFajer MOVIE
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8?@amarnettv.live
-
-#EXTINF:-1,HUMRAZ TV
-http://cdn61.liveonlineservices.com/hls/humraaz.m3u8
 
 #EXTINF:-1,AVT KHYBER
 https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/index_150_av-p.m3u8
@@ -4897,9 +4840,6 @@ http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/99697?checkedby:
 
 #EXTINF:-1,SKY SPORTS MAIN EVENT HD
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/99693?checkedby:hlscat.com
-
-#EXTINF:-1,SKY SPORTS MIX HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/99701?checkedby:hlscat.com
 
 #EXTINF:-1,SKY SPORTS NEWS HD
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/99703?checkedby:hlscat.com
