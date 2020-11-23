@@ -1,82 +1,118 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg?x91288" group-title="Bangladesh",Asian TV
+#EXTINF:-1,Asian TV
 https://rhridoy136.shortcm.li/asiantv.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1.jpg?x91288" group-title="Bangladesh",ATN Bangla
+
+#EXTINF:-1,ATN Bangla
 https://rhridoy136.shortcm.li/atnbangla.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/atnislamictv.jpg?x91288" group-title="Bangladesh",ATN Islamic
+
+#EXTINF:-1,ATN Islamic
 https://rhridoy136.shortcm.li/atnislamic.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atnmusic.jpg?x91288" group-title="Bangladesh",ATN Music
+
+#EXTINF:-1,ATN Music
 https://rhridoy136.shortcm.li/atnmusic.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/atn-news.jpg?x91288" group-title="Bangladesh",ATN News
+
+#EXTINF:-1,ATN News
 https://rhridoy136.shortcm.li/atnnews.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/05/banglatvhd-1.jpg?x91288" group-title="Bangladesh",Bangla TV
+
+#EXTINF:-1,Bangla TV
 https://rhridoy136.shortcm.li/banglatv.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/bv-150x1501.jpg?x91288" group-title="Bangladesh",Banglavision
+
+#EXTINF:-1,Banglavision
 https://rhridoy136.shortcm.li/banglavisiontv.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/bijoytv.jpg" group-title="Bangladesh",Bijoy TV
+
+#EXTINF:-1,Bijoy TV
 https://rhridoy136.shortcm.li/bijoytv.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/BoishakhiTV-150x1501.jpg?x91288" group-title="Bangladesh",Boishakhi
+
+#EXTINF:-1,Boishakhi
 https://rhridoy136.shortcm.li/boishakhitv.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/btv.jpg?x91288" group-title="Bangladesh",BTV World
+
+#EXTINF:-1,BTV World
 https://rhridoy136.shortcm.li/btvworld.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/ch9-150x150.jpg?x91288" group-title="Bangladesh",Channel 9
+
+#EXTINF:-1,Channel 9
 https://rhridoy136.shortcm.li/channel9.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/channel24.jpg?x91288" group-title="Bangladesh",CHANNEL 24
+
+#EXTINF:-1,CHANNEL 24
 https://rhridoy136.shortcm.li/channel24.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/chi-150x150.jpg?x91288" group-title="Bangladesh",Channel I
+
+#EXTINF:-1,Channel I
 https://rhridoy136.shortcm.li/channeli.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/dbc-news.jpg?x91288" group-title="Bangladesh",DBC News
+
+#EXTINF:-1,DBC News
 https://rhridoy136.shortcm.li/dbcnews.m3u8
-#EXTINF:0 tvg-logo="https://en.wikipedia.org/wiki/Deepto_TV#/media/File:Deepto_TV_logo.png" group-title="Bangladesh",Deepto TV
+
+#EXTINF:-1,Deepto TV
 https://rhridoy136.shortcm.li/deeptotv.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Desh_tv.png" group-title="Bangladesh",Desh TV
+
+#EXTINF:-1,Desh TV
 https://rhridoy136.shortcm.li/deshtv.m3u8
-#EXTINF:0 tvg-logo="https://en.wikipedia.org/wiki/Duronto_TV#/media/File:Duronto_TV_logo.jpg" group-title="Bangladesh",Duronto TV
+
+#EXTINF:-1,Duronto TV
 https://rhridoy136.shortcm.li/durontotv.m3u8
-#EXTINF:0 tvg-logo="https://en.wikipedia.org/wiki/Ekattor_TV#/media/File:Ekattor_TV_logo.png" group-title="Bangladesh",Ekattor
+
+#EXTINF:-1,Ekattor
 https://rhridoy136.shortcm.li/ekattortv.m3u8
-#EXTINF:0 tvg-logo="https://en.wikipedia.org/wiki/Ekushey_Television#/media/File:ETV.jpg" group-title="Bangladesh",Ekushey TV
+
+#EXTINF:-1,Ekushey TV
 https://rhridoy136.shortcm.li/ekusheytv.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/gaanbangla.jpg?x91288" group-title="Bangladesh",Gaan Bangla
+
+#EXTINF:-1,Gaan Bangla
 https://rhridoy136.shortcm.li/gaanbangla.m3u8
-#EXTINF:0 tvg-logo="https://en.wikipedia.org/wiki/GTV_(Bangladesh)#/media/File:GTVBangladeshLogo.png" group-title="Bangladesh",GTV
+
+#EXTINF:-1,GTV
 https://rhridoy136.shortcm.li/gazitv.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/inds.png?x91288" group-title="Bangladesh",Independent
+
+#EXTINF:-1,Independent
 https://rhridoy136.shortcm.li/independenttv.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="Bangladesh",Jamuna TV
+
+#EXTINF:-1,Jamuna TV
 https://rhridoy136.shortcm.li/jamunatv.m3u8
-#EXTINF:0 tvg-logo="https://en.wikipedia.org/wiki/Maasranga_Television#/media/File:Maasranga_Television_Logo.jpg" group-title="Bangladesh",Maasranga
+
+#EXTINF:-1,Maasranga
 https://rhridoy136.shortcm.li/maasrangatv.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/mohona.jpg?x91288" group-title="Bangladesh",MOHONA TV
+
+#EXTINF:-1,MOHONA TV
 https://rhridoy136.shortcm.li/mohonatv.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/mytv.jpg?x91288" group-title="Bangladesh",MY TV
-https://rhridoy136.shortcm.li/mytv.m3u8
-#EXTINF:0 tvg-logo="https://i2.wp.com/nagorik.com/wp-content/uploads/2018/02/Nagorik.jpg?fit=800%2C450&ssl=1" group-title="Bangladesh",Nagorik TV
+
+#EXTINF:-1,Nagorik TV
 https://rhridoy136.shortcm.li/nagoriktv.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg?x91288" group-title="Bangladesh",News 24
+
+#EXTINF:-1,News 24
 https://rhridoy136.shortcm.li/news24.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/ntveurope.jpg?x91288" group-title="Bangladesh",NTV
+
+#EXTINF:-1,NTV
 https://rhridoy136.shortcm.li/ntv.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg?x91288" group-title="Bangladesh",RTV
+
+#EXTINF:-1,RTV
 https://rhridoy136.shortcm.li/rtv.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic.jpg?x91288" group-title="Bangladesh",RTV Music
+
+#EXTINF:-1,RTV Music
 https://rhridoy136.shortcm.li/rtvmusic.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/songsodtv.jpg?x91288" group-title="Bangladesh",Sangsad TV
+
+#EXTINF:-1,Sangsad TV
 https://rhridoy136.shortcm.li/sangsadtv.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/satvs.jpg?x91288" group-title="Bangladesh",SATV
+
+#EXTINF:-1,SATV
 https://rhridoy136.shortcm.li/satv.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg?x91288" group-title="Bangladesh",Shomoy TV
+
+#EXTINF:-1,Shomoy TV
 https://rhridoy136.shortcm.li/shomoytv.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/12/titashsports1.jpg" group-title="Bangladesh",T Sports HD
+
+#EXTINF:-1,T Sports HD
 https://rhridoy136.shortcm.li/titashsports.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/09/AljazeeraTV.jpg" group-title="English",Al Jazeera
+
+#EXTINF:-1,Al Jazeera
 https://rhridoy136.shortcm.li/aljazeera.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg" group-title="Islamic",Makkah Live
+
+#EXTINF:-1,Makkah Live
 https://rhridoy136.shortcm.li/makkahlive.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/Medina-Live.jpg" group-title="Islamic",Medina Live
+
+#EXTINF:-1,Medina Live
 https://rhridoy136.shortcm.li/madinalive.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/IQRA-BANGLA-TV.jpeg" group-title="Islamic",Iqra Bangla TV
+
+#EXTINF:-1,Iqra Bangla TV
 https://rhridoy136.shortcm.li/iqrabangla.m3u8
+
 #EXTINF:-1,Alif TV
 http://128.199.212.160/alif/1080/index.m3u8?@asfaiptv
 
@@ -154,9 +190,6 @@ http://103.205.133.21/hls/ten2.m3u8
 
 #EXTINF:-1,DEEPTO TV HD [BD]
 http://103.205.133.21/hls/deeptotv.m3u8
-
-#EXTINF:-1,Akash Aath [IN]
-https://load.airtelxstream.in/aakashaath/smil:common.smil/chunklist.m3u8
 
 #EXTINF:-1,IPL Live [Regular Update]
 http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
@@ -278,9 +311,6 @@ https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1,JAMUNA TV
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8?@asfaiptv
 
-#EXTINF:-1,MY TV
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8?@asfaiptv
-
 #EXTINF:-1,MOHONA TV
 https://rhridoy136.shortcm.li/mohonatv.m3u8?@asfaiptv
 
@@ -307,9 +337,6 @@ http://103.81.198.111:8080/shopno/shopnotv.m3u8?@asfaiptv
 
 #EXTINF:-1,Sangsad
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8?@asfaiptv
-
-#EXTINF:-1,T Sports
-https://rhridoy136.shortcm.li/titashsports.m3u8
 
 #EXTINF:-1,Channel-S
 https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8?@asfaiptv
@@ -338,38 +365,23 @@ http://163.172.29.246:8081/globalbd/starjalsha/chunks.m3u8?@asfaiptv
 #EXTINF:-1,Zee Bangla HD
 http://163.172.29.246:8081/globalbd/zeebangla/chunks.m3u8?@asfaiptv
 
-#EXTINF:-1,Akash 8
-https://load.airtelxstream.in/aakashaath/smil:common.smil/chunklist.m3u8
-
 #EXTINF:-1,Artv Network
 https://m6gdakveln93-hls-live.5centscdn.com/ARTVN/d0dbe915091d400bd8ee7f27f0791303.sdp/ARTVN/d0dbe915091d400bd8ee7f27f0791303.sdp1/chunks.m3u8?@asfaiptv
 
 #EXTINF:-1,Jalsha Movies
 http://163.172.29.246:8081/globalbd/starjalshamovies/chunks.m3u8?@asfaiptv
 
-#EXTINF:-1,Zee Bangla Cinema
-https://load.airtelxstream.in/zeebanglacinema/smil:common.smil/playlist.m3u8?@asfaiptv
-
 #EXTINF:-1,Bangla IPTV
 http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8?@asfaiptv
 
-#EXTINF:-1,DD Bangla
-https://load.airtelxstream.in/ddbangla/smil:common.smil/chunklist.m3u8?@asfaiptv
-
 #EXTINF:-1,Enter 10 Bangla
 http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8?@asfaiptv
-
-#EXTINF:-1,Ruposhi Bangla
-https://load.airtelxstream.in/ruposhibanglatv/smil:common.smil/playlist.m3u8?@asfaiptv
 
 #EXTINF:-1,News Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?checkedby:hlscat.com
 
 #EXTINF:-1,ATN Music
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8?@asfaiptv
-
-#EXTINF:-1,Dhoom Music
-https://load.airtelxstream.in/dhoommusic/smil:common.smil/playlist.m3u8?@asfaiptv
 
 #EXTINF:-1,GAAN BANGLA HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8?@asfaiptv
@@ -425,9 +437,6 @@ http://z5amshls.akamaized.net/smileusa/tracks-v1a1/index.m3u8?@asfaiptv
 #EXTINF:-1,&TV
 http://cv.khushitv.xyz/channels.php?c=andtvsd&e=.m3u8?@asfaiptv
 
-#EXTINF:-1,SONY MAX
-https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist.m3u8?@asfaiptv
-
 #EXTINF:-1,BFlix Movies
 https://dreamtv.livebox.co.in/bflixouthls/live.m3u8?@asfaiptv
 
@@ -461,12 +470,6 @@ http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8?@asfaiptv
 #EXTINF:-1,Bollywood
 https://z5amshls.akamaized.net/classic/tracks-v3a1/index.m3u8?@asfaiptv
 
-#EXTINF:-1,Enterr10 Movies
-https://load.airtelxstream.in/enterr10/smil:common.smil/playlist.m3u8?@asfaiptv
-
-#EXTINF:-1,Sony Wah
-https://load.airtelxstream.in/sonywah/smil:common.smil/chunklist.m3u8?@asfaiptv
-
 #EXTINF:-1,Mahamovie
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_480p/index.m3u8?@asfaiptv
 
@@ -482,9 +485,6 @@ https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8?@asfa
 #EXTINF:-1,BOX CINEMA
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8?@asfaiptv
 
-#EXTINF:-1,B4U Kadak
-https://load.airtelxstream.in/moviehouseb4ukadak/smil:common.smil/playlist.m3u8?@asfaiptv
-
 #EXTINF:-1,Abzy Movies
 https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in.m3u8?@asfaiptv
 
@@ -497,9 +497,6 @@ http://z5amshls.akamaized.net/classic/tracks-v2a1/playlist.m3u8?@asfaiptv
 #EXTINF:-1,Bollywood 3
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 
-#EXTINF:-1,Cinema TV India
-https://load.airtelxstream.in/cinematvindia/smil:common.smil/playlist.m3u8?@asfaiptv
-
 #EXTINF:-1,ACV Jukebox
 https://acv.asianetmobiletvplus.com/webstreams/acvjukebox_awannbgiynqynhufohawnvbmlgglfpuc/playlist.m3u8?@asfaiptv
 
@@ -509,14 +506,8 @@ http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.
 #EXTINF:-1,Dil Se
 https://live.hungama.com/linear/dil-se/playlist.m3u8?@asfaiptv
 
-#EXTINF:-1,Jalwa
-https://load.airtelxstream.in/9xjalwa/smil:common.smil/chunklist.m3u8?@asfaiptv
-
 #EXTINF:-1,Kadak Hits
 https://live.hungama.com/linear/kadak-hits/playlist.m3u8?@asfaiptv
-
-#EXTINF:-1,Mastii
-https://load.airtelxstream.in/mastiii/smil:common.smil/playlist.m3u8?@asfaiptv
 
 #EXTINF:-1,Music India
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8?@asfaiptv
@@ -532,12 +523,6 @@ http://cv.khushitv.xyz/channels.php?c=zing&e=.m3u8?@asfaiptv
 
 #EXTINF:-1,7Star TV
 http://media.7starcloud.com:1935/live/7star/playlist.m3u8?@asfaiptv
-
-#EXTINF:-1,9XM
-https://load.airtelxstream.in/9xm/smil:common.smil/chunklist.m3u8?@asfaiptv
-
-#EXTINF:-1,9x tahsan
-https://load.airtelxstream.in/9xtashan/smil:common.smil/playlist.m3u8?@asfaiptv
 
 #EXTINF:-1,ANIMAL PLANET HD
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8?@asfaiptv
@@ -653,9 +638,6 @@ http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1,Tom & Jerry
 http://vod.tsvipsmart.eu/turkishcinemamovies/Cocuk/Tom.and.Jerry.Willy.Wonka.and.the.Chocolate.Factory.2017.720p.WEB-DL.TR.mkv?@asfaiptv
 
-#EXTINF:-1,Sony yay (Telegu)
-https://load.airtelxstream.in/sonyyaytelugu/smil:common.smil/playlist.m3u8?@asfaiptv
-
 #EXTINF:-1,EGG Network
 http://210.210.155.35:80/uq2663/h/h22/01.m3u8?@asfaiptv
 
@@ -692,9 +674,6 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
 #EXTINF:-1,Star select 2
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
 
-#EXTINF:-1,Sony Ten 1
-https://load.airtelxstream.in/sonyten1hd/smil:common.smil/chunklist.smil.m3u8?@asfaiptv
-
 #EXTINF:-1,Sony Ten 2
 http://dx3.gcdn.co/TEN2HD/index.m3u8?@asfaiptv
 
@@ -718,45 +697,6 @@ http://185.71.64.167:80/7654321/1234567/79306?checkedby:hlscat.com
 
 #EXTINF:-1,Bein Sports Extra
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8?@asfaiptv
-
-#EXTINF:-1,beIN:beIN1.720p
-http://best-live-iptv.xyz:25461/BEST-LIVE2010/BEST-LIVE2010/1
-
-#EXTINF:-1,beIN:beIN2.720p
-http://best-live-iptv.xyz:25461/BEST-LIVE2010/BEST-LIVE2010/2
-
-#EXTINF:-1,beIN:beIN3.720p
-http://best-live-iptv.xyz:25461/BEST-LIVE2010/BEST-LIVE2010/3
-
-#EXTINF:-1,beIN:beIN4.720p
-http://best-live-iptv.xyz:25461/BEST-LIVE2010/BEST-LIVE2010/4
-
-#EXTINF:-1,beIN:beIN5.720p
-http://best-live-iptv.xyz:25461/BEST-LIVE2010/BEST-LIVE2010/5
-
-#EXTINF:-1,beIN:beIN6.720p
-http://best-live-iptv.xyz:25461/BEST-LIVE2010/BEST-LIVE2010/6
-
-#EXTINF:-1,beIN:beIN7.720p
-http://best-live-iptv.xyz:25461/BEST-LIVE2010/BEST-LIVE2010/7
-
-#EXTINF:-1,beIN:beIN8.720p
-http://best-live-iptv.xyz:25461/BEST-LIVE2010/BEST-LIVE2010/8
-
-#EXTINF:-1,beIN:beIN9.720p
-http://best-live-iptv.xyz:25461/BEST-LIVE2010/BEST-LIVE2010/9
-
-#EXTINF:-1,beIN:beIN10.720p
-http://best-live-iptv.xyz:25461/BEST-LIVE2010/BEST-LIVE2010/10
-
-#EXTINF:-1,beIN:beIN11.720p
-http://best-live-iptv.xyz:25461/BEST-LIVE2010/BEST-LIVE2010/11
-
-#EXTINF:-1,beIN:beIN12.720p
-http://best-live-iptv.xyz:25461/BEST-LIVE2010/BEST-LIVE2010/12
-
-#EXTINF:-1,beIN:beIN13.720p
-http://best-live-iptv.xyz:25461/BEST-LIVE2010/BEST-LIVE2010/13
 
 #EXTINF:-1,Real Madrid eng
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-p.m3u8
@@ -859,12 +799,6 @@ http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b
 
 #EXTINF:-1,AD Sports 4
 http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8?@asfaiptv
-
-#EXTINF:-1,Adjarasport 1
-https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8?@asfaiptv
-
-#EXTINF:-1,Adjarasport 2
-https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8?@asfaiptv
 
 #EXTINF:-1,ESPN 2
 https://gma2.blab.email/espn2.m3u8?@asfaiptv
@@ -1127,17 +1061,11 @@ http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?@asfaipt
 #EXTINF:-1,Zeta TV HD
 http://rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist.m3u8?@asfaiptv
 
-#EXTINF:-1,Times Now
-https://load.airtelxstream.in/timesnow/smil:common.smil/playlist.m3u8?@asfaiptv
-
 #EXTINF:-1,Mirror Now
 http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8?@asfaiptv
 
 #EXTINF:-1,TIMES NOW
 http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8?@asfaiptv
-
-#EXTINF:-1,Mirror Now
-https://load.airtelxstream.in/mirrornow/smil:common.smil/playlist.m3u8?@asfaiptv
 
 #EXTINF:-1,INDIA TODAY
 https://feeds.intoday.in/hltapps/api/master.m3u8?@asfaiptv
@@ -1216,330 +1144,3 @@ https://stream.arylive.com/QtvLive/tracks-v1a1/mono.m3u8?@asfaiptv
 
 #EXTINF:-1,MTA 1 Urdu
 https://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/index_3000_av-p.m3u8?@asfaiptv
-
-#EXTINF:-1,## FM RADIO MIX ##
-https://raw.githubusercontent.com/asfa410/asfaiptv.github.io/master/FM%20RADIO%20MIX.mp4?@asfaiptv
-
-#EXTINF:-1,All Sports Bangla
-http://protostar.shoutca.st:9183/;?listening-from-radio-garden=1601020295779
-
-#EXTINF:-1,ABC Radio FM 89.2
-http://node-18.zeno.fm/h7n8ug96eeruv?rj-ttl=5&rj-tok=AAABdMP2JK0AEa5hiCevIyOTDg
-
-#EXTINF:-1,Abiram
-https://radioabiram.radioca.st/stream?listening-from-radio-garden=1601015157404
-
-#EXTINF:-1,Bangla Wadio
-http://162.254.150.34:8201/;?listening-from-radio-garden=1601015028090
-
-#EXTINF:-1,BONGO NET
-https://stream.bongonet.net/proxy/folknama?mp=/stream/1/
-
-#EXTINF:-1,BONGO.NET FM
-https://stream.bongonet.net/proxy/radiobongonet?mp=/stream/1/
-
-#EXTINF:-1,BETER TORONGO
-https://node-30.zeno.fm/v7tnp975wqzuv
-
-#EXTINF:-1,Carnival
-http://94.23.30.114:8195/stream?listening-from-radio-garden=1601014708244
-
-#EXTINF:-1,Colours FM 101.6
-http://45.64.135.88:8000/stream1?listening-from-radio-garden=1601014984610
-
-#EXTINF:-1,Dhaka fm
-https://node-23.zeno.fm/u9mphfk604zuv.aac
-
-#EXTINF:-1,DISCO BANI
-https://stream.bongonet.net/proxy/discobanikolkata?mp=/stream/1/
-
-#EXTINF:-1,Ekattor 98.4 FM
-http://162.254.149.187:9302/;stream/1;?listening-from-radio-garden=1601015834943
-
-#EXTINF:-1,Foorti
-https://node-11.zeno.fm/f0bfdk2w34zuv?rj-ttl=5&rj-tok=AAABdMRV22UAcwucDbg4sNb1IQ
-
-#EXTINF:-1,FnF.fm Bangla
-http://eu6.fastcast4u.com:5099/;stream?listening-from-radio-garden=1601015069589
-
-#EXTINF:-1,Go Yesteryears
-https://stream.bongonet.net/proxy/goyesteryears?mp=/stream/1/
-
-#EXTINF:-1,Jago FM 94.4
-http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
-
-#EXTINF:-1,KISSHA
-https://stream.bongonet.net/proxy/robichhaya?mp=/stream/1/
-
-#EXTINF:-1,ROOT AIR FM
-http://live64.zeilsteen.com:7054/stream/1/
-
-#EXTINF:-1,shadhin
-https://node-17.zeno.fm/eabgu655puquv
-
-#EXTINF:-1,Today 89.6
-http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
-
-#EXTINF:-1,Awaj FM 90.8
-http://streamasiacdn.atc-labs.com/radioawaj.aac?listening-from-radio-garden=1601016488674
-
-#EXTINF:-1,Big FM 92.7
-http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
-
-#EXTINF:-1,Bollywood Punjabi Radio
-http://stream.zeno.fm/1k0y9f0cm0quv
-
-#EXTINF:-1,Bollywood Radio and Beyond
-http://185.80.220.12:8046/stream
-
-#EXTINF:-1,BollyFm
-http://stream.radiobollyfm.in:8201/hd?t=1526570335
-
-#EXTINF:-1,City Hiphop
-http://prclive1.listenon.in:9292/;?listening-from-radio-garden=1601019819282
-
-#EXTINF:-1,City
-http://prclive1.listenon.in:9302/;
-
-#EXTINF:-1,City (india)
-http://prclive1.listenon.in:9960/
-
-#EXTINF:-1,city Dance
-http://prclive1.listenon.in:8994
-
-#EXTINF:-1,City Smaran
-http://prclive1.listenon.in:9950/
-
-#EXTINF:-1,Club Mirchi
-https://clubmirchihdlive-lh.akamaihd.net/i/ClubMirchiHDLive_1_1@336269/master.m3u8
-
-#EXTINF:-1,Chillout
-http://94.130.113.214:8000/chill
-
-#EXTINF:-1,Drive Radio
-https://driveradio-lh.akamaihd.net/i/DriveRadio_1@793591/master.m3u8
-
-#EXTINF:-1,Filmy Mirchi
-https://filmymirchihdliv-lh.akamaihd.net/i/FilmyMirchiHDLive_1_1@336266/master.m3u8
-
-#EXTINF:-1,Hindi International
-http://radio.bongonet.net:8012/rhi
-
-#EXTINF:-1,Hindi Retro
-https://puranijeanshdliv-lh.akamaihd.net/i/PuraniJeansHDLive_1_1@334555/master.m3u8
-
-#EXTINF:-1,Ishara
-http://nickerie.webhop.net:8000/;stream.mp3
-
-#EXTINF:-1,MISRI
-https://meethimirchihdl-lh.akamaihd.net/i/MeethiMirchiHDLive_1_1@320572/index_1_a-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,Mirchi
-http://peridot.streamguys.com:7150/Mirchi
-
-#EXTINF:-1,meethi Mirchi
-https://meethimirchihdl-lh.akamaihd.net/i/MeethiMirchiHDLive_1_1@320572/master.m3u8
-
-#EXTINF:-1,Mirchi Unplugged
-https://mirchiunplugged-lh.akamaihd.net/i/mirchiunplugged_1@353022/master.m3u8
-
-#EXTINF:-1,Mirchi Top 20
-https://mt20live-lh.akamaihd.net/i/mt20live_1@346531/master.m3u8
-
-#EXTINF:-1,Mirchi 90's
-https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1@335229/master.m3u8
-
-#EXTINF:-1,Mirchi Inter Hitz
-https://hitzhls-lh.akamaihd.net/i/Hitz_HLS_1@177017/master.m3u8
-
-#EXTINF:-1,Mirchi English Love
-https://radioromancehdli-lh.akamaihd.net/i/RadioRomanceHDLive_1_1@334956/master.m3u8
-
-#EXTINF:-1,Mirchi Pehla Nasha
-https://wmirchi-lh.akamaihd.net/i/WMIRCHI_1@75780/master.m3u8
-
-#EXTINF:-1,Mirchi Indies
-https://meethimirchihdl-lh.akamaihd.net/i/MirchiEdgeHDLive_1_1@336272/master.m3u8
-
-#EXTINF:-1,Non Stop Hindi Radio
-http://198.178.123.14:8216/;
-
-#EXTINF:-1,Retro Bollywood
-http://64.71.79.181:5124/stream?listening-from-radio-garden=1601020369270
-
-#EXTINF:-1,Suno FM 102.
-http://51.255.235.165:5476/;stream.mp3?listening-from-radio-garden=1601020600078
-
-#EXTINF:-1,Traffic FM 88.8
-http://as3.digitalsynapsebd.com:8263/;stream.mp3?listening-from-radio-garden=1601016261922
-
-#EXTINF:-1,Dub Techno
-http://94.130.113.214:8000/dubtechno
-
-#EXTINF:-1,Progressive Psychedelic Trance
-http://94.130.113.214:8000/prog
-
-#EXTINF:-1,BBC FM 1
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
-
-#EXTINF:-1,BBC FM 4
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p
-
-#EXTINF:-1,ATN BANGLA
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/10.ts
-
-#EXTINF:-1,Aljazeera HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/58.ts
-
-#EXTINF:-1,AXN HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/42.ts
-
-#EXTINF:-1,Bflix MOVIE
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/35.ts
-
-#EXTINF:-1,BBC EARTH
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.ts
-
-#EXTINF:-1,BBC Lifestyle
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/46.ts
-
-#EXTINF:-1,BBC WORLD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/56.ts
-
-#EXTINF:-1,CHANNEL I
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/4.ts
-
-#EXTINF:-1,CHANNEL 9
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/7.ts
-
-#EXTINF:-1,COLORS
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/30.ts
-
-#EXTINF:-1,CARTOON NETWORK
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/64.ts
-
-#EXTINF:-1,DEPTO BANGLA
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/5.ts
-
-#EXTINF:-1,DURONTO TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/63.ts
-
-#EXTINF:-1,DISENY CARTOON
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.ts
-
-#EXTINF:-1,DISCOVERY ENGLISH
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
-
-#EXTINF:-1,DSPORTS
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/54.ts
-
-#EXTINF:-1,DW
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/101.ts
-
-#EXTINF:-1,EKATTOR TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/2.ts
-
-#EXTINF:-1,EKUSHEY TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/15.ts
-
-#EXTINF:-1,GAZI TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.ts
-
-#EXTINF:-1,GAAN BANGLA
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/69.ts
-
-#EXTINF:-1,HBO
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.ts
-
-#EXTINF:-1,INDEPENDENT TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/12.ts
-
-#EXTINF:-1,JAMUNA TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/13.ts
-
-#EXTINF:-1,JALSHA MOVIES
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
-
-#EXTINF:-1,MAASRANGA TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/1.ts
-
-#EXTINF:-1,NTV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/9.ts
-
-#EXTINF:-1,MY TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/18.ts
-
-#EXTINF:-1,MUSIC MASTI
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/78.ts
-
-#EXTINF:-1,MTV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/75.ts
-
-#EXTINF:-1,MN HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/38.ts
-
-#EXTINF:-1,NAGORIK TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/3.ts
-
-#EXTINF:-1,PTV Sports
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/67.ts
-
-#EXTINF:-1,SATV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/8.ts
-
-#EXTINF:-1,STAR JALSHA
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
-
-#EXTINF:-1,SANGEET BANGLA
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/70.ts
-
-#EXTINF:-1,STAR PLUS
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/27.ts
-
-#EXTINF:-1,SONY HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.ts
-
-#EXTINF:-1,STAR UTSAV MOVIES
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/37.ts
-
-#EXTINF:-1,SETMAX HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
-
-#EXTINF:-1,STAR MOVIES
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts
-
-#EXTINF:-1,STAR SPORTS 1
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts
-
-#EXTINF:-1,SONY TEN 1
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
-
-#EXTINF:-1,SONY TEN 2 HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.ts
-
-#EXTINF:-1,SONY SIX HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/49.ts
-
-#EXTINF:-1,SONY ESPN
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/48.ts
-
-#EXTINF:-1,TLC HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/45.ts
-
-#EXTINF:-1,ZEE BANGLA
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
-
-#EXTINF:-1,ZEE TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/28.ts
-
-#EXTINF:-1,ZEE CINEMA
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/29.ts
-
-#EXTINF:-1,&Flix
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/40.ts
-
-#EXTINF:-1,E24
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/83.ts
-
-#EXTINF:-1,9X JALWA
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/76.ts
