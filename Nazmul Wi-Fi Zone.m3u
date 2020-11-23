@@ -80,6 +80,114 @@ https://rhridoy136.shortcm.li/iqrabangla.m3u8
 #EXTINF:-1,Alif TV
 http://128.199.212.160/alif/1080/index.m3u8?@asfaiptv
 
+#EXTINF:-1,Nazmul_BTV World
+http://103.205.133.21/hls/btvworld.m3u8
+
+#EXTINF:-1,Nazmul_ATN Bangla
+http://103.205.133.21/hls/atnbangla.m3u8
+
+#EXTINF:-1,Nazmul_Channel I
+http://103.205.133.21/hls/ichannel.m3u8
+
+#EXTINF:-1,Nazmul_Banglavision
+http://103.205.133.21/hls/banglavision.m3u8
+
+#EXTINF:-1,Nazmul_Mohona Tv
+http://103.205.133.21/hls/mohonatv.m3u8
+
+#EXTINF:-1,Nazmul_Channel 24
+http://103.205.133.21/hls/channel24.m3u8
+
+#EXTINF:-1,Nazmul_DBC News
+http://103.205.133.21/hls/dbcnews.m3u8
+
+#EXTINF:-1,Nazmul_Ekushey TV
+http://103.205.133.21/hls/ekushey.m3u8
+
+#EXTINF:-1,Nazmul_Gaan Bangla
+http://103.205.133.21/hls/gaanbangla.m3u8
+
+#EXTINF:-1,Nazmul_JAMUNA TV
+http://103.205.133.21/hls/jamunatv.m3u8
+
+#EXTINF:-1,Nazmmul Wi-fi Zone_News 24
+http://103.205.133.21/hls/news24.m3u8
+
+#EXTINF:-1,Nazmul_SATV
+http://103.205.133.21/hls/satv.m3u8
+
+#EXTINF:-1,Nazmul_Colors Bangla
+http://103.205.133.21/hls/etvbangla.m3u8
+
+#EXTINF:-1,Nazmul_Sony Aath
+http://103.205.133.21/hls/sony8.m3u8
+
+#EXTINF:-1,Nazmul_SONY Tv
+http://103.205.133.21/hls/chs.m3u8
+
+#EXTINF:-1,Nazmul_Bangla Time
+http://103.205.133.21/hls/banglatime.m3u8
+
+#EXTINF:-1,Nazmul_Dhoom Music
+http://103.205.133.21/hls/dhoommusic.m3u8
+
+#EXTINF:-1,Nazmul_Colors
+http://103.205.133.21/hls/chc.m3u8
+
+#EXTINF:-1,Nazmul_Zee TV
+http://103.205.133.21/hls/zeetv.m3u8
+
+#EXTINF:-1,Nazmul_& Pictures
+http://103.205.133.21/hls/andpicture.m3u8
+
+#EXTINF:-1,Nazmul_9XM
+http://103.205.133.21/hls/9xm.m3u8
+
+#EXTINF:-1,Nazmul_Zee Salam
+http://103.205.133.21/hls/zeesalaam.m3u8
+
+#EXTINF:-1,Nazmul_Sony Ten 1
+http://103.205.133.21/hls/ten1.m3u8
+
+#EXTINF:-1,Nazmul_Sony Ten 2
+http://103.205.133.21/hls/ten2.m3u8
+
+#EXTINF:-1,DEEPTO TV HD [BD]
+http://103.205.133.21/hls/deeptotv.m3u8
+
+#EXTINF:-1,Akash Aath [IN]
+https://load.airtelxstream.in/aakashaath/smil:common.smil/chunklist.m3u8
+
+#EXTINF:-1,IPL Live [Regular Update]
+http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
+
+#EXTINF:-1,25.Bangla TV
+http://103.205.133.21/hls/banglatv.m3u8
+
+#EXTINF:-1,Manoranjan Movies
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
+
+#EXTINF:-1,9xM
+https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
+
+#EXTINF:-1,Music India
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
+
+#EXTINF:-1,9x Jalwa
+https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
+
+#EXTINF:-1,9X Jhakaas
+https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
+
+#EXTINF:-1,9X Tashan
+https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in_480p/index.m3u8
+
+#EXTINF:-1,WOW Cinema One
+https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
+
+#EXTINF:-1,Dabangg TV
+https://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
+
 #EXTINF:-1,Ananda TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8?@asfaiptv
 
