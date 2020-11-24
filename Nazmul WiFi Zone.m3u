@@ -5,60 +5,6 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1,Makkah TV 1
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8?checkedby:hlscat.com
 
-#EXTINF:-1,Ananda TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
-
-#EXTINF:-1,Asian TV
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
-
-#EXTINF:-1,ATN Bangla
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
-
-#EXTINF:-1,ATN Bangla UK
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbanglauk-off.stream/chunks.m3u8
-
-#EXTINF:-1,ATN News
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
-
-#EXTINF:-1,Bangla TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
-
-#EXTINF:-1,Bangla Vision
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
-
-#EXTINF:-1,Bijoy TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
-
-#EXTINF:-1,boishakhi tv
-http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
-
-#EXTINF:-1,BTV World
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
-
-#EXTINF:-1,BTV Chottogram
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
-
-#EXTINF:-1,Sangsad TV
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
-
-#EXTINF:-1,Channel 9
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
-
-#EXTINF:-1,Channel 24
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
-
-#EXTINF:-1,Channel i
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
-
-#EXTINF:-1,Channel S (UK)
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
-
-#EXTINF:-1,DBC News
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
-
-#EXTINF:-1,Deepto TV
-http://master.beeiptv.com:8081/MB/deeptotv/playlist.m3u8
-
 #EXTINF:-1,Duronto TV
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8
 
@@ -77,41 +23,8 @@ https://prod-ec-eu-central-1.video.periscope.tv/Transcoding/v1/hls/6Y2kIWCc3p7Yk
 #EXTINF:-1,sportS 1
 https://dx3.gcdn.co/hindi-STARGOLD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,sportS 2
-http://mtv.sports.bdfun.club/live/my-stream-key/index.m3u8
-
 #EXTINF:-1,sportS 3
 https://prod-fastly-ap-south-1.video.pscp.tv/Transcoding/v1/hls/npD5aNxmpZUHX7rh98V7wMhWcbScDZ21RrAjmk1c4Vm1j85wM_bzgBZ8-iugzaDGgAzmMztTRTzINV2jkwM0oA/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/master_dynamic_highlatency.m3u8?type=live
-
-#EXTINF:-1,Independent TV
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
-
-#EXTINF:-1,Jamuna TV
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
-
-#EXTINF:-1,Maasranga TV
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/1.m3u8
-
-#EXTINF:-1,Mohona TV
-http://master.beeiptv.com:8081/MB/mohona/playlist.m3u8
-
-#EXTINF:-1,My TV
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
-
-#EXTINF:-1,NTV UK
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/chunks.m3u8
-
-#EXTINF:-1,News 24
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
-
-#EXTINF:-1,RTV
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
-
-#EXTINF:-1,SA TV
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
-
-#EXTINF:-1,Somoy TV
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 
 #EXTINF:-1,Fox Life
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
@@ -119,26 +32,11 @@ https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,National Geographic
 http://62.210.127.9:25461/p9JJJ9g9TY/f7HrN449rs/28752?token=QhVcUhcJRggXVwMAUFIHBQBUAQdRUgVWVl0MVFBWBFgLDgQBVQMGAQRGGURBEkJRAFtpWgVEXlFdUwJUSkAXElxFa1oAQ14QAVIFXwVQEhhDQl9eBEReUlBdB1lWV1BXABsWQw0FRggXVgRTC1YSGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBXAgRXFBoRAgkRDREWTENcQC84GxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRANfCQVUFEs=
 
-#EXTINF:-1,Zee Bangla Cinema (Opt-02)
-https://load.airtelxstream.in/zeebanglacinema/smil:common.smil/chunklist.m3u8
-
 #EXTINF:-1,Zee Bangla Cinema (Opt-03)
 http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
 
-#EXTINF:-1,Colors BD TV
-http://master.beeiptv.com:8081/MB/colorsbdtv/playlist.m3u8
-
 #EXTINF:-1,Enter 10 Bangla
 http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8
-
-#EXTINF:-1,Jagoroni TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jagoronitv.stream/chunks.m3u8
-
-#EXTINF:-1,DD Bangla
-https://load.airtelxstream.in/ddbangla/smil:common.smil/chunklist.m3u8
-
-#EXTINF:-1,Kolkata TV
-https://load.airtelxstream.in/kolkatatv/smil:common.smil/chunklist.m3u8
 
 #EXTINF:-1,Calcutta News
 https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index_14.m3u8
@@ -152,29 +50,17 @@ https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1,News 18 Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?sd=10&rebase=on&hdntl=~acl=%2f*~data=hdntl~hmac=665cdf608d16e4dc095fa701b5943e475579f4817210c76179d4a731bb8e62f2
 
-#EXTINF:-1,Zee 24 Ghanta
-https://load.airtelxstream.in/zee24ghanta/smil:common.smil/chunklist.m3u8
-
 #EXTINF:-1,Bhumi TV
 http://versewsa.pc.cdn.bitgravity.com/hls/bhumitv.m3u8
 
 #EXTINF:-1,Bangla Time
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/amlst:Banglatime_,b256,b512,b1024,b1824,.smil/chunklist_b512000.m3u8
 
-#EXTINF:-1,Cumilla 24 TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/cumilla24.stream/chunks.m3u8
-
 #EXTINF:-1,Alif TV
 http://128.199.212.160/alif/1080/index.m3u8
 
-#EXTINF:-1,Nan TV
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
-
 #EXTINF:-1,Nandan TV
 http://nandansyst.com/hls/nandan.m3u8
-
-#EXTINF:-1,Channel S HD
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channelsbd.stream/chunks.m3u8
 
 #EXTINF:-1,Jhanker TV
 https://cdnr.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jhankartv.stream/live-orgin/jhankartv.stream/chunks.m3u8
@@ -185,47 +71,11 @@ http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8
 #EXTINF:-1,Channel T1
 http://128.199.212.160/channelt1/1080/index.m3u8
 
-#EXTINF:-1,NRB TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
-
-#EXTINF:-1,Deshe Bideshe
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
-
 #EXTINF:-1,TBN 24 USA
 http://fingerme.dg21bd.com/TBN24/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,Time TV USA
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/chunks.m3u8
-
-#EXTINF:-1,Roal TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8
-
-#EXTINF:-1,Rang TV BD
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rangiptv.stream/chunks.m3u8
-
-#EXTINF:-1,My Cinema
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
-
-#EXTINF:-1,Millennium TV
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/chunks.m3u8
-
-#EXTINF:-1,Nakshi TV
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nakshitv.stream/chunks.m3u8
-
-#EXTINF:-1,Joy Jatra TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/joyjatratv.stream/chunks.m3u8
-
-#EXTINF:-1,Jonmobhumi TV
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/chunks.m3u8
-
-#EXTINF:-1,Pan Vision TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/panvisiontvs.stream/chunks.m3u8
-
 #EXTINF:-1,Magic Bangla TV
 http://enaniptv.com/magicbanglatv/1080/index.m3u8
-
-#EXTINF:-1,Movie Bangla
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 
 #EXTINF:-1,Times 24
 https://cdn.priyoiptv.com:444/priyoiptv/times24tv.stream/playlist.m3u8
@@ -233,104 +83,14 @@ https://cdn.priyoiptv.com:444/priyoiptv/times24tv.stream/playlist.m3u8
 #EXTINF:-1,Ayna TV
 http://str24.l9574.com/510.stream/index.m3u8
 
-#EXTINF:-1,Bangla 21 TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bangla21tv000889956-sg.stream/chunks.m3u8
-
-#EXTINF:-1,T Sports
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
-
 #EXTINF:-1,itv
 http://162.244.81.142:1935/live/livestream/playlist.m3u8?@amarnettv.live
-
-#EXTINF:-1,Madani TV Bangla
-https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
-
-#EXTINF:-1,Peace TV Bangla
-http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDq/chunklist.m3u8
-
-#EXTINF:-1,ATN Islamic TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
-
-#EXTINF:-1,Iqra Bangla UK
-https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8
-
-#EXTINF:-1,Azan TV
-https://live.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/azantv.stream/live-orgin/azantv.stream/chunks.m3u8
-
-#EXTINF:-1,ATN Music
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
-
-#EXTINF:-1,Gaan Bangla
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
-
-#EXTINF:-1,RTV Music
-https://tempe.jagobd.com:445/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtvmusic.stream/chunks.m3u8
-
-#EXTINF:-1,Dhoom Music
-https://load.airtelxstream.in/dhoommusic/smil:common.smil/chunklist.m3u8
-
-#EXTINF:-1,Jonack
-https://load.airtelxstream.in/jonack/smil:common.smil/chunklist.m3u8
-
-#EXTINF:-1,Rang TV Assam
-https://load.airtelxstream.in/rang/smil:common.smil/chunklist.m3u8
-
-#EXTINF:-1,Bangladesh Vs Nepal Live
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/playlist.m3u8
-
-#EXTINF:-1,Zee Bangla HD (Backup)
-http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
-
-#EXTINF:-1,Zee Bangla Cinema
-http://z5amshls.akamaized.net/zbanglacnm/playlist.m3u8
-
-#EXTINF:-1,Channel 9
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
-
-#EXTINF:-1,Desh Tv
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8
-
-#EXTINF:-1,Rtv HD
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
-
-#EXTINF:-1,Asian Tv HD
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
-
-#EXTINF:-1,Aakash Aat
-https://load.airtelxstream.in/aakashaath/smil:common.smil/chunklist.smil.m3u8
 
 #EXTINF:-1,Colors Bangla HD
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 
-#EXTINF:-1,DD Bangla
-https://load.airtelxstream.in/ddbangla/smil:common.smil/chunklist.smil.m3u8
-
-#EXTINF:-1,Maasranga Tv HD
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
-
-#EXTINF:-1,Time Tv
-https://bdsl.jagobd.com:441/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/chunks.m3u8
-
-#EXTINF:-1,Movi Bangla
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
-
-#EXTINF:-1,Channel S UK
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
-
 #EXTINF:-1,I TV HD
 http://162.244.81.142:1935/live/livestream/playlist.m3u8
-
-#EXTINF:-1,Ion Tv Uk
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iontvuk.stream/chunks.m3u8
-
-#EXTINF:-1,71 bangla Tv HD
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/71bangla.stream/chunks.m3u8
-
-#EXTINF:-1,Nakshi Tv
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nakshitv.stream/chunks.m3u8
-
-#EXTINF:-1,Nan Tv
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
 
 #EXTINF:-1,Probasi Bangla
 http://163.172.29.246:8081/globalbd/probashi_bangla/chunks.m3u8
@@ -338,17 +98,11 @@ http://163.172.29.246:8081/globalbd/probashi_bangla/chunks.m3u8
 #EXTINF:-1,Sopno Tv HD
 http://103.81.198.111:8080/shopno/shopnotv.m3u8
 
-#EXTINF:-1,Digi Bangla
-http://103.205.133.21/hls/digibangla.m3u8
-
 #EXTINF:-1,Channel 23 HD
 http://103.108.140.164:1009/channel23/livestream/chunklist_w1734717153.m3u8
 
 #EXTINF:-1,CNN Bangla
 https://cdn1-europe.smartcast.tv/rtvd/cnnb_backup/playlist.m3u8
-
-#EXTINF:-1,Ab Tv USA
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/abtvusa.stream/chunks.m3u8
 
 #EXTINF:-1,Artv Network
 https://m6gdakveln93-hls-live.5centscdn.com/ARTVN/d0dbe915091d400bd8ee7f27f0791303.sdp/ARTVN/d0dbe915091d400bd8ee7f27f0791303.sdp1/chunks.m3u8
@@ -361,18 +115,6 @@ http://doyeltv1.flashmediacast.com:1935/doyeltv/livestream/chunklist_w2144659225
 
 #EXTINF:-1,ABC Bangla
 http://master.beeiptv.com:8081/ATL/atltv/playlist.m3u8
-
-#EXTINF:-1,Biswa Bangla 24
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/biswabanglatv.stream/chunks.m3u8
-
-#EXTINF:-1,Rang Tv SD
-https://load.airtelxstream.in/rang/smil:common.smil/chunklist.smil.m3u8
-
-#EXTINF:-1,Channel H
-http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channelhtv.stream/chunks.m3u8
-
-#EXTINF:-1,City Tv
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/citytv.stream/chunks.m3u8
 
 #EXTINF:-1,Meem Tv USA
 http://str24.l9574.com/502.stream/tracks-v1a1/index.m3u8
@@ -392,32 +134,14 @@ http://103.109.213.18:5563/live/bongotv/chunklist_w937507918.m3u8
 #EXTINF:-1,Law Tv Bangla
 http://master.beeiptv.com:8081/LAW/lawtv/chunks.m3u8
 
-#EXTINF:-1,Rnn Tv
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rnntv.stream/chunks.m3u8
-
 #EXTINF:-1,Nobodip Bangla
 http://nobodip.mywire.org:8081/beeiptv/nobodip/chunks.m3u8
-
-#EXTINF:-1,Nongor Tv
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nongortv.stream/chunks.m3u8
-
-#EXTINF:-1,DBC News
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
-
-#EXTINF:-1,Jamuna Tv
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 
 #EXTINF:-1,Ajtak HD
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415-b/aajtakhd/aajtakhdlive/aajtakhd_5/chunklist.m3u8
 
 #EXTINF:-1,ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530-b/abpananda/masterhls_1564.m3u8
-
-#EXTINF:-1,Bangla Time
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/timetvkolkata.stream/chunks.m3u8
-
-#EXTINF:-1,Kolkata Tv
-https://load.airtelxstream.in/kolkatatv/smil:common.smil/chunklist.smil.m3u8
 
 #EXTINF:-1,Amar Ujala
 https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
@@ -446,9 +170,6 @@ http://dx3.gcdn.co/hindi-ZEETVHD/index.m3u8
 #EXTINF:-1,Miniplex HD
 http://dx3.gcdn.co/hindi-MINIPLEXHD/index.m3u8
 
-#EXTINF:-1,B4u Plus
-http://178.132.3.162:88/B4U_Plus/video.m3u8?token=test
-
 #EXTINF:-1,And Pictures SD
 http://z5amshls.akamaized.net/andpicssd/playlist.m3u8
 
@@ -460,147 +181,6 @@ https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/playl
 
 #EXTINF:-1,shemaroome Classic
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/playlist_cf.m3u8
-
-#EXTINF:-1,Sony Max SD
-https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist.smil.m3u8
-
-#EXTINF:-1,Sony Max Hd (Backup)
-http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
-
-#EXTINF:-1,Sony Max 2 SD
-https://load.airtelxstream.in/sonymax2/smil:common.smil/chunklist.smil.m3u8
-
-#EXTINF:-1,Sony Wah
-https://load.airtelxstream.in/sonywah/smil:common.smil/chunklist.smil.m3u8
-
-#EXTINF:-1,Star Gold HD (Backup)
-http://dx3.gcdn.co/hindi-STARGOLD/index.m3u8
-
-#EXTINF:-1,Star Gold HD UK
-https://dx3.gcdn.co/hindi-STARGOLDUK/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Zee Cinema SD
-http://z5amshls.akamaized.net/zeecinemame/playlist.m3u8
-
-#EXTINF:-1,Zee Cinema HD
-http://z5amshls.akamaized.net/zcinemahd/playlist.m3u8
-
-#EXTINF:-1,Enterr10
-https://load.airtelxstream.in/enterr10/smil:common.smil/chunklist.smil.m3u8
-
-#EXTINF:-1,ABZY
-https://m-c01-j2apps.s.llnwi.net/hls/6641.SkystarFilme.in.m3u8
-
-#EXTINF:-1,Colors Cineplex HD
-http://dx3.gcdn.co/hindi-COLORSCINEPLEXHD/index.m3u8
-
-#EXTINF:-1,Manoranjan Tv
-https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
-
-#EXTINF:-1,Mtv
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/75.ts
-
-#EXTINF:-1,Star Gold Select HD (Backup)
-http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8
-
-#EXTINF:-1,Utv Action
-https://dx3.gcdn.co/hindi-UTVACTION/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,UTv Movies
-http://103.205.133.21/hls/zeecinema.m3u8
-
-#EXTINF:-1,Utv HD
-http://dx3.gcdn.co/hindi-UTVACTION/index.m3u8
-
-#EXTINF:-1,Wow Cinema
-https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
-
-#EXTINF:-1,B4U Kadak
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(02)/index.m3u8
-
-#EXTINF:-1,Moha Movi
-https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
-
-#EXTINF:-1,BBO
-https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8
-
-#EXTINF:-1,BBO Classic
-https://yuppcatchup.akamaized.net/preview/bboclassic/2500.m3u8
-
-#EXTINF:-1,Bflix Movi
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-
-#EXTINF:-1,Cinema Tv
-https://load.airtelxstream.in/cinematvindia/smil:common.smil/chunklist.smil.m3u8
-
-#EXTINF:-1,Btv Kadak
-https://cdnr.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvkadak.stream/live-orgin/btvkadak.stream/chunks.m3u8
-
-#EXTINF:-1,Axn SD
-http://210.210.155.66/h/h141/01.m3u8
-
-#EXTINF:-1,Kix HD
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
-
-#EXTINF:-1,WB
-https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
-
-#EXTINF:-1,Andflix SD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/40.ts
-
-#EXTINF:-1,MN+ HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/38.ts
-
-#EXTINF:-1,Vip premiere HD
-http://live-ng-01.more.tv/hls/ViP_Premiere_HD/index_1.m3u8
-
-#EXTINF:-1,Vip Megha Hit HD
-http://live-ng-01.more.tv/hls/ViP_Megahit_HD/index_1.m3u8
-
-#EXTINF:-1,Vip Comedy HD
-http://live-ng-01.more.tv/hls/ViP_Comedy_HD/index_1.m3u8
-
-#EXTINF:-1,Bein Movies 1 HD Premeire
-https://digitalxpress.gcdn.co/live1/BeinMoviesHD1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Bein Movies 2 HD Action
-https://digitalxpress.gcdn.co/live1/BeinMoviesHD2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Bein Movies 3 HD Drama
-https://digitalxpress.gcdn.co/live1/BeinMoviesHD3/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Bein Movies 4 HD Family
-https://digitalxpress.gcdn.co/live1/BeinMoviesHD4/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,HBO Hits
-https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbohits.m3u8
-
-#EXTINF:-1,HBO Family
-https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbofamily.m3u8
-
-#EXTINF:-1,HBO Signature
-https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbosig.m3u8
-
-#EXTINF:-1,Sun Tv HD
-https://load.airtelxstream.in/udayahd/smil:common.smil/chunklist.m3u8
-
-#EXTINF:-1,Pragalaya Tv
-http://7starcloud.com:1935/pragalya/pragalyatv/playlist.m3u8
-
-#EXTINF:-1,Monoroma HD
-http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/Stream(01)/index.m3u8
-
-#EXTINF:-1,Spice Tv
-http://7starcloud.com:1935/spicetv/spicelivetv/playlist.m3u8
-
-#EXTINF:-1,SS Tv HD
-http://live.7starcloud.com:1935/live/sstv/playlist.m3u8
-
-#EXTINF:-1,Dabang
-http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
-
-#EXTINF:-1,Manoranjan Movies
-http://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 
 #EXTINF:-1,Nepal Tv HD
 https://np.nettvnepal.com.np/pulltest/NTVNEPAL1500.stream/chunks.m3u8
@@ -628,9 +208,6 @@ http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8
 
 #EXTINF:-1,Travelxp HD Hindi
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.ts
-
-#EXTINF:-1,Life Style
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/46.ts
 
 #EXTINF:-1,Discovery Science
 http://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
@@ -677,9 +254,6 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chun
 #EXTINF:-1,Dubai Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 
-#EXTINF:-1,Dsports
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/54.ts
-
 #EXTINF:-1,Ten Sports
 http://dx3.gcdn.co/TENCRICKET/index.m3u8
 
@@ -724,15 +298,6 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
 
 #EXTINF:-1,Sony Six HD
 http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Sony Ten 1 HD
-https://load.airtelxstream.in/sonyten1hd/smil:common.smil/chunklist.smil.m3u8
-
-#EXTINF:-1,Sony Ten 2 HD
-http://103.205.133.20/hls/ten2.m3u8
-
-#EXTINF:-1,Sony Ten 3 HD
-https://load.airtelxstream.in/sonyten3hd/smil:common.smil/chunklist.smil.m3u8
 
 #EXTINF:-1,Olympic Channel
 http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8?260299401.m3u8
@@ -779,9 +344,6 @@ https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1,Sports Tv 4 HD
 https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
 
-#EXTINF:-1,Sports Tv 5 HD
-https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
-
 #EXTINF:-1,Premier Football HD 1
 https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 
@@ -800,9 +362,6 @@ https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1,True Sports HD 1
 https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
 
-#EXTINF:-1,True Sports HD 2
-https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
-
 #EXTINF:-1,True Sports HD 3
 https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
 
@@ -818,12 +377,6 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1,CNN
 https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_5_av-p.m3u8
 
-#EXTINF:-1,Zee 24 Ghonta
-https://load.airtelxstream.in/zee24ghanta/smil:common.smil/chunklist.smil.m3u8
-
-#EXTINF:-1,Zee Hindustan
-https://load.airtelxstream.in/zeehindustan/smil:common.smil/chunklist.smil.m3u8
-
 #EXTINF:-1,Times 24
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/times24tv.stream/playlist.m3u8
 
@@ -832,9 +385,6 @@ https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
 
 #EXTINF:-1,News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
-
-#EXTINF:-1,Media One
-https://load.airtelxstream.in/mediaone/smil:common.smil/chunklist.smil.m3u8
 
 #EXTINF:-1,India Tv
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/playlist.m3u8
@@ -851,32 +401,17 @@ http://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
 #EXTINF:-1,Kadak Hits
 https://live.hungama.com/linear/kadak-hits/playlist.m3u8
 
-#EXTINF:-1,E24
-https://load.airtelxstream.in/e24/smil:common.smil/chunklist.smil.m3u8
-
-#EXTINF:-1,Zeta HD
-http://rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist.m3u8
-
 #EXTINF:-1,Rtv music HD
 http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtvmusic.stream/chunks.m3u8
 
 #EXTINF:-1,9xm Music
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 
-#EXTINF:-1,9x Tashan
-https://load.airtelxstream.in/9xtashan/smil:common.smil/chunklist.smil.m3u8
-
-#EXTINF:-1,9x Jhakaas
-https://load.airtelxstream.in/9xjhakaas/smil:common.smil/chunklist.smil.m3u8
-
 #EXTINF:-1,B4u Music
 http://dx3.gcdn.co/hindi-B4UMUSIC/index.m3u8
 
 #EXTINF:-1,Dilse
 https://live.hungama.com/linear/dil-se/playlist.m3u8
-
-#EXTINF:-1,Masti
-https://load.airtelxstream.in/mastiii/smil:common.smil/chunklist.smil.m3u8
 
 #EXTINF:-1,Music India
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
@@ -892,9 +427,6 @@ http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 
 #EXTINF:-1,Steelbird Music
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
-
-#EXTINF:-1,Mh1
-https://load.airtelxstream.in/mh1/smil:common.smil/chunklist.smil.m3u8
 
 #EXTINF:-1,Only Music HD
 http://live.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/chunks.m3u8
@@ -917,9 +449,6 @@ http://7starcloud.com:1935/dharshan/dharshantv/playlist.m3u8
 #EXTINF:-1,Shemaroome Bhakti
 https://livechannel.shemaroome.com/linearplayout/bhakti-linear-channel/chunklist_854x480_cf.m3u8
 
-#EXTINF:-1,Al Dawah
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dawah-eu.stream/chunks.m3u8
-
 #EXTINF:-1,Peace Tv Bnagla
 https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDq/chunklist.m3u8
 
@@ -932,50 +461,17 @@ http://lifetv.livebox.co.in/channel316hls/live.m3u8
 #EXTINF:-1,Faith TV HD
 http://faithtvlive.livebox.co.in/faithtvhls/live.m3u8
 
-#EXTINF:-1,Ramdhenu TV
-https://load.airtelxstream.in/ramdhenu/smil:common.smil/chunklist.m3u8
-
-#EXTINF:-1,DD Assam
-https://load.airtelxstream.in/ddnortheast/smil:common.smil/chunklist.m3u8
-
-#EXTINF:-1,Assam Talk
-https://load.airtelxstream.in/assamtalks/smil:common.smil/chunklist.m3u8
-
-#EXTINF:-1,dy365
-https://load.airtelxstream.in/dy365/smil:common.smil/chunklist.m3u8
-
 #EXTINF:-1,News18 Assam
 https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8
 
 #EXTINF:-1,News Time Assam
 http://rtmp.smartstream.video:1935/globalherald/globalherald/playlist.m3u8
 
-#EXTINF:-1,Pratidin Time
-https://load.airtelxstream.in/pratidintime/smil:common.smil/chunklist.m3u8
-
-#EXTINF:-1,News Live
-https://load.airtelxstream.in/newslive/smil:common.smil/chunklist.m3u8
-
-#EXTINF:-1,Prag News
-https://load.airtelxstream.in/pragnews/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
-
-#EXTINF:-1,MBC TV
-https://load.airtelxstream.in/mbctv/smil:common.smil/chunklist.m3u8
-
-#EXTINF:-1,Tarang TV
-https://load.airtelxstream.in/tarangtv/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
-
 #EXTINF:-1,Naxatra News
 http://wearelive.livebox.co.in/naxatratvhls/Naxatratv.m3u8
 
-#EXTINF:-1,Kanak News
-https://load.airtelxstream.in/kanaknews/smil:common.smil/chunklist.m3u8
-
 #EXTINF:-1,Animax (Opt-1)
 https://hlstw.ihome.tokyo/live/cs25.stream/playlist.m3u8?wowzasessionid=1418677106
-
-#EXTINF:-1,Animax (Opt-2)
-http://210.210.155.35/dr9445/h/h144/01.m3u8
 
 #EXTINF:-1,Boomerang
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
@@ -1019,20 +515,11 @@ https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 
-#EXTINF:-1,Sony Ten 1 (Opt-1)
-https://load.airtelxstream.in/sonyten1hd/smil:common.smil/chunklist_b896000_sleng.m3u8
-
-#EXTINF:-1,Sony Ten 1 (Opt-2)
-https://load.airtelxstream.in/sonyten1/smil:common.smil/chunklist_b896000_sleng.m3u8
-
 #EXTINF:-1,Sony Ten 1 (Opt-3)
 http://dx3.gcdn.co/TEN1HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Sony Ten 2 (Opt-2)
 http://dx3.gcdn.co/TEN2HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Sony Ten 3 (Opt-1)
-https://load.airtelxstream.in/sonyten3hd/smil:common.smil/chunklist_b896000_sleng.m3u8
 
 #EXTINF:-1,Sony Ten 3 (Opt-2)
 http://dx3.gcdn.co/TEN3HD/tracks-v1a1/mono.m3u8
@@ -1253,9 +740,6 @@ https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 #EXTINF:-1,DD News
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 
-#EXTINF:-1,Zee News
-https://load.airtelxstream.in/zeenews/smil:common.smil/chunklist.m3u8
-
 #EXTINF:-1,India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_4/chunklist.m3u8
 
@@ -1280,9 +764,6 @@ https://madnitv.vdn.dstreamone.net/madnitvenglish/madnienglishabr/playlist.m3u8
 #EXTINF:-1,Imam Hussein TV 1 Farsi
 http://live.imamhossaintv.com/live/ih1.m3u8
 
-#EXTINF:-1,Bible Explorations
-http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
-
 #EXTINF:-1,Swamiji TV
 http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/chunklist_w823726530_b1100000.m3u8
 
@@ -1303,9 +784,6 @@ http://136.243.177.164/24KITCHEN/playlist.m3u8
 
 #EXTINF:-1,Zee Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Star Movies Select HD
-http://master.beeiptv.com:8081/MB/starmovies/playlist.m3u8
 
 #EXTINF:-1,HBO (Opt-2)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
@@ -1346,26 +824,14 @@ http://channelsstream.xyz:8080/live/streeem/streeem/2.m3u8
 #EXTINF:-1,MBC Bollywood HD
 http://channelsstream.xyz:8080/live/streeem/streeem/12.m3u8
 
-#EXTINF:-1,Thrill HD
-http://210.210.155.35/qwr9ew/s/s34/01.m3u8
-
 #EXTINF:-1,Filmbox
 http://213.151.233.20:8000/dna-6110-tv-pc/hls/4005v105.m3u8
 
 #EXTINF:-1,AXN SPIN
 http://rstr0.teamnetwork.co/stream156/stream.m3u8
 
-#EXTINF:-1,AXN (Opt-02)
-http://210.210.155.35/uq2663/h/h141/01.m3u8
-
 #EXTINF:-1,amc
 https://cdn1.mobiletv.bg/T7/amc/amc_794613_850k.m3u8
-
-#EXTINF:-1,HITS
-http://210.210.155.35/uq2663/h/h37/index2.m3u8
-
-#EXTINF:-1,Cinema World
-http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
 
 #EXTINF:-1,Global Comedy
 https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
@@ -1396,12 +862,6 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/
 
 #EXTINF:-1,Grovy TV
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
-
-#EXTINF:-1,Film On TV (Opt-1)
-https://edge-1192-ch-gv.filmon.com/live/3386.high.stream/playlist.m3u8
-
-#EXTINF:-1,Film On TV (Opt-2)
-https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8
 
 #EXTINF:-1,Movie Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
@@ -1463,9 +923,6 @@ https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
 #EXTINF:-1,BFLIX Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 
-#EXTINF:-1,Zee Bioskop
-http://210.210.155.35/qwr9ew/s/s32/index.m3u8
-
 #EXTINF:-1,Zee Bollywood (Opt-01)
 http://z5amshls.akamaized.net/classic/tracks-v1a1/index.m3u8
 
@@ -1510,9 +967,6 @@ http://cdn61.liveonlineservices.com/hls/subrang.m3u8
 
 #EXTINF:-1,DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
-
-#EXTINF:-1,DD Kisan
-https://load.airtelxstream.in/ddkisan/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
 
 #EXTINF:-1,ARY Family
 http://95.211.211.168/live/aryfamily0071/playlist.m3u8
@@ -1571,12 +1025,6 @@ https://edge1.dashmedia.tv/onestudio/Living_Outdoors/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1,Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
-#EXTINF:-1,Blue Ant Extreme
-http://45.126.83.51/dr9445/h/h15/01.m3u8
-
-#EXTINF:-1,Blue Ant Entertainment
-http://45.126.83.51/dr9445/h/h16/01.m3u8
-
 #EXTINF:-1,Better Life TV
 http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
 
@@ -1618,9 +1066,6 @@ http://csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tls1.yospace.com/csm/extlive/boxplus0
 
 #EXTINF:-1,Kiss
 http://csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tls1.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
-
-#EXTINF:-1,Pardesi TV
-http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,The BOX
 http://csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tls1.yospace.com/csm/extlive/boxplus01,thebox-inapp.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
@@ -1757,17 +1202,11 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1,Varendra Tv HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/varendratv.stream/chunks.m3u8
 
-#EXTINF:-1,Wow Cinema
-http://103.205.133.21/hls/wowcinema.m3u8
-
 #EXTINF:-1,Moha Movi
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_480p/index.m3u8
 
 #EXTINF:-1,Disney Junior
 http://79.137.41.99/DisneyChannel/index.m3u8
-
-#EXTINF:-1,Nick HD+
-https://load.airtelxstream.in/sonyyaytelugu/smil:common.smil/chunklist.smil.m3u8
 
 #EXTINF:-1,9xm Music
 http://103.205.133.20/hls/9xm.m3u8
@@ -1829,35 +1268,14 @@ http://z5amshls.akamaized.net/andflixhd/playlist.m3u8
 #EXTINF:-1,MyLife4U
 https://edge1.dashmedia.tv/onestudio/my_life_4u/playlist.m3u8
 
-#EXTINF:-1,Channel 9(2)
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/7.ts
-
 #EXTINF:-1,Channel I
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/4.ts
 
 #EXTINF:-1,Ekattor Tv
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/02.ts
 
-#EXTINF:-1,NAGORIK TV(*)
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/03.ts
-
 #EXTINF:-1,Peace TV Bangla
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
-
-#EXTINF:-1,SA TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/8.ts
-
-#EXTINF:-1,Star Jalsa Movies
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
-
-#EXTINF:-1,Star jalsha HD
-https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
-
-#EXTINF:-1,Sony Aath
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.ts
-
-#EXTINF:-1,Zee Cinema
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/29.ts
 
 #EXTINF:-1,Animal Planet Hindi
 http://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
@@ -1880,14 +1298,8 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
 #EXTINF:-1,Sony Ten 2
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.ts
 
-#EXTINF:-1,Sony Ten 3 HD
-https://load.airtelxstream.in/sonyten3hd/smil:common.smil/chunklist.m3u8
-
 #EXTINF:-1,ESPN HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/48.ts
-
-#EXTINF:-1,Fight Sports
-http://45.126.83.51/uq2663/h/h05/index.m3u8
 
 #EXTINF:-1,Bein Sports
 http://ydv2wp0o6ma.a.trbcdn.net/hls/m3u8/CDN-HLS-Bein1-F.m3u8
@@ -1903,9 +1315,6 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/68.ts
 
 #EXTINF:-1,nick sonic
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/67.ts
-
-#EXTINF:-1,Aniplus
-http://45.126.83.51/dr9445/h/h02/index.m3u8
 
 #EXTINF:-1,Disney XD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.ts
@@ -1928,9 +1337,6 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
 #EXTINF:-1,FOX NEWS
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,Hits
-http://45.126.83.51/uq2663/h/h37/index.m3u8
-
 #EXTINF:-1,Zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
 
@@ -1945,9 +1351,6 @@ http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/12.m3u8
 
 #EXTINF:-1,Sony SAB HD
 http://dx3.gcdn.co/hindi-SONYSABHD/index.m3u8
-
-#EXTINF:-1,SONY MAX
-https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist.m3u8
 
 #EXTINF:-1,Zee Cinema
 https://y5w8j4a9.ssl.hwcdn.net/cinemausa/index.m3u8
@@ -2033,89 +1436,8 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_qu
 #EXTINF:-1,Saudi Sunnah
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
 
-#EXTINF:-1,Nazmul_BTV World
-http://103.205.133.21/hls/btvworld.m3u8
-
-#EXTINF:-1,Nazmul_ATN Bangla
-http://103.205.133.21/hls/atnbangla.m3u8
-
-#EXTINF:-1,Nazmul_Channel I
-http://103.205.133.21/hls/ichannel.m3u8
-
-#EXTINF:-1,Nazmul_Banglavision
-http://103.205.133.21/hls/banglavision.m3u8
-
-#EXTINF:-1,Nazmul_Mohona Tv
-http://103.205.133.21/hls/mohonatv.m3u8
-
-#EXTINF:-1,Nazmul_Channel 24
-http://103.205.133.21/hls/channel24.m3u8
-
-#EXTINF:-1,Nazmul_DBC News
-http://103.205.133.21/hls/dbcnews.m3u8
-
-#EXTINF:-1,Nazmul_Ekushey TV
-http://103.205.133.21/hls/ekushey.m3u8
-
-#EXTINF:-1,Nazmul_Gaan Bangla
-http://103.205.133.21/hls/gaanbangla.m3u8
-
-#EXTINF:-1,Nazmul_JAMUNA TV
-http://103.205.133.21/hls/jamunatv.m3u8
-
-#EXTINF:-1,Nazmmul Wi-fi Zone_News 24
-http://103.205.133.21/hls/news24.m3u8
-
-#EXTINF:-1,Nazmul_SATV
-http://103.205.133.21/hls/satv.m3u8
-
-#EXTINF:-1,Nazmul_Colors Bangla
-http://103.205.133.21/hls/etvbangla.m3u8
-
-#EXTINF:-1,Nazmul_Sony Aath
-http://103.205.133.21/hls/sony8.m3u8
-
-#EXTINF:-1,Nazmul_SONY Tv
-http://103.205.133.21/hls/chs.m3u8
-
-#EXTINF:-1,Nazmul_Bangla Time
-http://103.205.133.21/hls/banglatime.m3u8
-
-#EXTINF:-1,Nazmul_Dhoom Music
-http://103.205.133.21/hls/dhoommusic.m3u8
-
-#EXTINF:-1,Nazmul_Colors
-http://103.205.133.21/hls/chc.m3u8
-
-#EXTINF:-1,Nazmul_Zee TV
-http://103.205.133.21/hls/zeetv.m3u8
-
-#EXTINF:-1,Nazmul_& Pictures
-http://103.205.133.21/hls/andpicture.m3u8
-
-#EXTINF:-1,Nazmul_9XM
-http://103.205.133.21/hls/9xm.m3u8
-
-#EXTINF:-1,Nazmul_Zee Salam
-http://103.205.133.21/hls/zeesalaam.m3u8
-
-#EXTINF:-1,Nazmul_Sony Ten 1
-http://103.205.133.21/hls/ten1.m3u8
-
-#EXTINF:-1,Nazmul_Sony Ten 2
-http://103.205.133.21/hls/ten2.m3u8
-
-#EXTINF:-1,DEEPTO TV HD [BD]
-http://103.205.133.21/hls/deeptotv.m3u8
-
-#EXTINF:-1,Akash Aath [IN]
-https://load.airtelxstream.in/aakashaath/smil:common.smil/chunklist.m3u8
-
 #EXTINF:-1,IPL Live [Regular Update]
 http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
-
-#EXTINF:-1,25.Bangla TV
-http://103.205.133.21/hls/banglatv.m3u8
 
 #EXTINF:-1,Manoranjan Movies
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
@@ -2144,9 +1466,6 @@ https://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 #EXTINF:-1,Box Cinema
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
 
-#EXTINF:-1,Sony Sab
-https://load.airtelxstream.in/sabhd/smil:common.smil/playlist.m3u8
-
 #EXTINF:-1,Star Plus HD
 http://dx3.gcdn.co/hindi-STARPLUSHD/index.m3u8
 
@@ -2155,15 +1474,6 @@ https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
 
 #EXTINF:-1,& Picture HD
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
-
-#EXTINF:-1,Sony Ten 1 HD
-https://load.airtelxstream.in/sonyten1hd/smil:common.smil/chunklist.m3u8
-
-#EXTINF:-1,Sony Ten 2 HD
-https://load.airtelxstream.in/sonyten2hd/smil:common.smil/chunklist.m3u8
-
-#EXTINF:-1,Sony Ten 3
-https://load.airtelxstream.in/sonyten3/smil:common.smil/chunklist.m3u8
 
 #EXTINF:-1,RT News HD
 http://rt-usa.secure.footprint.net:80/1105_2500Kb.m3u8?@amarnettv.live
@@ -2212,30 +1522,6 @@ https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
 
 #EXTINF:-1,MASTI
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
-
-#EXTINF:-1,ABPNEWS
-https://load.airtelxstream.in/abpnews/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
-
-#EXTINF:-1,DANGAL
-https://load.airtelxstream.in/dangal/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
-
-#EXTINF:-1,9XJALWA
-https://load.airtelxstream.in/9xjalwa/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
-
-#EXTINF:-1,SONYMAX2
-https://load.airtelxstream.in/sonymax2/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
-
-#EXTINF:-1,SONYMAX
-https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
-
-#EXTINF:-1,SONYWAH
-https://load.airtelxstream.in/sonywah/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
-
-#EXTINF:-1,9xtashan
-https://load.airtelxstream.in/9xtashan/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
-
-#EXTINF:-1,balleballe
-https://load.airtelxstream.in/balleballe/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
 
 #EXTINF:-1,tvpunjabi
 http://cdn.samtv.ca/tvpunjab/index.m3u8
@@ -2312,323 +1598,11 @@ https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index_dvr.m3u8
 #EXTINF:-1,Comedy central Hd
 https://flametvadmin.tk/merimaakichutmeflametvadminskalundghusega.php?c=Comedy_Central_HD&q=800
 
-#EXTINF:-1,ABP NEWS
-https://load.airtelxstream.in/abpnews/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,NDTV24/7
-https://load.airtelxstream.in/ndtv24x7/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,ZEE NEWS
-https://load.airtelxstream.in/zeenews/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,INDIATV
-https://load.airtelxstream.in/indiatv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,SONYWAH
-https://load.airtelxstream.in/sonywah/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,SONYMAX2
-https://load.airtelxstream.in/sonymax2/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,NDTV INDIA
-https://load.airtelxstream.in/ndtvindia/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,INDIA NEWS
-https://load.airtelxstream.in/indianews/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,MASTII
-https://load.airtelxstream.in/mastiii/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,LOKSABHA TV
-https://load.airtelxstream.in/loksabhatv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,NEWS24
-https://load.airtelxstream.in/news24/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,ZEE UP
-https://load.airtelxstream.in/zeeup/smil:common.smil/playlist.m3u8?DVR
-
 #EXTINF:-1,NAZARANA
 https://live.hungama.com/linear/nazrana/playlist.m3u8
 
-#EXTINF:-1,9XM
-https://load.airtelxstream.in/9xm/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,ZEE BIHAR
-https://load.airtelxstream.in/zeebiharjh/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,ENTER10
-https://load.airtelxstream.in/enterr10/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,9XJALWA
-https://load.airtelxstream.in/9xjalwa/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,ZEE RAJASTHAN
-https://load.airtelxstream.in/zeerajasthan/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,CINEMA TV
-https://load.airtelxstream.in/cinematvindia/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,TIMES NOW HD
-https://load.airtelxstream.in/timesnowhd/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,MIRROR NOW
-https://load.airtelxstream.in/mirrornow/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,ZEE BUSINESS
-https://load.airtelxstream.in/zeebusiness/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,DDNEWS
-https://load.airtelxstream.in/ddnews/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,DD UP
-https://load.airtelxstream.in/ddup/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,RSTV
-https://load.airtelxstream.in/rstv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,RT
-https://load.airtelxstream.in/rt/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,WION
-https://load.airtelxstream.in/wion/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,AL JAZEERA
-https://load.airtelxstream.in/aljazeera/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,ZEE HINDUSTAN
-https://load.airtelxstream.in/zeehindustan/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,NDTV GOOD TIMES
-https://load.airtelxstream.in/ndtvgoodtimes/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,FTV
-https://load.airtelxstream.in/ftv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,DD BHARTI
-https://load.airtelxstream.in/ddbharati/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,ZEE MPCH
-https://load.airtelxstream.in/zeempch/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,E24
-https://load.airtelxstream.in/e24/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,DD KISAN
-https://load.airtelxstream.in/ddkisan/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,TV9 MARATHI
-https://load.airtelxstream.in/tv9marathi/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,ABP MAJHA
-https://load.airtelxstream.in/abpmajha/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,SANGEET MARATHI
-https://load.airtelxstream.in/sangeetmarathi/smil:common.smil/playlist.m3u8
-
-#EXTINF:-1,9X JHAKAAS
-https://load.airtelxstream.in/9xjhakaas/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,ZEE24TAAS
-https://load.airtelxstream.in/zee24taas/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,DDKASHIR
-https://load.airtelxstream.in/ddkashir/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,DANGAL
-https://load.airtelxstream.in/dangal/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,DD BIHAR
-https://load.airtelxstream.in/ddbihar/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,RAJ DIGITAL PLUS
-https://load.airtelxstream.in/rajdigitalplus/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,SONY MAX
-https://load.airtelxstream.in/sonymax/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,PUTHUYUGAM
-https://load.airtelxstream.in/puthuyugam/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,RAJTV
-https://load.airtelxstream.in/rajtv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,KALAIGNAR TV
-https://load.airtelxstream.in/kalaignartv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,POLIMER TV
-https://load.airtelxstream.in/polimertv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,SIRIPPOLI
-https://load.airtelxstream.in/sirippoli/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,MAKKAL TV
-https://load.airtelxstream.in/makkaltv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,VASABTH TV
-https://load.airtelxstream.in/vasanthtv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,SEITHIGAL1247
-https://load.airtelxstream.in/seithigal247/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,NEWS7 TAMIL
-https://load.airtelxstream.in/news7tamil/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,PUTHIYATHALAIMURAI
-https://load.airtelxstream.in/puthiyathalaimurai/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,RAJ NEWS TAMIL
-https://load.airtelxstream.in/rajnewstamil/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,SATHIYAM TV
-https://load.airtelxstream.in/sathiyamtv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,ISAIARUVI
-https://load.airtelxstream.in/isaiaruvi/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,DD1
-https://load.airtelxstream.in/dd1/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,DDPODHIGAI
-https://load.airtelxstream.in/ddpodhigai/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,FLOWERS TV
-https://load.airtelxstream.in/flowerstv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,KAIRALI WE
-https://load.airtelxstream.in/kairaliwe/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,KAIRALI TV
-https://load.airtelxstream.in/kairalitv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,MEDIAONE
-https://load.airtelxstream.in/mediaone/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,AMRITA TV
-https://load.airtelxstream.in/amritatv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,MATHRUBHUMI NEWS
-https://load.airtelxstream.in/mathrubhuminews/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,KAPPA TV
-https://load.airtelxstream.in/kappatv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,DD MALAYALAM
-https://load.airtelxstream.in/ddmalayalam/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,TV9 TELGU NEWS
-https://load.airtelxstream.in/tv9telugunews/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,NTV
-https://load.airtelxstream.in/ntv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,TV5 TELUGU
-https://load.airtelxstream.in/tv5telugu/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,V6 NEWS
-https://load.airtelxstream.in/v6news/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,RAJ NEWS TELUGU
-https://load.airtelxstream.in/rajnewstelugu/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,10 TV TELUGU NEWS
-https://load.airtelxstream.in/10tvtelugunews/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,SUVARNA NEWS
-https://load.airtelxstream.in/suvarnanews/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,ASIANET NEWS
-https://load.airtelxstream.in/asianetnews/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,NDTV GOODTIMES HINDI
-https://load.airtelxstream.in/ndtvgoodtimeshindi/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,NDTV PROFIT PRIME
-https://load.airtelxstream.in/ndtvprofitprime/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,ADITHYA TV
-https://load.airtelxstream.in/adithyatv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,KTV
-https://load.airtelxstream.in/ktv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,SURYA MUSIC
-https://load.airtelxstream.in/suryamusic/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,SUN NEWS
-https://load.airtelxstream.in/sunnews/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,SURYA TV
-https://load.airtelxstream.in/suryatv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,SUN MUSIC
-https://load.airtelxstream.in/sunmusic/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,SUN TV
-https://load.airtelxstream.in/suntv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,NDTV GOODTIMES TAMIL
-https://load.airtelxstream.in/ndtvgoodtimestamil/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,TIMESNOW
-https://load.airtelxstream.in/timesnow/smil:common.smil/playlist.m3u8?DVR
-
 #EXTINF:-1,0
 https://live.hungama.com/linear/artist-aloud/playlist.m3u8
-
-#EXTINF:-1,MAZHAVIL MANORAMA
-https://load.airtelxstream.in/mazhavilmanorama/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,MANORAMA NEWS
-https://load.airtelxstream.in/manoramanews/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,MAZHAVIL MANORAMA HD
-https://load.airtelxstream.in/mazhavilmanoramahd/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,FIRST INDIANEWS RAJASTHAN
-https://load.airtelxstream.in/firstindianewsrajasthan/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,SONY TEN1
-https://load.airtelxstream.in/sonyten1/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,SONY TEN 3 HD
-https://load.airtelxstream.in/sonyten3hd/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,SONY TEN 1 HD
-https://load.airtelxstream.in/sonyten1hd/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,SONY TEN 3
-https://load.airtelxstream.in/sonyten3/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,VICTERS
-https://load.airtelxstream.in/victers/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,THE Q U
-https://load.airtelxstream.in/theqyou/smil:common.smil/playlist.m3u8
-
-#EXTINF:-1,KALVI TV
-https://load.airtelxstream.in/kalvitv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,KNEWS
-https://load.airtelxstream.in/knews/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,NEWS J
-https://load.airtelxstream.in/newsj/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,B4U KADAK
-https://load.airtelxstream.in/moviehouseb4ukadak/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,A1 TV
-https://load.airtelxstream.in/a1tv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,TV9 BHARATVARSH
-https://load.airtelxstream.in/tv9bharatvarsh/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,JANTV
-https://load.airtelxstream.in/jantv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,NETWORK10
-https://load.airtelxstream.in/network10/smil:common.smil/playlist.m3u8?DVR
 
 #EXTINF:-1,2.Ekattor
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/11.m3u8?token=MBTMROProvider
@@ -2660,9 +1634,6 @@ http://nandansyst.com/hls/nandan.m3u8?token=MBTMROProvider
 #EXTINF:-1,61.Peace TV Urdu
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-MB/playlist.m3u8?token=MBTMROProvider
 
-#EXTINF:-1,62.Peace TV Bangla
-http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/chunklist.m3u8?token=MBTMROProvider
-
 #EXTINF:-1,63.Peace TV English
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8?token=MBTMROProvider
 
@@ -2692,12 +1663,6 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?toke
 
 #EXTINF:-1,85.BBC Earth
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8?token=MBTMROProvider
-
-#EXTINF:-1,89.Animax
-http://45.126.83.51/dr9445/h/h144/01.m3u8?token=MBTMROProvider
-
-#EXTINF:-1,91.AniPlus
-http://210.210.155.35/dr9445/h/h02/01.m3u8?token=MBTMROProvider
 
 #EXTINF:-1,92.EBS Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8?token=MBTMROProvider
@@ -2735,9 +1700,6 @@ http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/index.m3u8?token=MBTMROProvi
 #EXTINF:-1,99.Zee Cinema UK
 http://z5amshls.akamaized.net/cinemauk/tracks-v1a1/index.m3u8?token=MBTMROProvider
 
-#EXTINF:-1,100.Zee Bioskop
-http://210.210.155.35/qwr9ew/s/s32/01.m3u8?token=MBTMROProvider
-
 #EXTINF:-1,101.Zee Smile
 http://z5amshls.akamaized.net/smileusa/tracks-v1a1/index.m3u8?token=MBTMROProvider
 
@@ -2746,9 +1708,6 @@ https://z5amshls.akamaized.net/zanmolcnm/tracks-v2a1/index.m3u8?token=MBTMROProv
 
 #EXTINF:-1,103.Zee Cafe
 http://z5amshls.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8?token=MBTMROProvider
-
-#EXTINF:-1,106.Sony Max
-https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist.m3u8?token=MBTMROProvider
 
 #EXTINF:-1,107.Sony Max HD
 http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8?token=MBTMROProvider
@@ -2825,12 +1784,6 @@ http://ctgiptv.kitv.live:1935/live/test/test1/45.m3u8
 #EXTINF:-1,143.HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 
-#EXTINF:-1,146.KIX
-http://45.126.83.51/uq2663/h/h07/01.m3u8
-
-#EXTINF:-1,154.Sony Ten 3
-https://load.airtelxstream.in/sonyten3hd/smil:common.smil/chunklist.m3u8?token=MBTMROProvider
-
 #EXTINF:-1,156.Star Sports Select 2 HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts?token=MBTMROProvider
 
@@ -2852,9 +1805,6 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_
 #EXTINF:-1,167.Abu Dhabi Sports 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?token=MBTMROProvider
 
-#EXTINF:-1,169.Fight Sports
-http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8?token=MBTMROProvider
-
 #EXTINF:-1,171.Cinemax
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 
@@ -2866,9 +1816,6 @@ http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
 
 #EXTINF:-1,177.RU.TV
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
-
-#EXTINF:-1,178.Thrill
-http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 
 #EXTINF:-1,179.MTA English
 http://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8
@@ -2966,768 +1913,6 @@ http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b66
 #EXTINF:-1,230.Cine Series
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,Sun TV HD(Airtel)
-https://load.airtelxstream.in/suntvhd/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Zee Tamil(Airtel)
-https://load.airtelxstream.in/zeetamil/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Zee Tamil HD(Airtel)
-https://load.airtelxstream.in/zeetamilhd/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Discovery(Airtel)
-https://load.airtelxstream.in/discoverykidstamil/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,DTamil(Airtel)
-https://load.airtelxstream.in/discoverytamil/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Chutti TV(Airtel)
-https://load.airtelxstream.in/chuttitv/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Sony Yay Tamil(Airtel)
-https://load.airtelxstream.in/sonyyaytamil/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,KTV HD(Hotstar)
-https://load.airtelxstream.in/ktvhd/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Murasu(Hotstar)
-https://load.airtelxstream.in/murasu/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Raj Musix Tamil(Airtel)
-https://load.airtelxstream.in/rajmusixtamil/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Sun Life(Airtel)
-https://load.airtelxstream.in/sunlife/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Sun Music HD(Airtel)
-https://load.airtelxstream.in/sunmusichd/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,News18 Tamil Nadu(Airtel)
-https://load.airtelxstream.in/news18tamil/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Colors Tamil(Airtel)
-https://load.airtelxstream.in/colorstamil/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Angel TV HD(Airtel)
-https://load.airtelxstream.in/angeltv/smil:common.smil/playlist.m3u8
-
-#EXTINF:-1,Aseervatham TV(Airtel)
-https://load.airtelxstream.in/aaseervathamtv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Madha TV(Airtel)
-https://load.airtelxstream.in/madhatv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Nambikkai TV(Airtel)
-https://load.airtelxstream.in/nambikkaitv/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Sri Sankara(Airtel)
-https://load.airtelxstream.in/srisankara/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Colors Infinity(Airtel)
-https://load.airtelxstream.in/colorsinfinity/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Colors Infinity HD(Airtel)
-https://load.airtelxstream.in/colorsinfinityhd/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Comedy Central(Airtel)
-https://load.airtelxstream.in/comedycentral/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Comedy Central HD(Airtel)
-https://load.airtelxstream.in/comedycentralhd/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,TV5 Monde Asia(Airtel)
-https://load.airtelxstream.in/tv5mondeasia/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Animal Planet(Airtel)
-https://load.airtelxstream.in/animalplanet/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Animal Planet HD World(Airtel)
-https://load.airtelxstream.in/animalplanethdworld/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Discovery HD World(Airtel)
-https://load.airtelxstream.in/discoveryhd/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Discovery Science(Airtel)
-https://load.airtelxstream.in/discoveryscience/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Discovery Turbo(Airtel)
-https://load.airtelxstream.in/discoveryturbo/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,History TV18(Airtel)
-https://load.airtelxstream.in/historytv18/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,History TV18 HD(Airtel)
-https://load.airtelxstream.in/historytv18hd/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Sony BBC Earth HD English(Airtel)
-https://load.airtelxstream.in/sonybbcearthhdenglish/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Cartoon Network(Airtel)
-https://load.airtelxstream.in/cartoonnetwork/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Nick HD+(Airtel)
-https://load.airtelxstream.in/nickhdplus/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Nick Junior(Airtel)
-https://load.airtelxstream.in/nickjr/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Pogo(Airtel)
-https://load.airtelxstream.in/pogo/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Sonic(Airtel)
-https://load.airtelxstream.in/sonic/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,TLC(Airtel)
-https://load.airtelxstream.in/tlc/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,TLC English(Airtel)
-https://load.airtelxstream.in/tlcenglish/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,TLC HD World(Airtel)
-https://load.airtelxstream.in/tlchdworld/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,HBO(Airtel)
-https://load.airtelxstream.in/hbo/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,HBO HD(Airtel)
-https://load.airtelxstream.in/hbohd/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,SONY PIX HD(Airtel)
-https://load.airtelxstream.in/pixhd/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,SONY PIX SD(Airtel)
-https://load.airtelxstream.in/pix/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,WB(Airtel)
-https://load.airtelxstream.in/wb/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,CNBC TV18(Airtel)
-https://load.airtelxstream.in/cnbctv18/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,CNN(Airtel)
-https://load.airtelxstream.in/cnninternational/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,CNN News18(Airtel)
-https://load.airtelxstream.in/cnnnews18/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,DD India(Airtel)
-https://load.airtelxstream.in/ddindia/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,ET Now(Airtel)
-https://load.airtelxstream.in/etnow/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,God TV(Airtel)
-https://load.airtelxstream.in/godtv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Goodnews TV(Airtel)
-https://load.airtelxstream.in/goodnewstv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,EUROSPORT(Airtel)
-https://load.airtelxstream.in/dsport/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,SONY SIX(Airtel)
-https://load.airtelxstream.in/sonysix/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,SONY SIX HD(Airtel)
-https://load.airtelxstream.in/sonysixhd/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Sony Ten 2(Airtel)
-https://load.airtelxstream.in/sonyten2sd/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Sony Ten 2 HD(Airtel)
-https://load.airtelxstream.in/sonyten2hd/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Surya Comedy(Airtel)
-https://load.airtelxstream.in/suryacomedy/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Surya HD(Airtel)
-https://load.airtelxstream.in/suryahd/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Zee Keralam(Airtel)
-https://load.airtelxstream.in/zeekeralam/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Kochu TV(Airtel)
-https://load.airtelxstream.in/kochutv/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,News18 Kerala(Airtel)
-https://load.airtelxstream.in/news18kerala/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Goodness TV(Airtel)
-https://load.airtelxstream.in/goodnesstv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,& TV(Airtel)
-https://load.airtelxstream.in/andtv/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,& TV HD(Airtel)
-https://load.airtelxstream.in/tvhd/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,BIG Magic(Airtel)
-https://load.airtelxstream.in/bigmagic/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Colors(Airtel)
-https://load.airtelxstream.in/colors/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Colors HD(Airtel)
-https://load.airtelxstream.in/colorshd/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Colors Rishtey(Airtel)
-https://load.airtelxstream.in/colorsrishtey/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,DD Madhya Pradesh(Airtel)
-https://load.airtelxstream.in/ddmp/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Investigation Discovery(Airtel)
-https://load.airtelxstream.in/jeetprime/smil:common.smil/manifest.mpd?DVR
-
-#EXTINF:-1,Investigation Discovery HD(Airtel)
-https://load.airtelxstream.in/discoveryjeethd/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,SET(Airtel)
-https://load.airtelxstream.in/set/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,SET HD(Airtel)
-https://load.airtelxstream.in/sethd/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,SONY PAL(Airtel)
-https://load.airtelxstream.in/sonypal/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Sony SAB(Airtel)
-https://load.airtelxstream.in/sonysab/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Sony SAB HD(Airtel)
-https://load.airtelxstream.in/sabhd/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Zee Anmol(Airtel)
-https://load.airtelxstream.in/zeeanmol/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Zee TV(Airtel)
-https://load.airtelxstream.in/zeesd/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Zee TV HD(Airtel)
-https://load.airtelxstream.in/zeetvhd/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Zoom(Airtel)
-https://load.airtelxstream.in/zoom/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Animal Planet HD World(Airtel)
-https://load.airtelxstream.in/animalplanethdworldhindi/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Discovery(Airtel)
-https://load.airtelxstream.in/discoverychannel/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Discovery HD World Hindi(Airtel)
-https://load.airtelxstream.in/discoveryhdworldhindi/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Discovery Science Hindi(Airtel)
-https://load.airtelxstream.in/discoverysciencehindi/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,SONY BBC Earth(Airtel)
-https://load.airtelxstream.in/sonybbcearth/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,SONY BBC Earth HD(Airtel)
-https://load.airtelxstream.in/sonybbcearthhd/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Nick(Airtel)
-https://load.airtelxstream.in/nick/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,SONY YAY(Airtel)
-https://load.airtelxstream.in/sonyyay/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,TLC HD World(Airtel)
-https://load.airtelxstream.in/tlchdworldhi/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,& Pictures(Airtel)
-https://load.airtelxstream.in/andpictures/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,& Pictures HD(Airtel)
-https://load.airtelxstream.in/pictureshd/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Colors Cineplex(Airtel)
-https://load.airtelxstream.in/colorscineplex/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Colors Cineplex HD(Airtel)
-https://load.airtelxstream.in/colorscineplexhd/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,SONY MAX HD(Airtel)
-https://load.airtelxstream.in/sonymaxhd/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,WOW Cinema One(Airtel)
-https://load.airtelxstream.in/wowcinema/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Zee Action(Airtel)
-https://load.airtelxstream.in/zeeaction/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Zee Bollywood(Airtel)
-https://load.airtelxstream.in/zeebollywood/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Zee Cinema(Airtel)
-https://load.airtelxstream.in/zeecinema/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Zee Cinema HD(Airtel)
-https://load.airtelxstream.in/zeecinemahd/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,MTV(Airtel)
-https://load.airtelxstream.in/mtv/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,MTV Beats(Airtel)
-https://load.airtelxstream.in/mtvbeats/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Zing(Airtel)
-https://load.airtelxstream.in/zing/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,CNBC-Awaaz(Airtel)
-https://load.airtelxstream.in/cnbcawaaz/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,NEWS18 BIHAR/JHARKHAND(Airtel)
-https://load.airtelxstream.in/news18bihar/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,News18 India(Airtel)
-https://load.airtelxstream.in/news18india/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,NEWS18 MADHYA PRADESH/CHHATTISGARH(Airtel)
-https://load.airtelxstream.in/news18mp/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,NEWS18 PUNJAB/HARYANA/HIMACHAL PRADESH(Airtel)
-https://load.airtelxstream.in/news18punjab/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,NEWS18 RAJASTHAN(Airtel)
-https://load.airtelxstream.in/news18rajasthan/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,NEWS18 UTTAR PRADESH/UTTARAKHAND(Airtel)
-https://load.airtelxstream.in/news18up/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Arihant(Airtel)
-https://load.airtelxstream.in/arihant/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Divya TV(Airtel)
-https://load.airtelxstream.in/divyatv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Ishwar TV(Airtel)
-https://load.airtelxstream.in/ishwar/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Jinvani TV(Airtel)
-https://load.airtelxstream.in/jinvanitv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,MH One Shraddha(Airtel)
-https://load.airtelxstream.in/mhoneshraddha/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Paras Gold(Airtel)
-https://load.airtelxstream.in/parastv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Peace of Mind(Airtel)
-https://load.airtelxstream.in/peaceofmind/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Sanskar(Airtel)
-https://load.airtelxstream.in/sanskar/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Satsang(Airtel)
-https://load.airtelxstream.in/satsang/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Shubh TV(Airtel)
-https://load.airtelxstream.in/shubhtv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Shubhsandesh TV(Airtel)
-https://load.airtelxstream.in/shubhsandeshtv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Subharti TV(Airtel)
-https://load.airtelxstream.in/subharti/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Nipuna(Airtel)
-https://load.airtelxstream.in/nipuna/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Vidya(Airtel)
-https://load.airtelxstream.in/vidhya/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,DD Saptagiri(Airtel)
-https://load.airtelxstream.in/ddsaptagiri/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,DD Yadagiri(Airtel)
-https://load.airtelxstream.in/ddyadagiri/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,ETV HD(Airtel)
-https://load.airtelxstream.in/etvhd/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,ETV Telugu(Airtel)
-https://load.airtelxstream.in/etvtelugu/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Gemini Comedy(Airtel)
-https://load.airtelxstream.in/geminicomedy/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Gemini TV(Airtel)
-https://load.airtelxstream.in/geminitv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Gemini TV HD(Airtel)
-https://load.airtelxstream.in/geminitvhd/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Vissa TV(Airtel)
-https://load.airtelxstream.in/vissatv/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Zee Telugu(Airtel)
-https://load.airtelxstream.in/zeetelugu/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Zee Telugu HD(Airtel)
-https://load.airtelxstream.in/zeeteleguhd/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Discovery Channel Telugu(Airtel)
-https://load.airtelxstream.in/discoverychanneltelugu/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Kushi TV(Airtel)
-https://load.airtelxstream.in/kushitv/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,SONY YAY(Airtel)
-https://load.airtelxstream.in/sonyyaytelugu/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,ETV Abhiruchi(Airtel)
-https://load.airtelxstream.in/etvabhiruchi/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,ETV Life(Airtel)
-https://load.airtelxstream.in/etvlife/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,ETV Cinema(Hotstar)
-https://load.airtelxstream.in/etvcinema/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Gemini Movies(Hotstar)
-https://load.airtelxstream.in/geminimovies/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Gemini Movies HD(Hotstar)
-https://load.airtelxstream.in/geminimovieshd/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Zee Cinemalu(Hotstar)
-https://load.airtelxstream.in/zeecinemalu/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Zee Cinemalu HD(Hotstar)
-https://load.airtelxstream.in/zeecinemaluhd/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Gemini Life(Airtel)
-https://load.airtelxstream.in/geminilife/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Gemini Music HD(Airtel)
-https://load.airtelxstream.in/geminimusichd/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Raj Musix Telugu(Airtel)
-https://load.airtelxstream.in/rajmusixtelugu/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,ABN Telugu News(Airtel)
-https://load.airtelxstream.in/abntelugunews/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,ETV Andhra Pradesh(Airtel)
-https://load.airtelxstream.in/etvandhrapradesh/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,ETV Telangana(Airtel)
-https://load.airtelxstream.in/etvtelangana/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Sakshi TV(Airtel)
-https://load.airtelxstream.in/sakshitv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,T News(Airtel)
-https://load.airtelxstream.in/tnews/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Aradana TV(Airtel)
-https://load.airtelxstream.in/aradanatv/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Bhakti TV(Airtel)
-https://load.airtelxstream.in/bhaktitv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Subhavaartha(Airtel)
-https://load.airtelxstream.in/subhavaartha/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Airtel Customer Care 2(Airtel)
-https://load.airtelxstream.in/discoverychannelenglish/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Colors Kannada(Airtel)
-https://load.airtelxstream.in/colorskannada/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Colors Kannada HD(Airtel)
-https://load.airtelxstream.in/colorskannadahd/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Colors Super(Airtel)
-https://load.airtelxstream.in/colorssuper/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,DD Chandana(Airtel)
-https://load.airtelxstream.in/ddchandana/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Udaya Comedy(Airtel)
-https://load.airtelxstream.in/udayacomedy/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Udaya HD(Airtel)
-https://load.airtelxstream.in/udayahd/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Udaya TV(Airtel)
-https://load.airtelxstream.in/udayatv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Zee Kannada(Airtel)
-https://load.airtelxstream.in/zeekannada/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Zee Kannada HD(Airtel)
-https://load.airtelxstream.in/zeekannadahd/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Chintu TV(Airtel)
-https://load.airtelxstream.in/chintutv/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Colors Kannada Cinema(Airtel)
-https://load.airtelxstream.in/colorskannadacinema/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Public Movies(Airtel)
-https://load.airtelxstream.in/publicmovies/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Udaya Movies(Airtel)
-https://load.airtelxstream.in/udayamovies/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Raj Musix Kannada(Airtel)
-https://load.airtelxstream.in/rajmusixkannada/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Udaya Music(Airtel)
-https://load.airtelxstream.in/udayamusic/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,BTV(Airtel)
-https://load.airtelxstream.in/btvnews24x7/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Dighvijay News 24X7(Airtel)
-https://load.airtelxstream.in/dighvijaynews24x7/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,News18 Kannada(Airtel)
-https://load.airtelxstream.in/news18kannada/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Public TV(Airtel)
-https://load.airtelxstream.in/publictv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Raj News Kannada(Airtel)
-https://load.airtelxstream.in/rajnewskannada/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,TV9 Kannada(Airtel)
-https://load.airtelxstream.in/tv9kannada/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Anjan TV(Airtel)
-https://load.airtelxstream.in/anjantv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Big Ganga(Airtel)
-https://load.airtelxstream.in/bigganga/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Dishum(Airtel)
-https://load.airtelxstream.in/dishum/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Bhojpuri Cinema(Hotstar)
-https://load.airtelxstream.in/bhojpuricinema/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Dabangg TV(Hotstar)
-https://load.airtelxstream.in/dabanggtv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Sangeet Bhojpuri(Airtel)
-https://load.airtelxstream.in/sangeetbhojpuri/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Colors Gujarati(Airtel)
-https://load.airtelxstream.in/colorsgujarati/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,DD Girnar(Airtel)
-https://load.airtelxstream.in/ddgirnar/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Colors Gujarati Cinema(Airtel)
-https://load.airtelxstream.in/colorsgujaraticinema/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,ABP Asmita(Airtel)
-https://load.airtelxstream.in/abpasmita/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,CNBC Bajar(Airtel)
-https://load.airtelxstream.in/cnbcbajaar/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,News18 Gujarati(Airtel)
-https://load.airtelxstream.in/news18gujarati/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Sandesh News(Airtel)
-https://load.airtelxstream.in/sandeshnews/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,TV9 Gujarati(Airtel)
-https://load.airtelxstream.in/tv9gujarati/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,VTV Gujarati(Airtel)
-https://load.airtelxstream.in/vtvgujarati/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Zee 24 Kalak(Airtel)
-https://load.airtelxstream.in/zee24kalak/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Colors Bangla(Airtel)
-https://load.airtelxstream.in/colorsbangla/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Colors Bangla HD(Airtel)
-https://load.airtelxstream.in/colorsbanglahd/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,CTVN AKD Plus(Airtel)
-https://load.airtelxstream.in/ctvnakdplus/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,DD Bangla(Airtel)
-https://load.airtelxstream.in/ddbangla/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Ruposhi Bangla TV(Airtel)
-https://load.airtelxstream.in/ruposhibanglatv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Zee Bangla(Airtel)
-https://load.airtelxstream.in/zeebangla/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Zee Bangla HD(Airtel)
-https://load.airtelxstream.in/zeebanglahd/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Discovery Channel Bengali(Airtel)
-https://load.airtelxstream.in/discoverychannelbengali/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Sony AATH(Airtel)
-https://load.airtelxstream.in/sonyaath/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Zee Bangla Cinema(Airtel)
-https://load.airtelxstream.in/zeebanglacinema/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Dhoom Music(Airtel)
-https://load.airtelxstream.in/dhoommusic/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Sangeet Bangla(Airtel)
-https://load.airtelxstream.in/sangeetbangla/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,ABP Ananda(Airtel)
-https://load.airtelxstream.in/abpananda/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Calcutta News(Airtel)
-https://load.airtelxstream.in/calcuttanewscnnews/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Kolkata TV(Airtel)
-https://load.airtelxstream.in/kolkatatv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,News Time Bangla(Airtel)
-https://load.airtelxstream.in/newstimebangla/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,News18 Bangla(Airtel)
-https://load.airtelxstream.in/news18bangla/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Zee 24 Ghanta(Airtel)
-https://load.airtelxstream.in/zee24ghanta/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Colors Marathi(Airtel)
-https://load.airtelxstream.in/colorsmarathi/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Colors Marathi HD(Airtel)
-https://load.airtelxstream.in/colorsmarathihd/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,DD Sahyadri(Airtel)
-https://load.airtelxstream.in/ddsahyadri/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Sony Marathi(Airtel)
-https://load.airtelxstream.in/sonymarathi/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Zee Marathi(Airtel)
-https://load.airtelxstream.in/zeemarathi/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Zee Marathi HD(Airtel)
-https://load.airtelxstream.in/zeemarathihd/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Zee Yuva(Airtel)
-https://load.airtelxstream.in/zeeyuva/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Zee Talkies(Airtel)
-https://load.airtelxstream.in/zeetalkies/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Zee Talkies HD(Airtel)
-https://load.airtelxstream.in/zeetalkieshd/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Maiboli(Airtel)
-https://load.airtelxstream.in/maiboli/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,News18 Lokmat(Airtel)
-https://load.airtelxstream.in/news18lokmat/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Saam TV(Airtel)
-https://load.airtelxstream.in/saamtv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Colors Odia(Airtel)
-https://load.airtelxstream.in/colorsoriya/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,DD Oriya(Airtel)
-https://load.airtelxstream.in/ddoriya/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,MANJARI(Airtel)
-https://load.airtelxstream.in/manjari/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,MBC TV(Airtel)
-https://load.airtelxstream.in/mbctv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Zee Sarthak(Airtel)
-https://load.airtelxstream.in/zeesarthak/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Kalinga TV(Airtel)
-https://load.airtelxstream.in/kalingatv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Kanak News(Airtel)
-https://load.airtelxstream.in/kanaknews/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,News18 Odia(Airtel)
-https://load.airtelxstream.in/news18oriya/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Zee Odisha(Airtel)
-https://load.airtelxstream.in/zeeodisha/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,DD Punjabi(Airtel)
-https://load.airtelxstream.in/ddpunjabi/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Pitaara(Airtel)
-https://load.airtelxstream.in/pitaaratv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,9X Tashan(Airtel)
-https://load.airtelxstream.in/9xtashan/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Balle Balle(Airtel)
-https://load.airtelxstream.in/balleballe/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,MH1(Airtel)
-https://load.airtelxstream.in/mh1/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,ANB NEWS(Airtel)
-https://load.airtelxstream.in/anbnews/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Gulistan News(Airtel)
-https://load.airtelxstream.in/gulistannews/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Zee Punjab Haryana Himachal(Airtel)
-https://load.airtelxstream.in/zeepunjabharyanahimachal/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,DD Rajasthan(Airtel)
-https://load.airtelxstream.in/ddrajasthan/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Jonack(Airtel)
-https://load.airtelxstream.in/jonack/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Rang(Airtel)
-https://load.airtelxstream.in/rang/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,North East Live(Airtel)
-https://load.airtelxstream.in/northeastlive/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Ramdhenu(Airtel)
-https://load.airtelxstream.in/ramdhenu/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Assam Talks(Airtel)
-https://load.airtelxstream.in/assamtalks/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,DY365(Airtel)
-https://load.airtelxstream.in/dy365/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,News Live(Airtel)
-https://load.airtelxstream.in/newslive/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,NEWS18 ASSAM/NORTH-EAST(Airtel)
-https://load.airtelxstream.in/news18assam/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,DD Urdu(Airtel)
-https://load.airtelxstream.in/ddurdu/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,NEWS18 URDU(Airtel)
-https://load.airtelxstream.in/news18urdu/smil:common.smil/manifest.mpd
-
-#EXTINF:-1,Channel WIN(Airtel)
-https://load.airtelxstream.in/channelwin/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Tehzeeb TV(Airtel)
-https://load.airtelxstream.in/tehzeebtv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:-1,Zee Salaam(Airtel)
-https://load.airtelxstream.in/zeesalaam/smil:common.smil/manifest.mpd
-
 #EXTINF:-1,Sport TV 1
 http://78.129.228.178/iptv/W28DYVFET2WZ2Z/2525/index.m3u8
 
@@ -3757,9 +1942,6 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_1000.stream/chunklist.m3u8
 
 #EXTINF:-1,Bek Sports West
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-
-#EXTINF:-1,Nile Sport
-http://178.132.3.162:88/Nile_Sport/video.m3u8?token=test
 
 #EXTINF:-1,EUROSPORTS" 1
 http://5.135.92.133:52841/out/u/509_1.m3u8
@@ -3803,9 +1985,6 @@ http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
 #EXTINF:-1,TRUE SPORT HD 1
 https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
 
-#EXTINF:-1,TRUE SPORT HD 2
-https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
-
 #EXTINF:-1,TRUE SPORT HD 3
 https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
 
@@ -3836,9 +2015,6 @@ http://51.83.238.27:8888/175/mono.m3u8?token=80a7f5c
 #EXTINF:-1,ru sport tv
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 
-#EXTINF:-1,sony max
-https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist_b896000_sleng.m3u8
-
 #EXTINF:-1,SERI A ITALIA
 http://217.174.225.146/hls/ch004_720/index.m3u8
 
@@ -3868,9 +2044,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
 
 #EXTINF:-1,CCTV 5+
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
-
-#EXTINF:-1,100 AUTOMOTO.TV
-http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
 #EXTINF:-1,RTM SPORTS
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
@@ -3998,9 +2171,6 @@ https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1,169.Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
 
-#EXTINF:-1,Ruposhi Bangla [IN]
-http://103.205.133.21/hls/ruposhibangla.m3u8
-
 #EXTINF:-1,TBN 24 USA IPTV [BD]
 http://fingerme.dg21bd.com/TBN24/index.m3u8?@amarnettv.live
 
@@ -4105,15 +2275,6 @@ https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8?@
 
 #EXTINF:-1,MTA 1 Urdu
 https://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/index_3000_av-p.m3u8?@amarnettv.live
-
-#EXTINF:-1,Sony Ten 1
-https://load.airtelxstream.in/sonyten1/smil:common.smil/chunklist.m3u8
-
-#EXTINF:-1,Sony SIX
-https://load.airtelxstream.in/sonysix/smil:common.smil/chunklist.m3u8
-
-#EXTINF:-1,Sony SIX HD
-https://load.airtelxstream.in/sonysixhd/smil:common.smil/chunklist.m3u8
 
 #EXTINF:-1,Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?@amarnettv.live
@@ -4258,9 +2419,6 @@ https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
 
 #EXTINF:-1,Gaunda Punjab TV
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
-
-#EXTINF:-1,IBC Tamil
-https://ibctamil-live.ibctamil.com/transcode/ibctamil_std.m3u8
 
 #EXTINF:-1,India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
@@ -4538,9 +2696,6 @@ https://5a9fe19ea6821.streamlock.net:443/gctv/ngrp:livestream_all/playlist.m3u8
 #EXTINF:-1,Gurbani Healing
 http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8
 
-#EXTINF:-1,IBC Comedy
-https://ibccomedy-origin.ibctamil.com/transcode/ibccomedy_std.m3u8
-
 #EXTINF:-1,ITN
 http://cdncities.com/itndvr2/itndvr2/playlist.m3u8
 
@@ -4618,9 +2773,6 @@ http://vasanth.live.cdn.bitgravity.com/vasanth/secure/live/feed03?e=0&h=a9be0836
 
 #EXTINF:-1,Santhora Short Flim
 http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/chunklist_w342316663.m3u8
-
-#EXTINF:-1,IBC Kids
-https://ibckids-origin.ibctamil.com/transcode/ibckids_std.m3u8
 
 #EXTINF:-1,Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -4822,30 +2974,3 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_lq.m3u8
 
 #EXTINF:-1,RETRO MUSIC TV
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-
-#EXTINF:-1,SKY SPORTS ACTION HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/99699?checkedby:hlscat.com
-
-#EXTINF:-1,SKY SPORTS ARENA HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/99700?checkedby:hlscat.com
-
-#EXTINF:-1,SKY SPORTS F1 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/99698?checkedby:hlscat.com
-
-#EXTINF:-1,SKY SPORTS FOOTBALL HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/99695?checkedby:hlscat.com
-
-#EXTINF:-1,SKY SPORTS GOLF HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/99697?checkedby:hlscat.com
-
-#EXTINF:-1,SKY SPORTS MAIN EVENT HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/99693?checkedby:hlscat.com
-
-#EXTINF:-1,SKY SPORTS NEWS HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/99703?checkedby:hlscat.com
-
-#EXTINF:-1,SKY SPORTS PL HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/99694?checkedby:hlscat.com
-
-#EXTINF:-1,SKY SPORTS RACING FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30352?checkedby:hlscat.com
