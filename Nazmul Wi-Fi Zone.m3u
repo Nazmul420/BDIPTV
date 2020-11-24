@@ -1,8 +1,11 @@
 #EXTM3U
 #EXTINF:-1,Nazmul Wi-Fi ZoNe [Regular Update]
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/playlist.m3u8
+
+#EXTINF:-1,Nazmul Wi-Fi ZoNe 2 [Regular Update]
 http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
 
-#EXTINF:-1,Nazmul Wi-Fi ZoNe 1 [Regular Update]
+#EXTINF:-1,Nazmul Wi-Fi ZoNe 3 [Regular Update]
 http://mtv.sports.bdfun.club/live/my-stream-key/index.m3u8
 
 #EXTINF:-1,Makkah TV
@@ -26,6 +29,9 @@ http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-
 #EXTINF:-1,Star Jalsha
 http://163.172.29.246:8081/globalbd/starjalsha/chunks.m3u8?@asfaiptv
 
+#EXTINF:-1,Star Jalsha 1
+http://103.135.208.14:8082/36/index.m3u8?token=ef96fbf21eb2a26f8f553d4b96b2d6bef174ac5a-b08b9a7427c66f920fa0bc75032acae7-1606251322-1606240522
+
 #EXTINF:-1,Jalsha Movies
 http://163.172.29.246:8081/globalbd/starjalshamovies/chunks.m3u8?@asfaiptv
 
@@ -35,7 +41,10 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
 #EXTINF:-1,Star jalsha HD
 https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
 
-#EXTINF:-1,Zee Bangla HD
+#EXTINF:-1,Zee Bangla HD 1
+http://103.135.208.14:8082/34/index.m3u8?token=e3dcb62db125abd35b850fef06949af81ea1ddd3-6ce20bba287691909776e484f8e6c6b4-1606251315-1606240515
+
+#EXTINF:-1,Zee Bangla
 http://163.172.29.246:8081/globalbd/zeebangla/chunks.m3u8?@asfaiptv
 
 #EXTINF:-1,Zee Bangla HD
@@ -153,7 +162,7 @@ https://rhridoy136.shortcm.li/iqrabangla.m3u8
 http://128.199.212.160/alif/1080/index.m3u8?@asfaiptv
 
 #EXTINF:-1,Sony Aath
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.ts
+https://ccntv.anytv.live/sonyaath/index.m3u8
 
 #EXTINF:-1,Ananda TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
@@ -298,9 +307,6 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1,RTV Music
 https://tempe.jagobd.com:445/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtvmusic.stream/chunks.m3u8
-
-#EXTINF:-1,Bangladesh Vs Nepal Live
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/playlist.m3u8
 
 #EXTINF:-1,Channel 9
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
