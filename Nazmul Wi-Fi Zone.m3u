@@ -8,8 +8,11 @@ http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
 #EXTINF:-1,Nazmul Wi-Fi ZoNe 3 [Regular Update]
 http://mtv.sports.bdfun.club/live/my-stream-key/index.m3u8
 
-#EXTINF:-1,Makkah TV
-http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#EXTINF:-1,Makkah Live
+https://rhridoy136.shortcm.li/makkahlive.m3u8
+
+#EXTINF:-1,Medina Live
+https://rhridoy136.shortcm.li/madinalive.m3u8
 
 #EXTINF:-1,Makkah TV 1
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8?checkedby:hlscat.com
@@ -148,12 +151,6 @@ https://rhridoy136.shortcm.li/shomoytv.m3u8
 
 #EXTINF:-1,Al Jazeera
 https://rhridoy136.shortcm.li/aljazeera.m3u8
-
-#EXTINF:-1,Makkah Live
-https://rhridoy136.shortcm.li/makkahlive.m3u8
-
-#EXTINF:-1,Medina Live
-https://rhridoy136.shortcm.li/madinalive.m3u8
 
 #EXTINF:-1,Iqra Bangla TV
 https://rhridoy136.shortcm.li/iqrabangla.m3u8
