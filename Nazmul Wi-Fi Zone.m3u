@@ -195,9 +195,6 @@ http://dx3.gcdn.co/hindi-STARPLUSindia/index.m3u8
 http://dx3.gcdn.co/hindi-SONYHD/index.m3u8
 
 #EXTINF:-1,Sony TV
-http://103.205.133.19/hls/chs.m3u8
-
-#EXTINF:-1,Sony TV
 http://103.205.133.20/hls/chs.m3u8
 
 #EXTINF:-1,Sony TV
@@ -407,9 +404,6 @@ https://rhridoy136.shortcm.li/iqrabangla.m3u8
 #EXTINF:-1,Alif TV
 http://128.199.212.160/alif/1080/index.m3u8?@asfaiptv
 
-#EXTINF:-1,Sony Aath
-https://ccntv.anytv.live/sonyaath/index.m3u8
-
 #EXTINF:-1,Ananda TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 
@@ -593,9 +587,6 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1,Bangla Time
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/timetvkolkata.stream/chunks.m3u8
 
-#EXTINF:-1,Sony Max Hd (Backup)
-http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
-
 #EXTINF:-1,Star Gold HD (Backup)
 http://dx3.gcdn.co/hindi-STARGOLD/index.m3u8
 
@@ -616,12 +607,6 @@ http://dx3.gcdn.co/hindi-COLORSCINEPLEXHD/index.m3u8
 
 #EXTINF:-1,Manoranjan Tv
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
-
-#EXTINF:-1,Mtv
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/75.ts
-
-#EXTINF:-1,Star Gold Select HD (Backup)
-http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8
 
 #EXTINF:-1,Utv Action
 https://dx3.gcdn.co/hindi-UTVACTION/tracks-v1a1/mono.m3u8
@@ -644,9 +629,6 @@ https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8
 #EXTINF:-1,BBO Classic
 https://yuppcatchup.akamaized.net/preview/bboclassic/2500.m3u8
 
-#EXTINF:-1,Bflix Movi
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-
 #EXTINF:-1,Btv Kadak
 https://cdnr.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvkadak.stream/live-orgin/btvkadak.stream/chunks.m3u8
 
@@ -658,12 +640,6 @@ http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/
 
 #EXTINF:-1,WB
 https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
-
-#EXTINF:-1,Andflix SD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/40.ts
-
-#EXTINF:-1,MN+ HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/38.ts
 
 #EXTINF:-1,Vip premiere HD
 http://live-ng-01.more.tv/hls/ViP_Premiere_HD/index_1.m3u8
@@ -706,9 +682,6 @@ http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 
 #EXTINF:-1,Manoranjan Movies
 http://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
-
-#EXTINF:-1,Manoranjan Movies
-https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 
 #EXTINF:-1,9xM
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
@@ -902,9 +875,6 @@ http://dx3.gcdn.co/hindi-SONYSABHD/index.m3u8?@asfaiptv
 #EXTINF:-1,Star Life
 http://ms-azure-video.gslb.startimestv.com/live/STAR_LIFE_1034_500_480x360_277468/playlist.m3u8
 
-#EXTINF:-1,Star Plus India
-http://208.115.215.42/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1,Star Plus UK
 http://208.115.215.42/Star_Plus_HD_UK/tracks-v1a1/mono.m3u8
 
@@ -1025,9 +995,6 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?@asfaiptv
 #EXTINF:-1,Fox HD
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8?@asfaiptv
 
-#EXTINF:-1,History TV 18
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/86.ts
-
 #EXTINF:-1,History TV
 https://ch.iptvmate.net/5e9350258beb894140335ff6.m3u8?@asfaiptv
 
@@ -1097,9 +1064,6 @@ http://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?@asfai
 #EXTINF:-1,Rotana Kids
 http://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8?@asfaiptv
 
-#EXTINF:-1,Sony yay
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/66.ts
-
 #EXTINF:-1,Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?@asfaiptv
 
@@ -1132,12 +1096,6 @@ http://dx3.gcdn.co/STARSPORTSHD1/index.m3u8?@asfaiptv
 
 #EXTINF:-1,Star Sports 2
 http://dx3.gcdn.co/STARSPORTSHD2/index.m3u8?@asfaiptv
-
-#EXTINF:-1,Star select 1
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
-
-#EXTINF:-1,Star select 2
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
 
 #EXTINF:-1,Sony Ten 2
 http://dx3.gcdn.co/TEN2HD/index.m3u8?@asfaiptv
@@ -1442,9 +1400,6 @@ https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8?@
 #EXTINF:-1,FOX HD
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist.m3u8?@asfaiptv
 
-#EXTINF:-1,HBO
-http://ctgiptv.kitv.live:1935/live/test/test1/45.ts
-
 #EXTINF:-1,HBO HD
 http://136.243.177.164/HBO/playlist.m3u8?@asfaiptv
 
@@ -1592,9 +1547,6 @@ https://stream.arylive.com/QtvLive/tracks-v1a1/mono.m3u8?@asfaiptv
 #EXTINF:-1,MTA 1 Urdu
 https://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/index_3000_av-p.m3u8?@asfaiptv
 
-#EXTINF:-1,Dabang TV
-http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
-
 #EXTINF:-1,SHEMAROO CLASSIC
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
 
@@ -1603,9 +1555,6 @@ https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunk
 
 #EXTINF:-1,BOLLYWOOD HD
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
-
-#EXTINF:-1,BOLLYWOOD CLASSIC
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 
 #EXTINF:-1,T Sports BD
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
@@ -1618,9 +1567,6 @@ http://dx3.gcdn.co/STARSPORTSHD1/index.m3u8
 
 #EXTINF:-1,Star Sports 1
 https://ccntv.anytv.live/starsp1/index.m3u8
-
-#EXTINF:-1,Star Sports 1 Hindi
-http://dx3.gcdn.co/STARSPORTS3/index.m3u8?@asfaiptv
 
 #EXTINF:-1,Star Sports 2 HD
 http://dx3.gcdn.co/STARSPORTSHD2/index.m3u8
@@ -1643,9 +1589,6 @@ http://dx3.gcdn.co/TEN3HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Six HD
 http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,D Sports
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/54.ts
-
 #EXTINF:-1,DD Sports
 http://103.199.161.254:80/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 
@@ -1660,9 +1603,6 @@ https://streams.simpaisa.com:8443/pitvlive3/ptvsports.smil/chunklist.m3u8
 
 #EXTINF:-1,Geo Super HD
 http://208.115.215.42/Geo_Super_HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Geo Super HD
-http://dx3.gcdn.co/GEOSUPER/index.m3u8
 
 #EXTINF:-1,Ten Sports PK
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
@@ -1774,9 +1714,6 @@ http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/ind
 
 #EXTINF:-1,9xM
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
-
-#EXTINF:-1,9X Jalwa
-https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 
 #EXTINF:-1,NDTV 24/7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
