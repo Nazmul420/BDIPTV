@@ -8,16 +8,16 @@
               
 
 
-#EXTINF:-1,Nazmul Wi-Fi ZoNe [Regular Update]
+#EXTINF:-1 group-title="DigitalTV"tvc-logo="",Nazmul Wi-Fi ZoNe [Regular Update]
 http://113.212.111.246:8080/hls/col2.m3u8
 
-#EXTINF:-1,Nazmul Wi-Fi ZoNe 1 [Regular Update]
+#EXTINF:-1 group-title="DigitalTV"tvc-logo="",Nazmul Wi-Fi ZoNe 1 [Regular Update]
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/playlist.m3u8
 
-#EXTINF:-1,Nazmul Wi-Fi ZoNe 2 [Regular Update]
+#EXTINF:-1 group-title="DigitalTV"tvc-logo="",Nazmul Wi-Fi ZoNe 2 [Regular Update]
 http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
 
-#EXTINF:-1,Nazmul Wi-Fi ZoNe 3 [Regular Update]
+#EXTINF:-1 group-title="DigitalTV"tvc-logo="",Nazmul Wi-Fi ZoNe 3 [Regular Update]
 http://mtv.sports.bdfun.club/live/my-stream-key/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thefinancialexpress.com.bd/uploads/1562054384.jpg" group-title="Bangladesh",BTV (1)
