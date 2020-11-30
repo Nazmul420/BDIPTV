@@ -152,27 +152,25 @@ http://103.205.133.20/hls/sangeetbangla.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",9xM (2)
 http://103.205.133.20/hls/9xm.m3u8
 
-
-
-#EXTINF:-1,Makkah Live
+#EXTINF:0 tvg-logo="http://site.com/logo_name.png",Makkah Live
 https://rhridoy136.shortcm.li/makkahlive.m3u8
 
-#EXTINF:-1,Medina Live
+#EXTINF:0 tvg-logo="http://site.com/logo_name.png",Medina Live
 https://rhridoy136.shortcm.li/madinalive.m3u8
 
-#EXTINF:-1,BTV National
+#EXTINF:0 tvg-logo="http://site.com/logo_name.png",BTV National
 http://103.205.133.20/hls/btv.m3u8
 
-#EXTINF:-1,BTV National
+#EXTINF:0 tvg-logo="http://site.com/logo_name.png",BTV National
 http://163.172.29.246:8081/globalbd/btv/chunks.m3u8
 
-#EXTINF:-1,BTV World
+#EXTINF:0 tvg-logo="http://site.com/logo_name.png",BTV World
 http://103.205.133.20/hls/btvworld.m3u8
 
-#EXTINF:-1,ATN Bangla
+#EXTINF:0 tvg-logo="http://site.com/logo_name.png",ATN Bangla
 http://103.205.133.20/hls/atnbangla.m3u8
 
-#EXTINF:-1,Channel I HD
+#EXTINF:0 tvg-logo="http://site.com/logo_name.png",Channel I HD
 http://103.205.133.20/hls/ichannel.m3u8
 
 #EXTINF:-1,Ekushey TV
