@@ -1,4 +1,13 @@
 #EXTM3U
+
+
+              **NAZMUL wIFI zONE**
+              
+              
+              
+              
+
+
 #EXTINF:-1,Nazmul Wi-Fi ZoNe [Regular Update]
 http://113.212.111.246:8080/hls/col2.m3u8
 
@@ -10,6 +19,140 @@ http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
 
 #EXTINF:-1,Nazmul Wi-Fi ZoNe 3 [Regular Update]
 http://mtv.sports.bdfun.club/live/my-stream-key/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thefinancialexpress.com.bd/uploads/1562054384.jpg" group-title="Bangladesh",BTV (1)
+http://103.205.133.20/hls/btv.m3u8?Live-TV™
+
+#EXTINF:-1 tvg-logo="https://www.jolshabd.com/public/channel_logo/1588439806.jpg" group-title="Bangladesh",BTV WORLD (2)
+http://103.205.133.20/hls/btvworld.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.daily-sun.com/assets/news_images/2020/07/15/thumbnails/Dailysun-15-07-2020-30.gif" group-title="Bangladesh",ATN BANGLA (1)
+http://103.205.133.20/hls/atnbangla.m3u8?Live-TV™
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="Bangladesh",CHANNEL I HD (2)
+http://103.205.133.20/hls/ichannel.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJx7Unvg9EAGQuSxRvw8XjCSAszWgvGJSDsiYMzCRA=s900-c-k-c0x00ffffff-no-rj" group-title="Bangladesh",EKUSHEY TV (5)
+http://103.205.133.20/hls/ekushey.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangladesh",NTV (2)
+http://103.205.133.20/hls/ntv.m3u8
+
+#EXTINF:-1 tvg-logo="https://meghnatv.com/source/TV/rtv_bd.png" group-title="Bangladesh",RTV HD (3)
+http://103.205.133.20/hls/rtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/54/71/a9/5471a9eae3b9884242e74e0a33a04445.png" group-title="Bangladesh",BANGLA VISION (1)
+http://103.205.133.20/hls/banglavision.m3u8?Live-TV™
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/d9/d1/b2d9d1a4dd594c8f0bedfaf9f6a95b2c.jpg" group-title="Bangladesh",DESH TV (3)
+http://103.205.133.20/hls/deshtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/05/3e/25/053e25d79b21f79bce01f6514457325f.png" group-title="Bangladesh",MY TV HD (1)
+http://103.205.133.20/hls/mytv.m3u8?Live-TV™
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Mohona_Logo.JPG" group-title="Bangladesh",MOHONA TV (3)
+http://103.205.133.20/hls/mohonatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJya3Itl56_Eny_qUJyNvZ5HhKaLuYZMVmTeYEl5Dg=s900-c-k-c0x00ffffff-no-rj" group-title="Bangladesh",SA TV HD (4)
+http://103.205.133.20/hls/satv.m3u8
+
+#EXTINF:-1 tvg-logo="https://tbsnews.net/sites/default/files/styles/big_3/public/images/2020/04/17/deepto_tv_logo.jpg?itok=UV9LPjcP" group-title="Bangladesh",DEEPTO TV HD (1)
+http://103.205.133.20/hls/deeptotv.m3u8
+
+#EXTINF:-1 tvg-logo="https://banglatv.tv/wp-content/uploads/2018/10/bangla-tv-logo.png" group-title="Bangladesh",BANGLA TV HD (3)
+http://103.205.133.20/hls/banglatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSmHCjkpW8shE2O9bd61f4RgIITVyhcnvyqcg&usqp=CAU" group-title="Bangladesh",NAGORIK TV HD (2)
+http://103.205.133.20/hls/nagorik.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="Bangladesh",ATN NEWS (3)
+http://103.205.133.20/hls/atnnews.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png" group-title="Bangladesh",INDEPENDENT TV (3)
+http://103.205.133.20/hls/independent.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png" group-title="Bangladesh",CHANNEL 24 (1)
+http://103.205.133.20/hls/channel24.m3u8?Live-TV™
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangladesh",EKATTOR TV HD (4)
+http://103.205.133.20/hls/ekatoortv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/67/c9/5a67c9024fd15ef0d42422f76500bd41.jpg" group-title="Bangladesh",JAMUNA TV (3)
+http://103.205.133.20/hls/jamunatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Z644RVrdngp.png" group-title="Bangladesh",NEWS 24 HD (3)
+http://103.205.133.20/hls/news24.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="Bangladesh",DBC NEWS HD (3)
+http://103.205.133.20/hls/dbcnews.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pngio.com/star-jalsha-logopedia-fandom-star-jalsha-png-600_700.png" group-title="IND BAN",Star Jalsha (1)
+http://103.205.133.20/hls/chsj.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pngio.com/star-jalsha-logopedia-fandom-star-jalsha-png-600_700.png" group-title="IND BAN",Star Jalsha (3)
+https://ccntv.anytv.live/starjalsha/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-jalsha-hd-logo-300x300.jpg" group-title="IND BAN",Star Jalsha HD (1)
+http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/27.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="IND BAN",Zee Bangla (1)
+http://103.205.133.20/hls/zeebangla.m3u8?Live-TV™
+
+#EXTINF:-1 tvg-logo="https://kccl.tv/sites/default/files/Zee_Bangla_HD_Logo.jpg" group-title="IND BAN",Zee Bangla HD (1)
+http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/78/785c267a241ed342c2293a083cdb58e8.jpeg" group-title="IND HINDI",Star Plus HD (1)
+http://103.205.133.20/hls/chsp.m3u8?Live-TV™
+
+#EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/colors-bangla.png" group-title="IND BAN",Colors Bangla (1)
+http://103.205.133.20/hls/etvbangla.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/e0/7b/b2e07b1848baad0cea0c95b879f8d9b9.jpg" group-title="IND HINDI",COLORS (3)
+http://103.205.133.20/hls/chc.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="IND HINDI",Colors HD (1)
+http://103.205.133.20/hls/chc.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="IND BAN",Zee Bangla (1)
+http://103.205.133.20/hls/zeebangla.m3u8?Live-TV™
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/d/d0/Zee_TV-2018.png/revision/latest?cb=20200517043616" group-title="IND HINDI",Zee TV (2)
+http://103.205.133.20/hls/zeetv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/532-5320038_zee-cinema.png" group-title="IND HINDI",Zee Cinema HD (2)
+http://103.205.133.20/hls/zeecinema.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2018/09/29/Sony-Aath.jpg" group-title="IND BAN",Sony Aath (1)
+http://103.205.133.20/hls/sony8.m3u8?Live-TV™
+
+#EXTINF:-1 tvg-logo="https://leadsdubai.com/wp-content/uploads/Sony-TV-Ads.jpg" group-title="IND HINDI",Sony Intertenment (1)
+http://103.205.133.20/hls/chs.m3u8?Live-TV™
+
+#EXTINF:-1 tvg-logo="https://img2.pngio.com/sony-ten-1-logopedia-fandom-sony-ten-2-png-650_390.jpg" group-title="Sports",Sony Ten 1 HD (4)
+http://103.205.133.20/hls/ten1.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/wdtPuJQ0dFLB4jOSWoT-wtuJnO0A9tfe45LUucvzPHoN1IxtLjqAdqkZqBpqpEmwhJ3K5bQM58GYJN0v0NVQui_S9bYevHk8RodW0Q" group-title="Sports",Sony Ten 2 HD (3)
+http://103.205.133.20/hls/ten2.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pngio.com/sony-ten-3-live-streaming-watch-online-sony-ten-png-810_456.png" group-title="Sports",Sony Ten 3 HD (3)
+http://103.205.133.20/hls/ten3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/technosports.co.in/wp-content/uploads/2020/10/timthumb.jpg?fit=620%2C350&ssl=1" group-title="Sports",Star Sports 1 Hindi (1)
+http://103.205.133.20/hls/chss1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports",Star Sports 2 (2)
+http://103.205.133.20/hls/chss2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Music",Gaan Bangla (1)
+http://103.205.133.20/hls/gaanbangla.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="Music",Sangeet Bangla (2)
+http://103.205.133.20/hls/sangeetbangla.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Music",9xM (2)
+http://103.205.133.20/hls/9xm.m3u8
+
+
 
 #EXTINF:-1,Makkah Live
 https://rhridoy136.shortcm.li/makkahlive.m3u8
