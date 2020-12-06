@@ -11,14 +11,6 @@ http://mtv.sports.bdfun.club/live/my-stream-key/index.m3u8
 https://rhridoy136.shortcm.li/makkahlive.m3u8
 #EXTINF:0 tvg-name="Medina Live" tvg-logo="https://www.vocfm.co.za/wp-content/uploads/2016/08/Madina_logo_grey.png" tvg-ID="(no EPG)" group-title="Nazmul wiFi ZONE",Medina Live
 https://rhridoy136.shortcm.li/madinalive.m3u8
-#EXTINF:0 tvg-name="Bangabondhu T20(Backup 3)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/2020%E2%80%9321_Bangabandhu_T20_Cup.png" tvg-ID="(no EPG)" group-title="Nazmul wiFi ZONE",Bangabondhu T20(Backup 3)
-https://rhridoy136.shortcm.li/bangabondhut20backup3.m3u8
-#EXTINF:0 tvg-name="Bangabondhu T20(Backup 4)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/2020%E2%80%9321_Bangabandhu_T20_Cup.png" tvg-ID="(no EPG)" group-title="Nazmul wiFi ZONE",Bangabondhu T20(Backup 4)
-https://rhridoy136.shortcm.li/bangabondhut20backup4.m3u8
-#EXTINF:0 tvg-name="Bangabondhu T20(Backup 6)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/2020%E2%80%9321_Bangabandhu_T20_Cup.png" tvg-ID="(no EPG)" group-title="Nazmul wiFi ZONE",Bangabondhu T20(Backup 6)
-https://rhridoy136.shortcm.li/bangabondhut20backup6.m3u8
-#EXTINF:0 tvg-name="Bangabondhu T20(Backup 8)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/2020%E2%80%9321_Bangabandhu_T20_Cup.png" tvg-ID="(no EPG)" group-title="Nazmul wiFi ZONE",Bangabondhu T20(Backup 8)
-https://rhridoy136.shortcm.li/bangabondhut20backup8.m3u8
 #EXTINF:0 tvg-name="Asian TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" tvg-ID="(no EPG)" group-title="Nazmul wiFi ZONE",Asian TV
 https://rhridoy136.shortcm.li/asiantv.m3u8
 #EXTINF:0 tvg-name="ATN Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" tvg-ID="(no EPG)" group-title="Nazmul wiFi ZONE",ATN Bangla
@@ -58,7 +50,7 @@ https://rhridoy136.shortcm.li/ekattortv.m3u8
 #EXTINF:0 tvg-name="Ekushey TV" tvg-logo="https://i.pinimg.com/originals/54/5c/48/545c484739183de76611413e5fc2a8ea.jpg" tvg-ID="(no EPG)" group-title="Nazmul wiFi ZONE",Ekushey TV
 https://rhridoy136.shortcm.li/ekusheytv.m3u8
 #EXTINF:0 tvg-name="Gaan Bangla" tvg-logo="Logo N/A" tvg-ID="(no EPG)" group-title="Nazmul wiFi ZONE",Gaan Bangla
-http://103.205.133.20/hls/gaanbangla.m3u8
+https://rhridoy136.shortcm.li/gaanbangla.m3u8
 #EXTINF:0 tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" tvg-ID="(no EPG)" group-title="Nazmul wiFi ZONE",GTV
 https://rhridoy136.shortcm.li/gazitv.m3u8
 #EXTINF:0 tvg-name="Independent" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/220px-Independent_Television_Logo.svg.png" tvg-ID="(no EPG)" group-title="Nazmul wiFi ZONE",Independent
@@ -129,7 +121,7 @@ http://103.205.133.21/hls/nagorik.m3u8?token=soheliptv01826655778
 http://103.205.133.21/hls/mohonatv.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-name="19.JAMUNA TV" tvg-logo="Logo N/A" tvg-ID="(no EPG)" group-title="Nazmul wiFi ZONE",19.JAMUNA TV
 http://103.205.133.21/hls/jamunatv.m3u8?token=soheliptv01826655778
-#EXTINF:0 tvg-name="01826655778" tvg-logo="Logo N/A" tvg-ID="(no EPG)" group-title="Nazmul wiFi ZONE",01826655778
+#EXTINF:0 tvg-name="BTV" tvg-logo="Logo N/A" tvg-ID="(no EPG)" group-title="Nazmul wiFi ZONE",BTV
 http://103.205.133.21/hls/btv.m3u8
 #EXTINF:0 tvg-name="65.Ruposhi Bangla" tvg-logo="Logo N/A" tvg-ID="(no EPG)" group-title="Nazmul wiFi ZONE",65.Ruposhi Bangla
 http://103.205.133.21/hls/ruposhibangla.m3u8?token=soheliptv01826655778
