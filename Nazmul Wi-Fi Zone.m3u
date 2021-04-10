@@ -77,9 +77,6 @@ http://103.205.133.21/hls/satv.m3u8
 #EXTINF:-1,30.Shomoy TV
 https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 
-#EXTINF:-1,Server2------------------------------------------------------------------------
-http://pn.tvott.info:80/477823265351104/477823265351104/83793
-
 #EXTINF:-1,31.Agami TV
 http://str24.l9574.com/510.stream/index.m3u8
 
@@ -94,9 +91,6 @@ http://str24.l9574.com/515.stream/index.m3u8
 
 #EXTINF:-1,32.BD Live TV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/biswabanglatv.stream/chunks.m3u8
-
-#EXTINF:-1,33.Bongo TV
-http://pn.tvott.info:80/477823265351104/477823265351104/83795
 
 #EXTINF:-1,34.Can Bangla TV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/chunks.m3u8
@@ -124,9 +118,6 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1,38.Falguni TV
 https://atv-hls.telelivebd.com:443/atv/atv.m3u8
-
-#EXTINF:-1,38.Fan Fest TV
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/funfest.stream/chunks.m3u8
 
 #EXTINF:-1,38.Hernet TV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iontvuk.stream/chunks.m3u8
@@ -176,26 +167,14 @@ http://str24.l9574.com/518.stream/index.m3u8
 #EXTINF:-1,51.Time TV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/chunks.m3u8
 
-#EXTINF:-1,51.US Bangla
-http://str24.l9574.com/520.stream/index.m3u8
-
 #EXTINF:-1,51.Varendra TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
-
-#EXTINF:-1,53.Youth Bangla TV
-https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/youthbanglatv.stream/chunks.m3u8
 
 #EXTINF:-1,54.52 TV
 http://str24.l9574.com/503.stream/index.m3u8
 
 #EXTINF:-1,54.71 Bangla TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/71bangla.stream/chunks.m3u8
-
-#EXTINF:-1,55.DD Bangla
-http://pn.tvott.info:80/477823265351104/477823265351104/83827
-
-#EXTINF:-1,56.News Time Bangla
-https://itvorigin.multitvsolution.com/idvo/orangetv.m3u8
 
 #EXTINF:-1,56.Enter 10 Bangla
 http://itvorigin.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
@@ -224,47 +203,17 @@ https://cdn.smartstream.video/smartstream-us/rplus/rplus/playlist.m3u8
 #EXTINF:-1,60.Express News
 http://streamcp.logosys.cloud:1935/expressnews/expressnews/chunklist_w877989687.m3u8
 
-#EXTINF:-1,61.Discovery
-http://84.22.33.210:8000/DiscoveryCH/index.m3u8
-
-#EXTINF:-1,62.Discovery Bangla
-https://itvorigin.multitvsolution.com:443/idvo/discoveryhindi_540p/index.m3u8
-
-#EXTINF:-1,64.Discovery Tamil
-https://itvorigin.multitvsolution.com/idvo/discoverytamil_540p/index.m3u8
-
-#EXTINF:-1,65.Discovery HD
-https://itvorigin.multitvsolution.com/idvo/discoveryhd.m3u8
-
 #EXTINF:-1,66.Discovery HD Russia
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8?token=soheliptv01826655778
 
 #EXTINF:-1,67.Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8?token=soheliptv01826655778
 
-#EXTINF:-1,68.Discovery Science Hindi
-https://itvorigin.multitvsolution.com/idvo/discoversciencehindi.m3u8
-
-#EXTINF:-1,69.Discovery Science English
-https://itvorigin.multitvsolution.com/idvo/discoverscienceeng.m3u8
-
-#EXTINF:-1,70.Discovery Turbo
-https://itvorigin.multitvsolution.com:443/idvo/turboeng_540p/index.m3u8
-
-#EXTINF:-1,71.Animal Planet
-https://itvorigin.multitvsolution.com/idvo/aphdhindi_360p/index.m3u8
-
-#EXTINF:-1,71.Animal Planet HD
-https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8
-
 #EXTINF:-1,71.Animal Planet Spanish
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1,71.Nat Geo
 http://51.195.44.53:8081/tv/national-geographic/chunks.m3u8
-
-#EXTINF:-1,71.Nat Geo UAE
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
 #EXTINF:-1,71.National Geographic Wild HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
@@ -277,9 +226,6 @@ https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 
 #EXTINF:-1,75.Outdoor HD
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b450000.m3u8
-
-#EXTINF:-1,75.Travel Channel
-https://itvorigin.multitvsolution.com/idvo/tlchdhindi.m3u8
 
 #EXTINF:-1,75.TLC HD
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
@@ -305,9 +251,6 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1,76.Mr Bean Show
 https://www.dropbox.com/s/86zww54vybbqipw/Mr.%20Bean.mp4?raw=1
 
-#EXTINF:-1,77.Discovery Kids
-https://itvorigin.multitvsolution.com/idvo/discoverykidshindi.m3u8
-
 #EXTINF:-1,78.Animax
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8?token=soheliptv01826655778
 
@@ -322,15 +265,6 @@ https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8?
 
 #EXTINF:-1,84.Baby First
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8?token=soheliptv01826655778
-
-#EXTINF:-1,86.Cartoon Network HD+
-http://136.243.177.164/CARTOONNETWORK/playlist.m3u8?token=soheliptv01826655778
-
-#EXTINF:-1,86.Nick Jr.
-http://136.243.177.164/NICKELODEON/playlist.m3u8?token=soheliptv01826655778
-
-#EXTINF:-1,91.Zee Bangla HD
-http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
 
 #EXTINF:-1,91.Zee Bangla HD [2]
 http://cv.khushitv.xyz/channels.php?c=zeebanglahd&e=.m3u8
@@ -440,21 +374,6 @@ https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in.m3u8?token=soheliptv01826
 #EXTINF:-1,134.Public Music
 http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8?token=soheliptv01826655778
 
-#EXTINF:-1,135.Kadak Hits
-https://live.hungama.com/linear/kadak-hits/playlist.m3u8?token=soheliptv01826655778
-
-#EXTINF:-1,136.Dil Se
-https://live.hungama.com/linear/dil-se/playlist.m3u8?token=soheliptv01826655778
-
-#EXTINF:-1,137.Pop Pataakha
-https://live.hungama.com/linear/pop-pataka/playlist.m3u8?token=soheliptv01826655778
-
-#EXTINF:-1,138.Bhojpuri Hungama
-https://live.hungama.com/linear/dhamaal/playlist.m3u8?token=soheliptv01826655778
-
-#EXTINF:-1,138.Bol Hadippa
-https://live.hungama.com/linear/bol-hadippa/playlist.m3u8?token=soheliptv01826655778
-
 #EXTINF:-1,139.MH 1
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8?token=soheliptv01826655778
 
@@ -502,12 +421,6 @@ http://103.205.133.21/hls/sonysix.m3u8
 
 #EXTINF:-1,162.FC Bayern TV Live
 http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8?token=soheliptv01826655778
-
-#EXTINF:-1,163.BT Sports 2
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-
-#EXTINF:-1,166.Abu Dhabi Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 
 #EXTINF:-1,167.Dubai Sports 1
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1
@@ -589,9 +502,6 @@ https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8?
 
 #EXTINF:-1,196.MTA 1 Urdu
 https://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/index_3000_av-p.m3u8
-
-#EXTINF:-1,198.ID Fashion
-https://sc.id-tv.kz/IDFashion_38_39.m3u8
 
 #EXTINF:-1,199.Britcom
 https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
